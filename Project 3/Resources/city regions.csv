@@ -1,0 +1,371 @@
+region_id,region_type,city,state,state_region,county
+10215,city,Aurora,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+41587,city,Waukegan,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+44597,city,Cicero,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+41460,city,Valparaiso,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+50764,city,Arlington Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+17761,city,Des Plaines,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+18025,city,Evanston,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+33889,city,Schaumburg,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+45401,city,Gary,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+10484,city,Bolingbrook,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+26362,city,Palatine,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+33256,city,Orland Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+31125,city,Crown Point,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+20514,city,Skokie,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+24420,city,Downers Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+6267,city,Oak Lawn,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+9969,city,Tinley Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+15894,city,Wheaton,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+39899,city,Mount Prospect,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+38718,city,Glenview,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+50985,city,Berwyn,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+6268,city,Oak Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+4271,city,Crystal Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+12426,city,Lombard,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+28533,city,Hoffman Estates,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+4568,city,Elmhurst,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+55433,city,Dekalb,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+26336,city,Oswego,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kendall County
+13650,city,Saint Charles,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+33178,city,Northbrook,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+37757,city,Carol Stream,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+44042,city,Bartlett,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+47876,city,Streamwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+33330,city,Park Ridge,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+19328,city,Merrillville,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+39916,city,Mundelein,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+3319,city,Addison,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+47443,city,Romeoville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+15007,city,Buffalo Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+24872,city,Glen Ellyn,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+53969,city,Portage,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+21272,city,Wheeling,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+29044,city,New Lenox,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+45645,city,Hanover Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+10721,city,Carpentersville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+5019,city,Gurnee,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+10669,city,Calumet City,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+55100,city,West Chicago,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+53581,city,Niles,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+48574,city,Woodstock,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+24568,city,Elk Grove Village,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+18186,city,Frankfort,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+53260,city,Melrose Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+55253,city,Woodridge,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+28517,city,Lansing,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+32492,city,Libertyville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+24877,city,Glendale Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+18263,city,Geneva,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+30354,city,Batavia,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+19441,city,Montgomery,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kendall County
+40780,city,Schererville,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+10074,city,Algonquin,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+5498,city,Lake in the Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+8587,city,Huntley,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+46285,city,Lockport,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+55741,city,Highland Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+55487,city,Chicago Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+37652,city,Burbank,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+7703,city,Villa Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+21319,city,Wilmette,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+48668,city,Antioch,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+25828,city,McHenry,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+28833,city,East Chicago,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+25548,city,Lemont,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+6055,city,Morton Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+16535,city,Oak Forest,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+43240,city,Round Lake Beach,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+55288,city,Yorkville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kendall County
+11311,city,Elmwood Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+29671,city,Roselle,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+49927,city,Vernon Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+23738,city,Bloomingdale,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+36955,city,Rolling Meadows,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+35973,city,Maywood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+396711,city,Highland,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+41825,city,Zion,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+27354,city,Sycamore,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+32911,city,Mokena,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+44861,city,Darien,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+27174,city,South Holland,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+27164,city,South Elgin,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+35945,city,Matteson,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+25987,city,Morris,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Grundy County
+4446,city,Dyer,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+50414,city,Cary,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+28419,city,Franklin Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+31197,city,Deerfield,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+51040,city,Blue Island,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+16736,city,Alsip,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+8671,city,Dolton,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+45795,city,Homewood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+39811,city,Minooka,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kendall County
+30611,city,Brookfield,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+11366,city,Evergreen Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+20481,city,Shorewood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+31841,city,Grayslake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+16986,city,Bensenville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+42427,city,Griffith,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+33328,city,Park Forest,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+35491,city,Lake Forest,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+37366,city,Bellwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+43599,city,Bridgeview,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+19987,city,Pleasant Prairie,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+46975,city,Palos Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+11926,city,Hinsdale,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+35766,city,Prospect Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+46125,city,Lake Zurich,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+22891,city,Saint John,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+50540,city,Midlothian,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+24269,city,Crete,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+27892,city,Westchester,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+10751,city,Cedar Lake,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+6529,city,Plano,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kendall County
+17622,city,Crest Hill,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+55220,city,Willowbrook,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+5513,city,Lake Villa,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+26165,city,Norridge,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+25109,city,Hickory Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+12238,city,La Grange,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+14849,city,Country Club Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+6390,city,Palos Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+11475,city,Forest Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+47532,city,Salem,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+36409,city,Warrenville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+14697,city,Wood Dale,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+49397,city,Harvard,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+34876,city,Winnetka,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+28425,city,Hazel Crest,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+44572,city,Chicago Ridge,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+26169,city,North Aurora,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+32352,city,La Grange Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+51202,city,Burr Ridge,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+35727,city,Justice,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+19026,city,Lincolnwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+34773,city,Western Springs,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+41956,city,Chesterton,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+25726,city,Manhattan,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+7971,city,Winfield,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+12433,city,Long Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+9085,city,Northlake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+396632,city,DeMotte,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Jasper County
+41698,city,Whiting,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+25476,city,Lake Station,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+15978,city,Sugar Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+25753,city,Marengo,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+36257,city,Sandwich,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+13608,city,Round Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+20191,city,River Forest,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+39442,city,Lindenhurst,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+29308,city,Wilmington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+27318,city,Summit,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+4045,city,Channahon,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+40782,city,Schiller Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+29979,city,Flossmoor,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+6783,city,Riverdale,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+40958,city,Somers,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+45705,city,Hebron,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+44074,city,Beach Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+6728,city,Rensselaer,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Jasper County
+16400,city,Lyons,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+52394,city,Hampshire,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+40578,city,River Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+16897,city,Barrington Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+28971,city,Palos Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+12053,city,Inverness,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+45754,city,Hillside,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+56647,city,Worth,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+53374,city,Monee,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+17624,city,Crestwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+13061,city,Oak Brook,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+30909,city,Clarendon Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+49651,city,Riverside,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+5087,city,Harwood Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+11600,city,Gilberts,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+48562,city,Wonder Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+33433,city,Pingree Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+25600,city,Lincolnshire,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+44323,city,Broadview,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+4538,city,Elburn,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+49831,city,Steger,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+44035,city,Barrington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+22817,city,Wauconda,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+30391,city,Beecher,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+28578,city,Glencoe,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+9540,city,Spring Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+52845,city,Lake Bluff,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+48465,city,Wheatfield,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Jasper County
+24780,city,Fox Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+49282,city,Island Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+14002,city,Stickney,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+23111,city,Lynwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+49047,city,Gages Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+36276,city,Sauk Village,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+49870,city,Willow Springs,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+18306,city,Glenwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+45691,city,Hawthorn Woods,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+19681,city,North Riverside,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+48096,city,University Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+37699,city,Calumet Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+51561,city,Countryside,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+32233,city,Johnsburg,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+53859,city,Peotone,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+42237,city,Genoa,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+41988,city,Bristol,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+56120,city,Orland Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+48549,city,Winthrop Harbor,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+27856,city,West Dundee,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+6402,city,Park City,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+26856,city,Round Lake Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+22183,city,Olympia Fields,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+16472,city,Deer Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+26782,city,Riverwoods,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+5421,city,Kildeer,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+46069,city,Kouts,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+28509,city,Highwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+51115,city,Braidwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+40087,city,Northfield,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+5484,city,Lake Barrington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+44139,city,Berkeley,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+40587,city,Robbins,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+37665,city,Burnham,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+55065,city,Wayne,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+41499,city,Village of Lakewood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+47750,city,South Barrington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+4794,city,Fox River Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+46402,city,Maple Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+53979,city,Posen,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+38844,city,Hainesville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+8513,city,Hometown,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+7734,city,Wadsworth,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+43636,city,East Dundee,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+13512,city,Richmond,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+48874,city,Coal City,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Grundy County
+9238,city,Stone Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+20869,city,Twin Lakes,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+398703,city,Randall,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+31431,city,Elwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+50935,city,Bedford Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+26246,city,Oakbrook Terrace,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+14220,city,Union,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+36498,city,Somonauk,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+33505,city,Porter,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+6215,city,North Barrington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+50311,city,Lake Village,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Newton County
+19604,city,Newark,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kendall County
+53997,city,Prairie Grove,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+25484,city,Lakemoor,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+40969,city,South Chicago Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+22727,city,Volo,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+31236,city,Dixmoor,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+398205,city,Wheatland,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+5687,city,Long Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+16258,city,Kingston,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+41227,city,Thornton,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+45870,city,Indian Head Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+139933,city,Pistakee Highlands,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+25871,city,Mettawa,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+30666,city,Burns Harbor,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+50492,city,Fox Lake Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+57352,city,Hinckley,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+39833,city,Monon,IN,"Chicago-Naperville-Elgin, IL-IN-WI",White County
+5442,city,Kirkland,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+39716,city,McCullom Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+46013,city,Kenilworth,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+20182,city,Ringwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+36450,city,Sleepy Hollow,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+19813,city,Paddock Lake,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+40534,city,Remington,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Jasper County
+26846,city,Rosemont,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+12180,city,Kentland,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Newton County
+52469,city,Hebron,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+53525,city,New Chicago,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+8802,city,Morocco,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Newton County
+24782,city,Francesville,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Pulaski County
+23701,city,Big Rock,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+50850,city,Bannockburn,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+33752,city,Round Lake Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+36747,city,Malta,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+19295,city,Medaryville,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Pulaski County
+30650,city,Bull Valley,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+55514,city,Brook,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Newton County
+31586,city,Ford Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+35578,city,Fair Oaks,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Jasper County
+35587,city,Indian Creek,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+398993,city,Brighton,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+9566,city,Goodland,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Newton County
+17872,city,East Hazel Crest,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+398332,city,Paris,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+138310,city,Fairmont,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+24381,city,Diamond,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Grundy County
+25866,city,Merrionette Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+40136,city,Ogden Dunes,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+14492,city,Waterman,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+29447,city,Shabbona,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+33488,city,Port Barrington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+26480,city,Phoenix,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+38028,city,Cortland,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
+50187,city,Gardner,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Grundy County
+26801,city,Rockdale,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+52965,city,Lily Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+31594,city,Forestview,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+40424,city,Powers Lake,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+14168,city,Tower Lakes,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+32054,city,Hodgkins,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+141898,city,Dune Acres,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+53668,city,Oakwood Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+54684,city,Third Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+253528,city,Lake Shangrila,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+4754,city,Forest Lake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+32238,city,Joliet,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+17943,city,Elgin,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+144154,city,Pines,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Porter County
+51109,city,Braceville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Grundy County
+54747,city,Trout Valley,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+25156,city,Holiday Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",McHenry County
+32522,city,Lisle,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+26044,city,Munster,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+52390,city,Hammond,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+49659,city,Medinah,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+6970,city,Schneider,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+35513,city,Godley,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+46548,city,Millington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kendall County
+10494,city,Boone Grove, IN, Chicago-Naperville-Elgin, Porter County
+23122,city,Symerton, IL, Chicago-Naperville-Elgin, Will County
+39688,city,Mazon,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Grundy County
+19382,city,Millbrook, IL, Chicago-Naperville-Elgin, Kendall County
+53430,city,Mount Ayr, IN, Chicago-Naperville-Elgin, Newton County
+51785,city,East Brooklyn, IL, Chicago-Naperville-Elgin, Grundy County
+53214,city,McCook, IL, Chicago-Naperville-Elgin, Cook County
+49161,city,Eola, IL, Chicago-Naperville-Elgin, DuPage County
+33453,city,Plattville, IL, Chicago-Naperville-Elgin, Kendall County
+32520,city,Lisbon, IL, Chicago-Naperville-Elgin, Kendall County
+47150,city,Plato Center, IL, Chicago-Naperville-Elgin, Kane County
+11693,city,Great Lakes, IL, Chicago-Naperville-Elgin, Cook County
+41834,city,Beverly Shores, IN, Chicago-Naperville-Elgin, Porter County
+9311,city,Verona,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Grundy County
+9163,city,Old Mill Creek,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+26534,city,Plainfield,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+39931,city,Naperville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+39220,city,Kenosha,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha County
+17426,city,Chicago,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+25145,city,Hobart,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+14588,city,Westmont,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+19113,city,Lowell,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+45676,city,Harvey,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+18612,city,Homer Glen,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Will County
+33145,city,North Chicago,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
+25758,city,Markham,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+395497,city,Campton Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+45903,city,Itasca,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DuPage County
+26755,city,Richton Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+54987,city,Virgil, IL," Chicago-Naperville-Elgin, IL-IN-WI", Kane County
+9980,city,South Wilmington, IL," Chicago-Naperville-Elgin, IL-IN-WI", Grundy County
+11729,city,Greenwood, IL," Chicago-Naperville-Elgin, IL-IN-WI", McHenry County
+25418,city,Kinsman, IL," Chicago-Naperville-Elgin, IL-IN-WI", Grundy County
+52726,city,Kaneville, IL," Chicago-Naperville-Elgin, IL-IN-WI", Kane County
+34961,city,Carbon Hill, IL," Chicago-Naperville-Elgin, IL-IN-WI", Grundy County
+51191,city,Burlington,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
+31795,city,Golf,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County
+10833,city,Clare,IL,"Chicago-Naperville-Elgin, IL-IN-WI",DeKalb County
