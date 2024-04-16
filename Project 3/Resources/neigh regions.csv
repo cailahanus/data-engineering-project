@@ -1,15 +1,15 @@
-region_id,region_type,neighborhood,state,state_region,county,city
-403295,neigh,Lake View East, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403288,neigh,Old Irving Park, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403286,neigh,Mayfair, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403271,neigh,North Mayfair, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403306,neigh,Sheffield Neighbors, IL," Chicago-Naperville-Elgin, IL-IN-WI", Cook County, Chicago
-403388,neigh,Calumet River, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403352,neigh,East Hyde Park, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403350,neigh,The Robert Taylor Homes, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403159,neigh,O'Hare International Airport, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-760976,neigh,Greek Rows, IL, Chicago-Naperville-Elgin, DeKalb County, Dekalb
-403386,neigh,Lake Calumet, IL, Chicago-Naperville-Elgin, Cook County, Chicago
+region_id,region_type,neighborhood,state,state_region,city,county
+403295,neigh,Lake View East, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403288,neigh,Old Irving Park, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403286,neigh,Mayfair, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403271,neigh,North Mayfair, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403306,neigh,Sheffield Neighbors, IL," Chicago-Naperville-Elgin, IL-IN-WI", Chicago, Cook County
+403388,neigh,Calumet River, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403352,neigh,East Hyde Park, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403350,neigh,The Robert Taylor Homes, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403159,neigh,O'Hare International Airport, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+760976,neigh,Greek Rows, IL, Chicago-Naperville-Elgin, Dekalb, DeKalb County
+403386,neigh,Lake Calumet, IL, Chicago-Naperville-Elgin, Chicago, Cook County
 269589,neigh,Lake View,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 403169,neigh,West Ridge,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 403117,neigh,Little Village,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
@@ -181,7 +181,7 @@ region_id,region_type,neighborhood,state,state_region,county,city
 819090,neigh,Waterford,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Aurora,Kane County
 820118,neigh,St. John's,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Joliet,Will County
 48226,neigh,Venetian Village,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake Villa,Lake County
-137228,neigh,Altgeld Gardens, IL, Chicago-Naperville-Elgin, Cook County, Chicago
+137228,neigh,Altgeld Gardens, IL, Chicago-Naperville-Elgin, Chicago, Cook County
 260811,neigh,Forest Park,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha,Kenosha County
 403351,neigh,North Kenwood,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 403327,neigh,Homan Square,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
@@ -370,7 +370,7 @@ region_id,region_type,neighborhood,state,state_region,county,city
 830282,neigh,Washington Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Niles,Cook County
 403326,neigh,The Island,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 403372,neigh,Beverly Woods,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
-403349,neigh,Ida B. Wells - Darrow Homes, IL," Chicago-Naperville-Elgin, IL-IN-WI", Cook County, Chicago
+403349,neigh,Ida B. Wells - Darrow Homes, IL," Chicago-Naperville-Elgin, IL-IN-WI", Chicago, Cook County
 810762,neigh,River Woods,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,Will County
 820724,neigh,Downtown,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Hobart,Lake County
 819117,neigh,Village Green,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Pleasant Prairie,Kenosha County
@@ -455,7 +455,7 @@ region_id,region_type,neighborhood,state,state_region,county,city
 810737,neigh,The Countryside Of Naperville,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,DuPage County
 820727,neigh,Ridge Pointe,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Hobart,Lake County
 403369,neigh,Mount Greenwood Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
-403287,neigh,Kilbourn Park, IL, Chicago-Naperville-Elgin, Cook County, Chicago
+403287,neigh,Kilbourn Park, IL, Chicago-Naperville-Elgin, Chicago, Cook County
 403364,neigh,Winneconna Parkway,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 810760,neigh,Heritage Knolls,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,Will County
 810734,neigh,Green Acres,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,DuPage County
@@ -469,20 +469,20 @@ region_id,region_type,neighborhood,state,state_region,county,city
 810786,neigh,Pembroke Commons,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,DuPage County
 403381,neigh,Eden Green,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 826380,neigh,East Calumet,IN,"Chicago-Naperville-Elgin, IL-IN-WI",East Chicago,Lake County
-826764,neigh,Silvercrest, IL," Chicago-Naperville-Elgin, IL-IN-WI", DuPage County, Bartlett
+826764,neigh,Silvercrest, IL," Chicago-Naperville-Elgin, IL-IN-WI", Barlett, DuPage County
 819104,neigh,Pleasant Farms,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Pleasant Prairie,Kenosha County
 819112,neigh,Green Hill Farms,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Pleasant Prairie,Kenosha County
 403270,neigh,Brynford Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 403338,neigh,Ford City,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
-808298,neigh,Downtown, IL," Chicago-Naperville-Elgin, IL-IN-WI", Kane County, Aurora
-403347,neigh,Stateway Gardens, IL," Chicago-Naperville-Elgin, IL-IN-WI", Cook County, Chicago
-827390,neigh,Downtown, IL," Chicago-Naperville-Elgin, IL-IN-WI", Kane County, Batavia
-403316,neigh,South Old Irving Park, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403260,neigh,Lakewood - Balmoral, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403296,neigh,Lathrop Homes, IL," Chicago-Naperville-Elgin, IL-IN-WI", Cook County, Chicago
-403305,neigh,Ranch Triangle, IL," Chicago-Naperville-Elgin, IL-IN-WI", Cook County, Chicago
-403307,neigh,Wrightwood Neighbors, IL," Chicago-Naperville-Elgin, IL-IN-WI", Cook County, Chicago
-403308,neigh,Park West, IL, Chicago-Naperville-Elgin, Cook County, Chicago
+808298,neigh,Downtown, IL," Chicago-Naperville-Elgin, IL-IN-WI", Aurora, Kane County
+403347,neigh,Stateway Gardens, IL," Chicago-Naperville-Elgin, IL-IN-WI", Chicago, Cook County
+827390,neigh,Downtown, IL," Chicago-Naperville-Elgin, IL-IN-WI", Batavia, Kane County
+403316,neigh,South Old Irving Park, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403260,neigh,Lakewood - Balmoral, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403296,neigh,Lathrop Homes, IL," Chicago-Naperville-Elgin, IL-IN-WI", Chicago, Cook County
+403305,neigh,Ranch Triangle, IL," Chicago-Naperville-Elgin, IL-IN-WI",Chicago, Cook County
+403307,neigh,Wrightwood Neighbors, IL," Chicago-Naperville-Elgin, IL-IN-WI", Chicago, Cook County
+403308,neigh,Park West, IL, Chicago-Naperville-Elgin, Chicago, Cook County
 820145,neigh,Midtown,IL,"Chicago-Naperville-Elgin, IL-IN-WI",North Chicago,Lake County
 820714,neigh,Salt Creek Commons,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Valparaiso,Porter County
 820116,neigh,Southside,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Joliet,Will County
@@ -504,8 +504,8 @@ region_id,region_type,neighborhood,state,state_region,county,city
 821836,neigh,Eagle Ridge,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Orland Park,Cook County
 821839,neigh,Village Square,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Orland Park,Cook County
 820152,neigh,Argonne Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",North Chicago,Lake County
-403272,neigh,Sauganash Woods, IL, Chicago-Naperville-Elgin, Cook County, Chicago
-403273,neigh,River's Edge, IL, Chicago-Naperville-Elgin, Cook County, Chicago
+403272,neigh,Sauganash Woods, IL, Chicago-Naperville-Elgin, Chicago, Cook County
+403273,neigh,River's Edge, IL, Chicago-Naperville-Elgin, Chicago, Cook County
 821861,neigh,Kendall Point,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Oswego,Kendall County
 141033,neigh,Woodland Hills,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Batavia,Kane County
 810744,neigh,Indian Hill,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,DuPage County
@@ -518,7 +518,7 @@ region_id,region_type,neighborhood,state,state_region,county,city
 810780,neigh,Rosehill Farm,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,Will County
 762518,neigh,Uptown,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha,Kenosha County
 810768,neigh,Woodlake,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,Will County
-403289,neigh,The Villa, IL, Chicago-Naperville-Elgin, Cook County, Chicago
+403289,neigh,The Villa, IL, Chicago-Naperville-Elgin, Chicago, Cook County
 272042,neigh,Blackhawk,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Aurora,Kane County
 403365,neigh,Parkview,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 830288,neigh,Oakton Manor,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Niles,Cook County
@@ -530,7 +530,7 @@ region_id,region_type,neighborhood,state,state_region,county,city
 810777,neigh,River Run,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,Will County
 267778,neigh,Pulaski,IN,"Chicago-Naperville-Elgin, IL-IN-WI",Gary,Lake County
 410930,neigh,Parkside,WI,"Chicago-Naperville-Elgin, IL-IN-WI",Kenosha,Kenosha County
-403309,neigh,West De Paul, IL," Chicago-Naperville-Elgin, IL-IN-WI", Cook County, Chicago
+403309,neigh,West De Paul, IL," Chicago-Naperville-Elgin, IL-IN-WI", Chicago, Cook County
 810799,neigh,Tall Grass,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,Will County
 820119,neigh,Forest Park,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Joliet,Will County
 810804,neigh,Naperville Heights,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Naperville,DuPage County
@@ -560,5 +560,5 @@ region_id,region_type,neighborhood,state,state_region,county,city
 403343,neigh,Printers Row,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 403320,neigh,Greektown,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County
 820149,neigh,Westown,IL,"Chicago-Naperville-Elgin, IL-IN-WI",North Chicago,Lake County
-810726,neigh,Ashwood Crossing, IL," Chicago-Naperville-Elgin, IL-IN-WI", Will County, Naperville
+810726,neigh,Ashwood Crossing, IL," Chicago-Naperville-Elgin, IL-IN-WI",Naperville, Will County
 829710,neigh,Kenilworth Beach,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kenilworth,Cook County
