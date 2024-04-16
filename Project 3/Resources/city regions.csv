@@ -1,4 +1,4 @@
-region_id,region_type,city,state,state_region,county
+region_id,region_type,city,state,metro_area,county
 10215,city,Aurora,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Kane County
 41587,city,Waukegan,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Lake County
 44597,city,Cicero,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Cook County

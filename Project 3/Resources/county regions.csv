@@ -1,4 +1,4 @@
-region_id,region_type,county,state,state_region
+region_id,region_type,county,state,metro_area
 139,county,Cook County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
 1682,county,DuPage County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
 220,county,Lake County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"

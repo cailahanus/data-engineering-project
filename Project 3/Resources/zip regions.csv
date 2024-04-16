@@ -1,4 +1,4 @@
-region_id,region_type,zipcode,state,state_region,city,county
+region_id,region_type,zipcode,state,metro_area,city,county
 78144,zip,46411, IN, Chicago-Naperville-Elgin, Whiting,Lake County
 84392,zip,60141, IL, Chicago-Naperville-Elgin, Broadview, Cook County
 84630,zip,60629,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Cook County

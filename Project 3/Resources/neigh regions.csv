@@ -1,4 +1,4 @@
-region_id,region_type,neighborhood,state,state_region,city,county
+region_id,region_type,neighborhood,state,metro_area,city,county
 403295,neigh,Lake View East, IL, Chicago-Naperville-Elgin, Chicago, Cook County
 403288,neigh,Old Irving Park, IL, Chicago-Naperville-Elgin, Chicago, Cook County
 403286,neigh,Mayfair, IL, Chicago-Naperville-Elgin, Chicago, Cook County
