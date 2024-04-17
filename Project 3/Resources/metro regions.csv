@@ -1,2 +1,950 @@
 region_id,region_type,city,state
+394653,metro,Greenville, SC
+394312,metro,Albuquerque, NM
+394357,metro,Bakersfield, CA
+394308,metro,Albany, NY
+394753,metro,Knoxville, TN
+394367,metro,Baton Rouge, LA
+394843,metro,McAllen, TX
+394908,metro,New Haven, CT
+394561,metro,El Paso, TX
+394318,metro,Allentown, PA
+394952,metro,Oxnard, CA
+394486,metro,Columbia, SC
+753906,metro,North Port, FL
+394457,metro,Charleston, SC
+394648,metro,Greensboro, NC
+395134,metro,Stockton, CA
+394440,metro,Cape Coral, FL
+394399,metro,Boise City, ID
+394484,metro,Colorado Springs, CO
+394766,metro,Lakeland, FL
+394304,metro,Akron, OH
+394531,metro,Des Moines, IA
+395115,metro,Springfield, MA
+394931,metro,Ogden, UT
+394816,metro,Madison, WI
+395235,metro,Winston, NC
+394528,metro,Deltona, FL
+395143,metro,Syracuse, NY
+395006,metro,Provo, UT
+395160,metro,Toledo, OH
+395224,metro,Wichita, KS
+394549,metro,Durham, NC
+394352,metro,Augusta, GA
+394957,metro,Palm Bay, FL
+394711,metro,Jackson, MS
+394666,metro,Harrisburg, PA
+395113,metro,Spokane, WA
+395075,metro,Scranton, PA
+394460,metro,Chattanooga, TN
+394871,metro,Modesto, CA
+394768,metro,Lancaster, PA
+394997,metro,Portland, ME
+395019,metro,Reno, NV
+394338,metro,Asheville, NC
+395183,metro,Vallejo, CA
+753917,metro,Santa Maria, CA
+394502,metro,Corpus Christi, TX
+394454,metro,Champaign, IL
+394848,metro,Medford, OR
+394459,metro,Charlottesville, VA
+394763,metro,Lake Charles, LA
+394773,metro,Las Cruces, NM
+394464,metro,Chico, CA
+394681,metro,Hilton Head Island, SC
+394346,metro,Athens, GA
+394765,metro,Lake Havasu City, AZ
+394485,metro,Columbia, MO
+395114,metro,Springfield, IL
+394691,metro,Houma, LA
+394872,metro,Monroe, LA
+394565,metro,Elkhart, IN
+394726,metro,Johnson City, TN
+395247,metro,Yuma, AZ
+394623,metro,Gainesville, GA
+394716,metro,Jacksonville, NC
+394597,metro,Florence, SC
+394680,metro,Hilo, HI
+395118,metro,St. Cloud, MN
+395011,metro,Racine, WI
+395162,metro,Torrington, CT
+395009,metro,Punta Gorda, FL
+394386,metro,Billings, MT
+395018,metro,Redding, CA
+394748,metro,Kingston, NY
+394960,metro,Panama City, FL
+394729,metro,Joplin, MO
+394539,metro,Dover, DE
+394559,metro,El Centro, CA
+394712,metro,Jackson, TN
+395246,metro,Yuba City, CA
+394406,metro,Bowling Green, KY
+395119,metro,St. George, UT
+394896,metro,Muskegon, MI
+394299,metro,Abilene, TX
+394707,metro,Iowa City, IA
+394351,metro,Auburn, AL
+394860,metro,Midland, TX
+753869,metro,Bloomington, IL
+394671,metro,Hattiesburg, MS
+394944,metro,Oshkosh, WI
+394555,metro,Eau Claire, WI
+394651,metro,Greenville, NC
+395139,metro,Sumter, SC
+394577,metro,Eureka, CA
+395117,metro,Springfield, OH
+394668,metro,Harrisonburg, VA
+394368,metro,Battle Creek, MI
+395094,metro,Sherman, TX
+394821,metro,Manhattan, KS
+394401,metro,Boone, IA; IA
+394442,metro,Carbondale, IL
+394727,metro,Johnstown, PA
+394728,metro,Jonesboro, AR
+394390,metro,Bismarck, ND
+394661,metro,Hammond, LA
+394824,metro,Mansfield, OH
+395128,metro,Staunton, VA
+394353,metro,Augusta, ME
+394321,metro,Altoona, PA
+394905,metro,New Bern, NC
+394588,metro,Farmington, NM
+395120,metro,St. Joseph, MO
+395054,metro,San Angelo, TX
+395218,metro,Wenatchee, WA
+394932,metro,Ogdensburg, NY
+394734,metro,Kankakee, IL
+394709,metro,Ithaca, NY
+394630,metro,Gettysburg, PA
+394620,metro,Gadsden, AL
+394733,metro,Kalispell, MT
+394823,metro,Mankato, MN
+394794,metro,Lima, OH
+753915,metro,Salem, OH
+395166,metro,Truckee, CA
+395080,metro,Sebring, FL
+394852,metro,Meridian, MS
+753912,metro,Pinehurst, NC
+394953,metro,Paducah, KY
+395190,metro,Victoria, TX
+395038,metro,Rome, GA
+395086,metro,Sevierville, TN
+394882,metro,Moses Lake, WA
+394340,metro,Ashtabula, OH
+394441,metro,Cape Girardeau, MO
+394311,metro,Albertville, AL
+394580,metro,Fairbanks, AK
+394410,metro,Brainerd, MN
+394513,metro,Cumberland, MD
+394928,metro,Ocean City, NJ
+394505,metro,Corvallis, OR
+394988,metro,Pocatello, ID
+394501,metro,Corning, NY
+394911,metro,New Philadelphia, OH
+395175,metro,Ukiah, CA
+753887,metro,Hermiston, OR
+394469,metro,Clarksburg, WV
+394511,metro,Cullman, AL
+395126,metro,Statesboro, GA
+395231,metro,Wilson, NC
+753881,metro,Glenwood Springs, CO
+395085,metro,Seneca, SC
+394866,metro,Minot, ND
+394936,metro,Olean, NY
+394465,metro,Chillicothe, OH
+395077,metro,Searcy, AR
+394638,metro,Grand Island, NE
+394994,metro,Port Angeles, WA
+394350,metro,Auburn, NY
+394699,metro,Huntsville, TX
+394738,metro,Keene, NH
+394674,metro,Heber, UT
+395010,metro,Quincy, IL
+395062,metro,Sandusky, OH
+394593,metro,Findlay, OH
+394614,metro,Frankfort, KY
+394516,metro,Danville, IL
+394298,metro,Aberdeen, WA
+394999,metro,Portsmouth, OH
+395106,metro,Somerset, PA
+753928,metro,Wisconsin Rapids, WI
+753893,metro,Jefferson, GA
+394736,metro,Kapaa, HI
+394955,metro,Palatka, FL
+394626,metro,Gallup, NM
+394683,metro,Hobbs, NM
+394587,metro,Farmington, MO
+394897,metro,Muskogee, OK
+394826,metro,Marion, IN
+394586,metro,Faribault, MN
+395021,metro,Richmond, IN
+394829,metro,Marquette, MI
+394922,metro,North Wilkesboro, NC
+394885,metro,Mount Pleasant, MI
+395024,metro,Rio Grande City, TX
+394827,metro,Marion, OH
+394360,metro,Baraboo, WI
+395016,metro,Red Bluff, CA
+394825,metro,Marinette, WI
+394899,metro,Nacogdoches, TX
+395105,metro,Somerset, KY
+394496,metro,Coos Bay, OR
+394600,metro,Forest City, NC
+394836,metro,Martinsville, VA
+394456,metro,Charleston, IL
+394592,metro,Fernley, NV
+394444,metro,Carson City, NV
+394551,metro,Eagle Pass, TX
+394432,metro,Calhoun, GA
+753877,metro,Cullowhee, NC
+394737,metro,Kearney, NE
+395122,metro,St. Marys, GA
+394402,metro,Boone, NC
+395204,metro,Warrensburg, MO
+394634,metro,Gloversville, NY
+394604,metro,Fort Leonard Wood, MO
+394993,metro,Poplar Bluff, MO
+394562,metro,Elizabeth City, NC
+394339,metro,Ashland, OH
+395073,metro,Scottsboro, AL
+394861,metro,Milledgeville, GA
+394742,metro,Kerrville, TX
+394363,metro,Bartlesville, OK
+394906,metro,New Castle, IN
+394820,metro,Manchester, NH
+394919,metro,Norfolk, NE
+394431,metro,Cadillac, MI
+395043,metro,Ruston, LA
+395097,metro,Sidney, OH
+394876,metro,Montrose, CO
+394504,metro,Cortland, NY
+394887,metro,Mount Sterling, KY
+394477,metro,Clinton, IA
+753916,metro,Sandpoint, ID
+753865,metro,Bardstown, KY
+395201,metro,Wapakoneta, OH
+394987,metro,Plymouth, IN
+394789,metro,Lewistown, PA
+394379,metro,Bemidji, MN
+394377,metro,Bellefontaine, OH
+395087,metro,Seymour, IN
+394426,metro,Burley, ID
+394548,metro,Durant, OK
+394883,metro,Moultrie, GA
+394398,metro,Bogalusa, LA
+394500,metro,Cornelia, GA
+753889,metro,Hillsdale, MI
+395155,metro,Thomasville, GA
+394961,metro,Paragould, AR
+394650,metro,Greenville, MS
+394850,metro,Menomonie, WI
+753918,metro,Shawano, WI
+395189,metro,Vicksburg, MS
+394375,metro,Bedford, IN
+395208,metro,Washington, NC
+394482,metro,Coldwater, MI
+753904,metro,Marion, NC
+394695,metro,Huntingdon, PA
+394567,metro,Ellensburg, WA
+394990,metro,Ponca City, OK
+394779,metro,Lawrenceburg, TN
+394842,metro,McAlester, OK
+394886,metro,Mount Pleasant, TX
+395228,metro,Willmar, MN
+395081,metro,Sedalia, MO
+395072,metro,Scottsbluff, NE
+394914,metro,Newberry, SC
+394799,metro,Lock Haven, PA
+394771,metro,Laramie, WY
+394617,metro,Fremont, NE
+395069,metro,Sault Ste. Marie, MI
+394436,metro,Campbellsville, KY
+394550,metro,Dyersburg, TN
+394573,metro,Escanaba, MI
+394840,metro,Mayfield, KY
+394702,metro,Hutchinson, MN
+394506,metro,Coshocton, OH
+394522,metro,DeRidder, LA
+395192,metro,Vincennes, IN
+394370,metro,Bay City, TX
+394920,metro,North Platte, NE
+394915,metro,Newport, TN
+394525,metro,Decatur, IN
+395191,metro,Vidalia, GA
+394413,metro,Brenham, TX
+395187,metro,Vernal, UT
+394947,metro,Ottumwa, IA
+394430,metro,Butte, MT
+394499,metro,Corinth, MS
+394417,metro,Brookhaven, MS
+394536,metro,Dodge City, KS
+395211,metro,Watertown, SD
+394331,metro,Angola, IN
+394535,metro,Dixon, IL
+394777,metro,Laurinburg, NC
+395149,metro,Taos, NM
+394419,metro,Brookings, SD
+394324,metro,Americus, GA
+394491,metro,Columbus, NE
+395150,metro,Taylorville, IL
+394335,metro,Arcadia, FL
+394786,metro,Lewisburg, TN
+395084,metro,Seneca Falls, NY
+394533,metro,Dickinson, ND
+395207,metro,Washington, IN
+395165,metro,Troy, AL
+394414,metro,Brevard, NC
+395141,metro,Susanville, CA
+394984,metro,Plainview, TX
+753878,metro,Dayton, TN
+753892,metro,Jackson, OH
+394433,metro,Cambridge, MD
+394962,metro,Paris, TN
+394730,metro,Juneau, AK
+394481,metro,Coffeyville, KS
+394774,metro,Las Vegas, NM
+394383,metro,Berlin, NH
+394473,metro,Cleveland, MS
+394670,metro,Hastings, NE
+394376,metro,Beeville, TX
+394749,metro,Kingsville, TX
+394751,metro,Kirksville, MO
+753901,metro,Ludington, MI
+394356,metro,Bainbridge, GA
+394320,metro,Alpena, MI
+395206,metro,Washington Court House, OH
+394673,metro,Hays, KS
+394606,metro,Fort Morgan, CO
+395185,metro,Van Wert, OH
+394740,metro,Kennett, MO
+753926,metro,Weatherford, OK
+394892,metro,Mountain Home, ID
+394864,metro,Mineral Wells, TX
+394795,metro,Lincoln, IL
+395100,metro,Silver City, NM
+753879,metro,Elkins, WV
+394812,metro,Macomb, IL
+394435,metro,Camden, AR
+394508,metro,Crescent City, CA
+395048,metro,Salem, OR
+394921,metro,North Vernon, IN
+394615,metro,Fredericksburg, TX
+395159,metro,Toccoa, GA
+753923,metro,The Dalles, OR
+394649,metro,Greensburg, IN
+394706,metro,Indianola, MS
+394758,metro,La Grande, OR
+753909,metro,Ottawa, KS
+394912,metro,New Ulm, MN
+394791,metro,Lexington, NE
+394643,metro,Great Bend, KS
+395110,metro,Spearfish, SD
+394830,metro,Marshall, MN
+394584,metro,Fallon, NV
+394322,metro,Altus, OK
+753884,metro,Hailey, ID
+753921,metro,Steamboat Springs, CO
+395138,metro,Summerville, GA
+394869,metro,Moberly, MO
+394858,metro,Middlesborough, KY
+395236,metro,Woodward, OK
+395004,metro,Prineville, OR
+394601,metro,Forrest City, AR
+394494,metro,Connersville, IN
+394868,metro,Mitchell, SD
+394831,metro,Marshall, MO
+394418,metro,Brookings, OR
+395241,metro,Yankton, SD
+394403,metro,Borger, TX
+753914,metro,Port Lavaca, TX
+753908,metro,Othello, WA
+753925,metro,Vineyard Haven, MA
+395003,metro,Price, UT
+394996,metro,Portales, NM
+394678,metro,Hereford, TX
+395112,metro,Spirit Lake, IA
+394594,metro,Fitzgerald, GA
+753927,metro,Winnemucca, NV
+394841,metro,Maysville, KY
+395104,metro,Snyder, TX
+395186,metro,Vermillion, SD
+394968,metro,Pecos, TX
+786255,metro,Central City, KY
+786260,metro,Hope, AR
+845161,metro,Bluffton, IN
+786256,metro,Eufaula, AL
+845171,metro,Union, SC
+845169,metro,Rockport, TX
+786254,metro,Carroll, IA
+786263,metro,Ruidoso, NM
+786257,metro,Fairmont, MN
+786265,metro,West Point, MS
+845168,metro,Pearsall, TX
+786253,metro,Brownsville, TN
+395015,metro,Reading, PA
+394612,metro,Fort Wayne, IN
+395051,metro,Salisbury, MD
+394596,metro,Flint, MI
+394972,metro,Peoria, IL
+394439,metro,Canton, OH
+394327,metro,Anchorage, AK
+394372,metro,Beaumont, TX
+395146,metro,Tallahassee, FL
+394901,metro,Naples, FL
+394679,metro,Hickory, NC
+394602,metro,Fort Collins, CO
+395107,metro,South Bend, IN
+395109,metro,Spartanburg, SC
+394579,metro,Evansville, IN
+395179,metro,Utica, NY
+394851,metro,Merced, CA
+394447,metro,Cedar Rapids, IA
+394412,metro,Bremerton, WA
+395103,metro,Sioux Falls, SD
+395065,metro,Santa Cruz, CA
+394582,metro,Fairmont, WV
+394940,metro,Ontario, OR
+394446,metro,Cedar City, UT
+395216,metro,Waycross, GA
+394721,metro,Jasper, IN
+394556,metro,Edwards, CO
+394366,metro,Batesville, AR
+394566,metro,Elko, NV
+394517,metro,Danville, KY
+394632,metro,Glasgow, KY
+394616,metro,Freeport, IL
+394627,metro,Garden City, KS
+394319,metro,Alma, MI
+394558,metro,El Campo, TX
+394434,metro,Cambridge, OH
+395227,metro,Williston, ND
+394526,metro,Defiance, OH
+395046,metro,Safford, AZ
+394422,metro,Brownwood, TX
+394507,metro,Crawfordsville, IN
+394801,metro,Logansport, IN
+394894,metro,Murray, KY
+394973,metro,Peru, IN
+394992,metro,Pontiac, IL
+394781,metro,Lebanon, MO
+394875,metro,Montgomery, AL
+394468,metro,Claremont, NH; NH
+394697,metro,Huntington, WV
+395033,metro,Rockford, IL
+394521,metro,Dayton, OH
+394808,metro,Lubbock, TX
+394546,metro,Dunn, NC; NC
+395028,metro,Roanoke, VA
+395229,metro,Wilmington, NC
+394621,metro,Gaffney, SC
+394977,metro,Picayune, MS
+395131,metro,Sterling, IL
+394411,metro,Branson, MO
+753883,metro,Greenfield Town, MA; MA
+394950,metro,Owosso, MI; MI
+394951,metro,Oxford, MS
+394832,metro,Marshall, TX; TX
+395002,metro,Prescott, AZ; AZ
+753891,metro,Ionia, MI; MI
+394547,metro,Durango, CO
+394750,metro,Kinston, NC
+753920,metro,Sonora, CA
+753910,metro,Oxford, NC; NC
+395157,metro,Tiffin, OH
+394946,metro,Ottawa, IL; IL
+394989,metro,Point Pleasant, WV
+394667,metro,Harrison, AR
+395037,metro,Rolla, MO
+394448,metro,Cedartown, GA
+394677,metro,Henderson, NC
+394297,metro,Aberdeen, SD
+395032,metro,Rock Springs, WY
+395129,metro,Stephenville, TX
+753913,metro,Port Clinton, OH; OH
+394449,metro,Celina, OH
+395230,metro,Wilmington, OH
+394424,metro,Bucyrus, OH
+394891,metro,Mountain Home, AR
+394624,metro,Gainesville, TX
+394438,metro,Canton, IL; IL
+394654,metro,Greenwood, MS
+394916,metro,Newton, IA; IA
+753922,metro,Summit Park, UT; UT
+753864,metro,Arkansas City-Winfield, KS; KS
+395099,metro,Sikeston, MO
+394715,metro,Jacksonville, IL
+753894,metro,Junction City, KS; KS
+395184,metro,Valley, AL; AL
+753898,metro,Logan, WV; WV
+394853,metro,Merrill, WI; WI
+394904,metro,Natchitoches, LA
+394364,metro,Bastrop, LA; LA
+394451,metro,Centralia, IL
+394382,metro,Bennington, VT
+394529,metro,Deming, NM
+394687,metro,Hood River, OR
+394745,metro,Kill Devil Hills, NC
+395137,metro,Sulphur Springs, TX
+394696,metro,Huntington, IN
+394965,metro,Parsons, KS
+394805,metro,Los Alamos, NM
+394330,metro,Andrews, TX
+394676,metro,Helena, AR
+395111,metro,Spencer, IA
+394342,metro,Atchison, KS
+753880,metro,Fairfield, IA
+395142,metro,Sweetwater, TX
+753929,metro,Zapata, TX
+845170,metro,Scottsburg, IN
+395050,metro,Salinas, CA
+394658,metro,Gulfport, MS
+395070,metro,Savannah, GA
+394520,metro,Davenport, IA
+394576,metro,Eugene, OR
+394927,metro,Ocala, FL
+394405,metro,Boulder, CO
+394646,metro,Green Bay, WI
+394645,metro,Greeley, CO
+394471,metro,Clarksville, TN
+394332,metro,Ann Arbor, MI
+394796,metro,Lincoln, NE
+394622,metro,Gainesville, FL
+394488,metro,Columbus, GA
+394741,metro,Kennewick, WA
+394747,metro,Kingsport, TN
+394746,metro,Killeen, TX
+395244,metro,York, PA
+394937,metro,Olympia, WA
+394870,metro,Mobile, AL
+395061,metro,San Luis Obispo, CA
+394421,metro,Brownsville, TX
+753875,metro,Crestview, FL
+394660,metro,Hagerstown, MD
+394803,metro,Longview, TX
+395197,metro,Waco, TX
+394348,metro,Atlantic City, NJ
+394572,metro,Erie, PA
+394924,metro,Norwich, CT
+394323,metro,Amarillo, TX
+394772,metro,Laredo, TX
+394483,metro,College Station, TX
+395171,metro,Tuscaloosa, AL
+394732,metro,Kalamazoo, MI
+394811,metro,Lynchburg, VA
+394455,metro,Charleston, WV
+395240,metro,Yakima, WA
+394387,metro,Binghamton, NY
+394585,metro,Fargo, ND
+394609,metro,Fort Smith, AR
+394334,metro,Appleton, WI
+394813,metro,Macon, GA
+395161,metro,Topeka, KS
+395096,metro,Shreveport, LA
+395174,metro,Tyler, TX
+395140,metro,Sunbury, PA
+395020,metro,Rexburg, ID
+394787,metro,Lewiston, ID
+394759,metro,Laconia, NH
+394629,metro,Georgetown, SC
+394343,metro,Athens, OH
+395063,metro,Sanford, NC
+394570,metro,Enid, OK
+394889,metro,Mount Vernon, OH
+395199,metro,Walla Walla, WA
+394309,metro,Albemarle, NC
+394701,metro,Hutchinson, KS
+394693,metro,Hudson, NY
+395124,metro,Starkville, MS
+394443,metro,Carlsbad, NM
+394631,metro,Gillette, WY
+395044,metro,Rutland, VT
+394509,metro,Crossville, TN
+395071,metro,Sayre, PA
+395049,metro,Salina, KS
+753903,metro,Marietta, OH
+394591,metro,Fergus Falls, MN
+394362,metro,Barre, VT
+394618,metro,Fremont, OH
+394939,metro,Oneonta, NY
+394490,metro,Columbus, MS
+394923,metro,Norwalk, OH
+394365,metro,Batavia, NY
+394605,metro,Fort Madison, IA
+395164,metro,Trenton, NJ
+394571,metro,Enterprise, AL
+753902,metro,Malvern, AR
+394613,metro,Frankfort, IN
+394815,metro,Madison, IN
+394835,metro,Martin, TN
+395196,metro,Wabash, IN
+753871,metro,Breckenridge, CO
+394310,metro,Albert Lea, MN
+395093,metro,Sheridan, WY
+394708,metro,Iron Mountain, MI
+394725,metro,Jesup, GA
+394846,metro,McPherson, KS
+394361,metro,Barnstable Town, MA
+394396,metro,Bluefield, WV
+395095,metro,Show Low, AZ
+395168,metro,Tullahoma, TN
+395222,metro,Whitewater, WI
+394637,metro,Grand Forks, ND
+394524,metro,Decatur, IL
+394762,metro,LaGrange, GA
+394369,metro,Bay City, MI
+394599,metro,Fond du Lac, WI
+394964,metro,Parkersburg, WV
+394373,metro,Beaver Dam, WI
+394980,metro,Pine Bluff, AR
+394641,metro,Grants Pass, OR
+394809,metro,Lufkin, TX
+394967,metro,Payson, AZ
+394344,metro,Athens, TN
+394478,metro,Clovis, NM
+394949,metro,Owensboro, KY
+753890,metro,Holland, MI
+394810,metro,Lumberton, NC
+394778,metro,Lawrence, KS
+394635,metro,Goldsboro, NC
+395213,metro,Watertown, NY
+395089,metro,Sheboygan, WI
+395217,metro,Weirton, WV
+394867,metro,Missoula, MT
+394407,metro,Bozeman, MT
+394333,metro,Anniston, AL
+394423,metro,Brunswick, GA
+395173,metro,Twin Falls, ID
+753872,metro,California, MD
+394495,metro,Cookeville, TN
+394893,metro,Muncie, IN
+394857,metro,Michigan City, IN
+395039,metro,Roseburg, OR
+394788,metro,Lewiston, ME
+394804,metro,Longview, WA
+395088,metro,Shawnee, OK
+394884,metro,Mount Airy, NC
+395132,metro,Stevens Point, WI
+394647,metro,Greeneville, TN
+394655,metro,Greenwood, SC
+394764,metro,Lake City, FL
+394752,metro,Klamath Falls, OR
+394877,metro,Morehead City, NC
+394472,metro,Clearlake, CA
+394305,metro,Alamogordo, NM
+395027,metro,Roanoke Rapids, NC
+395198,metro,Wahpeton, ND
+394564,metro,Elk City, OK
+395239,metro,Worthington, MN
+394793,metro,Liberal, KS
+394945,metro,Oskaloosa, IA
+394979,metro,Pierre, SD
+394700,metro,Huron, SD
+395135,metro,Storm Lake, IA
+394498,metro,Cordele, GA
+394578,metro,Evanston, WY
+395014,metro,Raymondville, TX
+394985,metro,Platteville, WI
+394503,metro,Corsicana, TX
+394652,metro,Greenville, OH
+395029,metro,Rochelle, IL
+394538,metro,Douglas, GA
+394933,metro,Oil City, PA
+394838,metro,Mason City, IA
+394717,metro,Jacksonville, TX
+394625,metro,Galesburg, IL
+394954,metro,Pahrump, NV
+394963,metro,Paris, TX
+395234,metro,Winona, MN
+753905,metro,Newport, OR
+394326,metro,Amsterdam, NY
+753911,metro,Ozark, AL
+394316,metro,Alice, TX
+394628,metro,Gardnerville Ranchos, NV
+394608,metro,Fort Polk South, LA
+394437,metro,Ca-Â¦on City, CO
+394903,metro,Natchez, MS
+395158,metro,Tifton, GA
+394397,metro,Blytheville, AR
+394845,metro,McMinnville, TN
+394341,metro,Astoria, OR
+394409,metro,Bradford, PA
+394574,metro,Espa-Â¦ola, NM
+394844,metro,McComb, MS
+753866,metro,Big Stone Gap, VA
+394833,metro,Marshalltown, IA
+394384,metro,Big Rapids, MI
+394354,metro,Austin, MN
+395082,metro,Selinsgrove, PA
+395219,metro,West Plains, MO
+394934,metro,Okeechobee, FL
+394690,metro,Houghton, MI
+394881,metro,Moscow, ID
+394476,metro,Clewiston, FL
+395026,metro,Riverton, WY
+394560,metro,El Dorado, AR
+395083,metro,Selma, AL
+394981,metro,Pittsburg, KS
+394663,metro,Hannibal, MO
+395203,metro,Warren, PA
+394315,metro,Alexandria, MN
+395178,metro,Urbana, OH
+394569,metro,Emporia, KS
+395182,metro,Valdosta, GA
+394800,metro,Logan, UT
+394595,metro,Flagstaff, AZ
+395036,metro,Rocky Mount, NC
+395000,metro,Pottsville, PA
+394515,metro,Dalton, GA
+394783,metro,Lebanon, PA
+394880,metro,Morristown, TN
+395232,metro,Winchester, VA
+395221,metro,Wheeling, WV
+394879,metro,Morgantown, WV
+394756,metro,La Crosse, WI
+394900,metro,Napa, CA
+395013,metro,Rapid City, SD
+394518,metro,Danville, VA
+394761,metro,Lafayette, LA
+395248,metro,Zanesville, OH
+394907,metro,New Castle, PA
+394925,metro,Oak Harbor, WA
+394942,metro,Orangeburg, SC
+395212,metro,Watertown, WI
+394847,metro,Meadville, PA
+394568,metro,Elmira, NY
+394644,metro,Great Falls, MT
+394776,metro,Laurel, MS
+395042,metro,Russellville, AR
+394704,metro,Indiana, PA
+394859,metro,Midland, MI
+394755,metro,Kokomo, IN
+394395,metro,Bloomsburg, PA
+394986,metro,Plattsburgh, NY
+394480,metro,Coeur d'Alene, ID
+394553,metro,East Stroudsburg, PA
+395007,metro,Pueblo, CO
+394392,metro,Blacksburg, VA
+395215,metro,Wausau, WI
+394731,metro,Kahului, HI
+394720,metro,Janesville, WI
+395170,metro,Tupelo, MS
+395136,metro,Sturgis, MI
+394854,metro,Mexico, MO
+394393,metro,Bloomington, IN
+394930,metro,Odessa, TX
+394710,metro,Jackson, MI
+395125,metro,State College, PA
+395079,metro,Sebastian, FL
+394814,metro,Madera, CA
+394523,metro,Decatur, AL
+394453,metro,Chambersburg, PA
+395193,metro,Vineland, NJ
+394703,metro,Idaho Falls, ID
+394639,metro,Grand Junction, CO
+394563,metro,Elizabethtown, KY
+394917,metro,Niles, MI
+394873,metro,Monroe, MI
+395066,metro,Santa Fe, NM
+394493,metro,Concord, NH
+394314,metro,Alexandria, LA
+395163,metro,Traverse City, MI
+394359,metro,Bangor, ME
+394685,metro,Homosassa Springs, FL
+394662,metro,Hanford, CA
+394723,metro,Jefferson City, MO
+394598,metro,Florence, AL
+394537,metro,Dothan, AL
+394802,metro,London, KY
+394306,metro,Albany, GA
+395102,metro,Sioux City, IA
+395223,metro,Wichita Falls, TX
+395152,metro,Texarkana, TX
+395023,metro,Richmond, KY
+394427,metro,Burlington, IA
+394817,metro,Madisonville, KY
+753895,metro,Lafayette, IN
+394428,metro,Burlington, NC
+395210,metro,Waterloo, IA
+394336,metro,Ardmore, OK
+394956,metro,Palestine, TX
+395176,metro,Union City, TN
+394855,metro,Miami, OK
+394898,metro,Myrtle Beach, SC
+395116,metro,Springfield, MO
+394519,metro,Daphne, AL
+394462,metro,Cheyenne, WY
+394689,metro,Hot Springs, AR
+394302,metro,Adrian, MI
+395090,metro,Shelby, NC
+394542,metro,Dubuque, IA
+395034,metro,Rockingham, NC
+394895,metro,Muscatine, IA
+394785,metro,Lewisburg, PA
+394349,metro,Auburn, IN
+394545,metro,Duncan, OK
+395195,metro,Visalia, CA
+394378,metro,Bellingham, WA
+394429,metro,Burlington, VT
+395030,metro,Rochester, MN
+395040,metro,Roswell, NM
+395092,metro,Shelton, WA
+394540,metro,Dublin, GA
+394713,metro,Jackson, WY
+394385,metro,Big Spring, TX
+394557,metro,Effingham, IL
+394983,metro,Pittsfield, MA
+395153,metro,The Villages, FL
+394307,metro,Albany, OR
+394633,metro,Glens Falls, NY
+394780,metro,Lawton, OK
+394474,metro,Cleveland, TN
+395098,metro,Sierra Vista, AZ
+394325,metro,Ames, IA
+395008,metro,Pullman, WA
+394819,metro,Malone, NY
+394527,metro,Del Rio, TX
+394391,metro,Blackfoot, ID
+395017,metro,Red Wing, MN
+394918,metro,Nogales, AZ
+395144,metro,Tahlequah, OK
+394739,metro,Kendallville, IN
+394959,metro,Pampa, TX
+394470,metro,Clarksdale, MS
+395130,metro,Sterling, CO
+394371,metro,Beatrice, NE
+394718,metro,Jamestown, ND
+394656,metro,Grenada, MS
+394837,metro,Maryville, MO
+394337,metro,Arkadelphia, AR
+394798,metro,Little Rock, AR
+395245,metro,Youngstown, OH
+394770,metro,Lansing, MI
+394590,metro,Fayetteville, AR
+394589,metro,Fayetteville, NC
+394792,metro,Lexington, KY
+394971,metro,Pensacola, FL
+394941,metro,Opelousas, LA
+394675,metro,Helena, MT
+394744,metro,Key West, FL
+395145,metro,Talladega, AL
+395133,metro,Stillwater, OK
+394489,metro,Columbus, IN
+394345,metro,Athens, TX
+394452,metro,Centralia, WA
+394822,metro,Manitowoc, WI
+394682,metro,Hinesville, GA
+394541,metro,DuBois, PA
+395068,metro,Santa Rosa, CA
+394698,metro,Huntsville, AL
+394995,metro,Port St. Lucie, FL
+394890,metro,Mount Vernon, WA
+394719,metro,Jamestown, NY
+394878,metro,Morgan City, LA
+395091,metro,Shelbyville, TN
+395154,metro,Thomaston, GA
+394642,metro,Grants, NM
+394381,metro,Bennettsville, SC
+395205,metro,Warsaw, IN
+394445,metro,Casper, WY
+394300,metro,Ada, OK
+394415,metro,Bridgeport, CT
+394380,metro,Bend, OR
+395047,metro,Saginaw, MI
+395202,metro,Warner Robins, GA
+395151,metro,Terre Haute, IN
+394544,metro,Dumas, TX
+394374,metro,Beckley, WV
+395225,metro,Williamsport, PA
+395214,metro,Wauchula, FL
+394554,metro,Easton, MD
+394948,metro,Owatonna, MN
+394888,metro,Mount Vernon, IL
+395181,metro,Uvalde, TX
+394818,metro,Magnolia, AR
+394743,metro,Ketchikan, AK
+394784,metro,Levelland, TX
+753874,metro,Craig, CO
+394659,metro,Guymon, OK
+395188,metro,Vernon, TX
+394767,metro,Lamesa, TX
+845158,metro,Dayton, OH
+394543,metro,Duluth, MN
+845159,metro,Poughkeepsie, NY
+845160,metro,Prescott Valley, AZ
+845164,metro,Lebanon, NH
+845167,metro,Ottawa, IL
+395237,metro,Wooster, OH
+786258,metro,Fort Payne, AL
+845163,metro,Jasper, AL
+845162,metro,Granbury, TX
+786250,metro,Alexander City, AL
+786259,metro,Grand Rapids, MN
+845165,metro,Minden, LA
+394603,metro,Fort Dodge, IA
+786251,metro,Atmore, AL
+786252,metro,Bonham, TX
+845172,metro,Winfield, KS
+786262,metro,Pella, IA
+845166,metro,Mount Gay, WV
+786261,metro,Jennings, LA
+786264,metro,St. Marys, PA
+102001,metro,United States,
+394913,metro,New York, NY
+753899,metro,Los Angeles, CA
 394463,metro,Chicago, IL
+394514,metro,Dallas, TX
+394692,metro,Houston, TX
+395209,metro,Washington, DC
+394974,metro,Philadelphia, PA
+394856,metro,Miami, FL
+394347,metro,Atlanta, GA
+394404,metro,Boston, MA
+394976,metro,Phoenix, AZ
+395057,metro,San Francisco, CA
+395025,metro,Riverside, CA
+394532,metro,Detroit, MI
+395078,metro,Seattle, WA
+394865,metro,Minneapolis, MN
+395056,metro,San Diego, CA
+395148,metro,Tampa, FL
+394530,metro,Denver, CO
+394358,metro,Baltimore, MD
+395121,metro,St. Louis, MO
+394943,metro,Orlando, FL
+394458,metro,Charlotte, NC
+395055,metro,San Antonio, TX
+394998,metro,Portland, OR
+395045,metro,Sacramento, CA
+394982,metro,Pittsburgh, PA
+394466,metro,Cincinnati, OH
+394355,metro,Austin, TX
+394775,metro,Las Vegas, NV
+394735,metro,Kansas City, MO
+394492,metro,Columbus, OH
+394705,metro,Indianapolis, IN
+394475,metro,Cleveland, OH
+395059,metro,San Jose, CA
+394902,metro,Nashville, TN
+395194,metro,Virginia Beach, VA
+395005,metro,Providence, RI
+394714,metro,Jacksonville, FL
+394862,metro,Milwaukee, WI
+394935,metro,Oklahoma City, OK
+395012,metro,Raleigh, NC
+394849,metro,Memphis, TN
+395022,metro,Richmond, VA
+394807,metro,Louisville, KY
+394910,metro,New Orleans, LA
+395053,metro,Salt Lake City, UT
+394669,metro,Hartford, CT
+394425,metro,Buffalo, NY
+394388,metro,Birmingham, AL
+395031,metro,Rochester, NY
+394640,metro,Grand Rapids, MI
+395167,metro,Tucson, AZ
+753924,metro,Urban Honolulu, HI
+395169,metro,Tulsa, OK
+394619,metro,Fresno, CA
+395238,metro,Worcester, MA
+394938,metro,Omaha, NE
