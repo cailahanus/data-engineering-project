@@ -31358,55 +31358,55 @@ region_id,region_type,zipcode,state,metro_area,city,county
 79663,zip,49282, MI," Hillsdale, MI", Hillsdale County, Somerset Center
 92027,zip,77561, TX, Houston-The Woodlands-Sugar Land, Liberty County, Hardin
 69427,zip,27582, NC," Durham-Chapel Hill, NC", Granville County, Stovall
-90371,zip,74360, OK, Miami, Ottawa County, Picher
-58198,zip,01003, MA, Springfield, Hampshire County, Amherst
-58842,zip,02651, TX, Comanche County, De Leon,
-58834,zip,02643, SC, Charleston-North Charleston, Charleston County, Isle of Palms
-58006,zip,00604, AL, Dothan, Houston County, Aguadilla
-58838,zip,02647, MA, Barnstable Town, Barnstable County, Barnstable
-60286,zip,06390, NY, New York-Newark-Jersey City, Suffolk County, Fishers Island
+90371,zip,74360, OK, Miami, Picher, Ottawa County
+58198,zip,01003, MA, Springfield, Amherst, Hampshire County
+58842,zip,02651, TX, De Leon, Comanche County,
+58834,zip,02643, SC, Charleston-North Charleston, Isle of Palms, Charleston County
+58006,zip,00604, AL, Dothan, Aguadilla, Houston County
+58838,zip,02647, MA, Barnstable Town,Barnstable, Barnstable County
+60286,zip,06390, NY, New York-Newark-Jersey City, Fishers Island, Suffolk County
 92840,zip,79111, TX, Amarillo, Potter County,
-70782,zip,29938, SC, Hilton Head Island-Bluffton-Beaufort, Beaufort County, Hilton Head Island
-60283,zip,06387, CT, Worcester, Windham County, Brooklyn
-61850,zip,10542, NY, New York-Newark-Jersey City, Putnam County, Town Of Carmel
+70782,zip,29938, SC, Hilton Head Island-Bluffton-Beaufort, HIlton Head Island, Beaufort County
+60283,zip,06387, CT, Worcester,Brooklyn, Windham County
+61850,zip,10542, NY, New York-Newark-Jersey City, Town of Carmel, Putnam County
 93604,zip,80929, CO," Colorado Springs, CO", El Paso County,
 99936,zip,98641, WA, Pacific County,,
-59723,zip,04939, ME," Bangor, ME", Penobscot County, Garland
-89832,zip,72951, AR," Fort Smith, AR-OK", Franklin County, Branch
-89640,zip,72571, AR," Batesville, AR", Independence County, Rosie
-91113,zip,75856, TX, Houston County, Pennington,
-58593,zip,02047, MA, Boston-Cambridge-Newton, Plymouth County, Scituate
-70089,zip,28637, NC," Hickory-Lenoir-Morganton, NC", Burke County, Hildebran
-86057,zip,63447, MO," Quincy, IL-MO", Lewis County, La Belle
-81375,zip,53550, WI," Madison, WI", Green County, Juda
+59723,zip,04939, ME," Bangor, ME", Garland, Penobscot County
+89832,zip,72951, AR," Fort Smith, AR-OK", Branch, Franklin County
+89640,zip,72571, AR," Batesville, AR", Rosie, Independence County
+91113,zip,75856, TX, Penningon, Houston County,
+58593,zip,02047, MA, Boston-Cambridge-Newton, Scituate, Plymouth County
+70089,zip,28637, NC," Hickory-Lenoir-Morganton, NC", Hildebran, Burke County
+86057,zip,63447, MO," Quincy, IL-MO", La Belle, Lewis County
+81375,zip,53550, WI," Madison, WI", Juda, Green County
 89068,zip,71407, LA," Alexandria, LA", Grant Parish, Bentley
-95430,zip,87560, NM," Las Vegas, NM", San Miguel County, Ribera
-65550,zip,18631, PA," Bloomsburg-Berwick, PA", Columbia County, Nescopeck
-83768,zip,58638, ND," Bismarck, ND", Morton County, Hebron
-81337,zip,53506, WI," Madison, WI", Iowa County, Avoca
-82649,zip,56142, MN, Lincoln County, Ivanhoe,
-75804,zip,40840, KY, Leslie County, Helton,
+95430,zip,87560, NM," Las Vegas, NM", Ribera, San Miguel County
+65550,zip,18631, PA," Bloomsburg-Berwick, PA", Nescopeck, Columbia County
+83768,zip,58638, ND," Bismarck, ND",Hebron, Morton County 
+81337,zip,53506, WI," Madison, WI", Avoca, Iowa County
+82649,zip,56142, MN, Ivanhoe, Lincoln County,
+75804,zip,40840, KY, Helton, Leslie County,
 88860,zip,71018, LA," Minden, LA", Webster Parish, Sarepta
-95289,zip,87062, NM, Socorro County, Socorro,
-74994,zip,38762, MS, Cleveland, Bolivar County, Mound Bayou
+95289,zip,87062, NM, Socorro, Socorro County,
+74994,zip,38762, MS, Cleveland, Mound Bayou, Bolivar County
 89088,zip,71432, LA," Alexandria, LA", Grant Parish, Georgetown
-82427,zip,55753, MN," Grand Rapids, MN", Itasca County, Keewatin
-59702,zip,04912, ME, Somerset County, Athens,
-98249,zip,95511, CA," Eureka-Arcata, CA", Humboldt County, Garberville
+82427,zip,55753, MN," Grand Rapids, MN", Keewatin, Itasca County
+59702,zip,04912, ME, Athens, Somerset County,
+98249,zip,95511, CA," Eureka-Arcata, CA",Garberville, Humboldt County
 71752,zip,32050, TX, Paris, Lamar County,
-89897,zip,73066, OK, Oklahoma City, Oklahoma County, Nicoma Park
-100128,zip,99155, WA, Okanogan County, Nespelem,
-70779,zip,29934, SC," Hilton Head Island-Bluffton, SC", Jasper County, Garnett
-68689,zip,25650, WV, Mingo County, Gilbert,
-83800,zip,58723, ND, McLean County, Butte,
-77426,zip,45061, OH, Cincinnati, Butler County, Hamilton
+89897,zip,73066, OK, Oklahoma City, Nicoma Park, Oklahoma County
+100128,zip,99155, WA, Nespelem, Okanogan County,
+70779,zip,29934, SC," Hilton Head Island-Bluffton, SC", Garnett, Jasper County
+68689,zip,25650, WV, GilbertMingo County,,
+83800,zip,58723, ND, Butte, McLean County,
+77426,zip,45061, OH, Cincinnati, Hamilton, Butler County
 89221,zip,71838, AR," Hope, AR", Hempstead County,
-73857,zip,36425, AL, Monroe County, Evergreen,
+73857,zip,36425, AL, Evergreen, Monroe County,
 69118,zip,26707, WV, Grant County,,
 88916,zip,71110, LA," Shreveport-Bossier City, LA", Bossier Parish,
-70326,zip,29133, SC," Orangeburg, SC", Orangeburg County, Rowesville
-68035,zip,24185, VA, Patrick County, Woolwine,
-85633,zip,62689, IL, Springfield, Sangamon County, Thayer
+70326,zip,29133, SC," Orangeburg, SC", Rowesville, Orangeburg County
+68035,zip,24185, VA, Woolwine, Patrick County,
+85633,zip,62689, IL, Springfield, Thayer, Sangamon County
 83286,zip,57432, SD," Aberdeen, SD", Brown County, Groton
 82705,zip,56224, MN, Redwood County, Clements,
 91886,zip,77376, TX," Beaumont-Port Arthur, TX", Hardin County, Votaw
