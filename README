@@ -1,6 +1,10 @@
 Project Overview:
 
-This project exemplifies data engineering processes, showcasing adeptness in data handling. By engineering Zillow CSV files and utilizing API calls, a robust ETL (Extract, Transform, Load) pipeline was implemented to meticulously clean, edit, and upload the data to a SQL database. Comprehensive comparisons were conducted, contrasting Chicago-specific data with major US cities and within the Chicago area itself. This expansive dataset fosters nuanced analyses, providing insights into historical changes within specific regions and enabling cross-regional comparisons. It serves as a valuable asset for exploring trends in real estate markets, assessing demographic shifts, and evaluating urban development trajectories.
+This project exemplifies data engineering processes, showcasing adeptness in data handling. 
+By engineering Zillow CSV files and utilizing API calls, a robust ETL (Extract, Transform, Load) pipeline was implemented to meticulously clean, edit, and upload the data to a SQL database. 
+Comprehensive comparisons were conducted, contrasting Chicago-specific data with major US cities and within the Chicago area itself. 
+This expansive dataset fosters nuanced analyses, providing insights into historical changes within specific regions and enabling cross-regional comparisons. 
+It serves as a valuable asset for exploring trends in real estate markets, assessing demographic shifts, and evaluating urban development trajectories.
 
 Requirements:
 
