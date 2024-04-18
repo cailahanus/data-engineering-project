@@ -2,7 +2,7 @@
 
 --Inidicators table
 CREATE TABLE Indicators(
-    inidcator_id,
+    indicator_id,
     indicator,
     category
 );
@@ -57,7 +57,7 @@ CREATE TABLE Zip(
 
 --Data table
 CREATE TABLE Data(
-    inidcator_id,
+    indicator_id,
     region_id,
     date,
     value

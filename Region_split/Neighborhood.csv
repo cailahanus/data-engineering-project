@@ -1,4 +1,4 @@
-region_id,region_type,Neighborhood,State,Metro Area,City,County
+region_id,region_type,Neighborhood,State,Metro_Area,City,County
 403211,neigh,Longwood,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,Bronx County
 271495,neigh,North Dallas, TX," Dallas-Fort Worth-Arlington, TX", Dallas County, Dallas
 343208,neigh,Highbridge,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,Bronx County

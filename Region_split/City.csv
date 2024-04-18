@@ -1,4 +1,4 @@
-region_id,region_type,City,State,Metro Area,County
+region_id,region_type,City,State,Metro_Area,County
 26591,city,Port Leyden,NY,,Lewis County
 3986,city,Carson,VA,"Richmond, VA",Dinwiddie County
 6626,city,Princeton,IA,"Davenport-Moline-Rock Island, IA-IL",Scott County

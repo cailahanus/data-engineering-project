@@ -1,4 +1,4 @@
-region_id,region_type,County Name,State,Metro Area
+region_id,region_type,County_Name,State,Metro_Area
 2375,county,Lamoille County,VT,
 865,county,Benton County,IA,"Cedar Rapids, IA"
 2481,county,Plymouth County,IA,

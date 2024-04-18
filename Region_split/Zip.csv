@@ -1,8 +1,8 @@
-region_id,region_type,Zipcode,State,Metro Area,City,County
+region_id,region_type,Zipcode,State,Metro_Area,City,County
 58924,zip,02826,RI,"Providence-Warwick, RI-MA",Burrillville,Providence County
-58472,zip,01745,MA,"Worcester, MA-CT",nan,Worcester County
+58472,zip,01745,MA,"Worcester, MA-CT",,Worcester County
 98400,zip,95721,CA,"Sacramento-Roseville-Folsom, CA",South Lake Tahoe,El Dorado County
-98402,zip,95724,CA,"Sacramento-Roseville-Folsom, CA",nan,Placer County
+98402,zip,95724,CA,"Sacramento-Roseville-Folsom, CA",,Placer County
 95851,zip,89155,NV,"Las Vegas-Henderson-Paradise, NV",Las Vegas,Clark County
 58259,zip,01092,MA,"Worcester, MA-CT",Warren,Worcester County
 65172,zip,17762,PA,"Williamsport, PA",Hughesville,Lycoming County
@@ -352,7 +352,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 96473,zip,91722,CA,"Los Angeles-Long Beach-Anaheim, CA",Covina,Los Angeles County
 100334,zip,99654,AK,"Anchorage, AK",Wasilla,Matanuska Susitna Borough
 81087,zip,52732,IA,"Clinton, IA",Clinton,Clinton County
-71058,zip,30340,GA,"Atlanta-Sandy Springs-Alpharetta, GA",nan,Dekalb County
+71058,zip,30340,GA,"Atlanta-Sandy Springs-Alpharetta, GA",,Dekalb County
 88614,zip,70461,LA,"New Orleans-Metairie, LA",Slidell,Saint Tammany Parish
 73964,zip,36605,AL,"Mobile, AL",Mobile,Mobile County
 60405,zip,06705,CT,"New Haven-Milford, CT",Waterbury,New Haven County
@@ -461,7 +461,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 96169,zip,90601,CA,"Los Angeles-Long Beach-Anaheim, CA",Whittier,Los Angeles County
 67801,zip,23703,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",Portsmouth,Portsmouth City
 97801,zip,94598,CA,"San Francisco-Oakland-Berkeley, CA",Walnut Creek,Contra Costa County
-93197,zip,80005,CO,"Denver-Aurora-Lakewood, CO",nan,Jefferson County
+93197,zip,80005,CO,"Denver-Aurora-Lakewood, CO",,Jefferson County
 67822,zip,23834,VA,"Richmond, VA",Colonial Heights,Chesterfield County
 89301,zip,72015,AR,"Little Rock-North Little Rock-Conway, AR",Benton,Saline County
 84385,zip,60134,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Geneva,Kane County
@@ -509,7 +509,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 77190,zip,44460,OH,"Salem, OH",Salem,Columbiana County
 94222,zip,83607,ID,"Boise City, ID",Caldwell,Canyon County
 86174,zip,63755,MO,"Cape Girardeau, MO-IL",Jackson,Cape Girardeau County
-86386,zip,64152,MO,"Kansas City, MO-KS",nan,Platte County
+86386,zip,64152,MO,"Kansas City, MO-KS",,Platte County
 93240,zip,80108,CO,"Denver-Aurora-Lakewood, CO",Castle Pines,Douglas County
 58530,zip,01880,MA,"Boston-Cambridge-Newton, MA-NH",Wakefield,Middlesex County
 76452,zip,43004,OH,"Columbus, OH",Blacklick,Franklin County
@@ -524,7 +524,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 90674,zip,75078,TX,"Dallas-Fort Worth-Arlington, TX",Prosper,Collin County
 94598,zip,84601,UT,"Provo-Orem, UT",Provo,Utah County
 60729,zip,07631,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Englewood,Bergen County
-98049,zip,95219,CA,"Stockton, CA",nan,San Joaquin County
+98049,zip,95219,CA,"Stockton, CA",,San Joaquin County
 92666,zip,78757,TX,"Austin-Round Rock-Georgetown, TX",Austin,Travis County
 97127,zip,93105,CA,"Santa Maria-Santa Barbara, CA",Santa Barbara,Santa Barbara County
 90683,zip,75089,TX,"Dallas-Fort Worth-Arlington, TX",Rowlett,Dallas County
@@ -712,7 +712,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 75576,zip,40222,KY,"Louisville/Jefferson County, KY-IN",Louisville,Jefferson County
 84432,zip,60187,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Wheaton,DuPage County
 61978,zip,11003,NY,"New York-Newark-Jersey City, NY-NJ-PA",Elmont,Nassau County
-92649,zip,78738,TX,"Austin-Round Rock-Georgetown, TX",nan,Travis County
+92649,zip,78738,TX,"Austin-Round Rock-Georgetown, TX",,Travis County
 95912,zip,89434,NV,"Reno, NV",Sparks,Washoe County
 96330,zip,91214,CA,"Los Angeles-Long Beach-Anaheim, CA",La Crescenta-Montrose,Los Angeles County
 60596,zip,07090,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Westfield,Union County
@@ -789,7 +789,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 94442,zip,84078,UT,"Vernal, UT",Vernal,Uintah County
 67559,zip,23139,VA,"Richmond, VA",Powhatan,Powhatan County
 66055,zip,19802,DE,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Wilmington,New Castle County
-77413,zip,45039,OH,"Cincinnati, OH-KY-IN",nan,Warren County
+77413,zip,45039,OH,"Cincinnati, OH-KY-IN",,Warren County
 67542,zip,23113,VA,"Richmond, VA",Midlothian,Chesterfield County
 87891,zip,68154,NE,"Omaha-Council Bluffs, NE-IA",Omaha,Douglas County
 73727,zip,36067,AL,"Montgomery, AL",Prattville,Autauga County
@@ -944,7 +944,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 60293,zip,06410,CT,"New Haven-Milford, CT",Cheshire,New Haven County
 82040,zip,55014,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",Circle Pines,Anoka County
 91692,zip,77043,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,Harris County
-84314,zip,60051,IL,"Chicago-Naperville-Elgin, IL-IN-WI",nan,McHenry County
+84314,zip,60051,IL,"Chicago-Naperville-Elgin, IL-IN-WI",,McHenry County
 74644,zip,38106,TN,"Memphis, TN-MS-AR",Memphis,Shelby County
 78966,zip,48093,MI,"Detroit-Warren-Dearborn, MI",Warren,Macomb County
 72048,zip,32536,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,Okaloosa County
@@ -956,7 +956,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 74674,zip,38138,TN,"Memphis, TN-MS-AR",Germantown,Shelby County
 79136,zip,48326,MI,"Detroit-Warren-Dearborn, MI",Auburn Hills,Oakland County
 91671,zip,77022,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,Harris County
-81275,zip,53189,WI,"Milwaukee-Waukesha, WI",nan,Waukesha County
+81275,zip,53189,WI,"Milwaukee-Waukesha, WI",,Waukesha County
 59368,zip,04101,ME,"Portland-South Portland, ME",Portland,Cumberland County
 91720,zip,77071,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,Harris County
 90784,zip,75232,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,Dallas County
@@ -1102,7 +1102,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 88633,zip,70510,LA,"Lafayette, LA",Abbeville,Vermilion Parish
 83788,zip,58703,ND,"Minot, ND",Minot,Ward County
 81370,zip,53545,WI,"Janesville-Beloit, WI",Janesville,Rock County
-73271,zip,35023,AL,"Birmingham-Hoover, AL",nan,Jefferson County
+73271,zip,35023,AL,"Birmingham-Hoover, AL",,Jefferson County
 95580,zip,88201,NM,"Roswell, NM",Roswell,Chaves County
 69457,zip,27617,NC,"Raleigh-Cary, NC",Raleigh,Wake County
 59383,zip,04210,ME,"Lewiston-Auburn, ME",Auburn,Androscoggin County
@@ -1154,7 +1154,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 58581,zip,02026,MA,"Boston-Cambridge-Newton, MA-NH",Dedham,Norfolk County
 71377,zip,31024,GA,nan,Eatonton,Putnam County
 91840,zip,77320,TX,"Huntsville, TX",Huntsville,Walker County
-99690,zip,98284,WA,"Mount Vernon-Anacortes, WA",nan,Skagit County
+99690,zip,98284,WA,"Mount Vernon-Anacortes, WA",,Skagit County
 98246,zip,95501,CA,"Eureka-Arcata, CA",Eureka,Humboldt County
 73034,zip,34210,FL,"North Port-Sarasota-Bradenton, FL",Bradenton,Manatee County
 99201,zip,97333,OR,"Corvallis, OR",Corvallis,Benton County
@@ -1401,7 +1401,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 59980,zip,05701,VT,"Rutland, VT",Rutland,Rutland County
 92540,zip,78599,TX,"McAllen-Edinburg-Mission, TX",Weslaco,Hidalgo County
 96043,zip,90062,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,Los Angeles County
-92646,zip,78735,TX,"Austin-Round Rock-Georgetown, TX",nan,Travis County
+92646,zip,78735,TX,"Austin-Round Rock-Georgetown, TX",,Travis County
 58676,zip,02186,MA,"Boston-Cambridge-Newton, MA-NH",Milton,Norfolk County
 96661,zip,92119,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego,San Diego County
 78902,zip,48009,MI,"Detroit-Warren-Dearborn, MI",Birmingham,Oakland County
@@ -1626,7 +1626,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 58441,zip,01602,MA,"Worcester, MA-CT",Worcester,Worcester County
 67309,zip,22556,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Stafford,Stafford County
 72457,zip,33154,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",Bal Harbour,Miami-Dade County
-78412,zip,47025,IN,"Cincinnati, OH-KY-IN",nan,Dearborn County
+78412,zip,47025,IN,"Cincinnati, OH-KY-IN",,Dearborn County
 60308,zip,06437,CT,"New Haven-Milford, CT",Guilford,New Haven County
 97521,zip,94030,CA,"San Francisco-Oakland-Berkeley, CA",Millbrae,San Mateo County
 96420,zip,91411,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,Los Angeles County
@@ -1686,7 +1686,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 87862,zip,68111,NE,"Omaha-Council Bluffs, NE-IA",Omaha,Douglas County
 74963,zip,38701,MS,"Greenville, MS",Greenville,Washington County
 81965,zip,54904,WI,"Oshkosh-Neenah, WI",Oshkosh,Winnebago County
-67074,zip,21842,MD,"Salisbury, MD-DE",nan,Worcester County
+67074,zip,21842,MD,"Salisbury, MD-DE",,Worcester County
 61231,zip,08876,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Somerville,Somerset County
 66232,zip,20136,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Bristow,Prince William County
 58980,zip,02905,RI,"Providence-Warwick, RI-MA",Providence,Providence County
@@ -1707,7 +1707,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 79168,zip,48375,MI,"Detroit-Warren-Dearborn, MI",Novi,Oakland County
 60124,zip,06067,CT,"Hartford-East Hartford-Middletown, CT",Rocky Hill,Hartford County
 78365,zip,46953,IN,"Marion, IN",Marion,Grant County
-72573,zip,33406,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",nan,Palm Beach County
+72573,zip,33406,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",,Palm Beach County
 92586,zip,78653,TX,"Austin-Round Rock-Georgetown, TX",Manor,Travis County
 97043,zip,92835,CA,"Los Angeles-Long Beach-Anaheim, CA",Fullerton,Orange County
 98897,zip,96761,HI,"Kahului-Wailuku-Lahaina, HI",Lahaina,Maui County
@@ -1777,7 +1777,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 60585,zip,07076,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Scotch Plains,Union County
 63017,zip,13210,NY,"Syracuse, NY",Syracuse,Onondaga County
 61218,zip,08859,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Parlin,Middlesex County
-92559,zip,78621,TX,"Austin-Round Rock-Georgetown, TX",nan,Bastrop County
+92559,zip,78621,TX,"Austin-Round Rock-Georgetown, TX",,Bastrop County
 76809,zip,43725,OH,"Cambridge, OH",Cambridge,Guernsey County
 75862,zip,41005,KY,"Cincinnati, OH-KY-IN",Burlington,Boone County
 66056,zip,19803,DE,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Wilmington,New Castle County
@@ -1819,7 +1819,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 88803,zip,70785,LA,"Baton Rouge, LA",Walker,Livingston Parish
 63019,zip,13212,NY,"Syracuse, NY",North Syracuse,Onondaga County
 96563,zip,91945,CA,"San Diego-Chula Vista-Carlsbad, CA",Lemon Grove,San Diego County
-90682,zip,75088,TX,"Dallas-Fort Worth-Arlington, TX",nan,Dallas County
+90682,zip,75088,TX,"Dallas-Fort Worth-Arlington, TX",,Dallas County
 62202,zip,11720,NY,"New York-Newark-Jersey City, NY-NJ-PA",Centereach,Suffolk County
 69377,zip,27518,NC,"Raleigh-Cary, NC",Cary,Wake County
 85884,zip,63042,MO,"St. Louis, MO-IL",Hazelwood,Saint Louis County
@@ -1871,7 +1871,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 93308,zip,80232,CO,"Denver-Aurora-Lakewood, CO",Lakewood,Jefferson County
 58532,zip,01886,MA,"Boston-Cambridge-Newton, MA-NH",Westford,Middlesex County
 79608,zip,49202,MI,"Jackson, MI",Jackson,Jackson County
-76186,zip,42025,KY,nan,nan,Marshall County
+76186,zip,42025,KY,nan,,Marshall County
 66841,zip,21231,MD,"Baltimore-Columbia-Towson, MD",Baltimore,Baltimore City
 72870,zip,33860,FL,"Lakeland-Winter Haven, FL",Mulberry,Polk County
 88577,zip,70401,LA,"Hammond, LA",Hammond,Tangipahoa Parish
@@ -2039,13 +2039,13 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 79684,zip,49316,MI,"Grand Rapids-Kentwood, MI",Gaines,Kent County
 95511,zip,88007,NM,"Las Cruces, NM",Las Cruces,Dona Ana County
 65707,zip,19027,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Elkins Park,Montgomery County
-72920,zip,33931,FL,"Cape Coral-Fort Myers, FL",nan,Lee County
+72920,zip,33931,FL,"Cape Coral-Fort Myers, FL",,Lee County
 96291,zip,91103,CA,"Los Angeles-Long Beach-Anaheim, CA",Pasadena,Los Angeles County
 87048,zip,66030,KS,"Kansas City, MO-KS",Gardner,Johnson County
 72639,zip,33483,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",Delray Beach,Palm Beach County
 87061,zip,66046,KS,"Lawrence, KS",Lawrence,Douglas County
 79903,zip,49735,MI,nan,Gaylord,Otsego County
-76509,zip,43078,OH,"Urbana, OH",nan,Champaign County
+76509,zip,43078,OH,"Urbana, OH",,Champaign County
 98436,zip,95827,CA,"Sacramento-Roseville-Folsom, CA",Rancho Cordova,Sacramento County
 93284,zip,80207,CO,"Denver-Aurora-Lakewood, CO",Denver,Denver County
 93856,zip,82007,WY,"Cheyenne, WY",Cheyenne,Laramie County
@@ -2098,7 +2098,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 79125,zip,48314,MI,"Detroit-Warren-Dearborn, MI",Sterling Heights,Macomb County
 66017,zip,19604,PA,"Reading, PA",Reading,Berks County
 72224,zip,32796,FL,"Palm Bay-Melbourne-Titusville, FL",Titusville,Brevard County
-79758,zip,49445,MI,"Muskegon, MI",nan,Muskegon County
+79758,zip,49445,MI,"Muskegon, MI",,Muskegon County
 63951,zip,15220,PA,"Pittsburgh, PA",Pittsburgh,Allegheny County
 58445,zip,01606,MA,"Worcester, MA-CT",Worcester,Worcester County
 64081,zip,15425,PA,"Pittsburgh, PA",Connellsville,Fayette County
@@ -2162,7 +2162,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 95957,zip,89706,NV,"Carson City, NV",Carson City,Carson City
 87499,zip,67204,KS,"Wichita, KS",Wichita,Sedgwick County
 92016,zip,77545,TX,"Houston-The Woodlands-Sugar Land, TX",Fresno,Fort Bend County
-99285,zip,97439,OR,"Eugene-Springfield, OR",nan,Lane County
+99285,zip,97439,OR,"Eugene-Springfield, OR",,Lane County
 69592,zip,27896,NC,"Wilson, NC",Wilson,Wilson County
 69745,zip,28139,NC,"Forest City, NC",Rutherfordton,Rutherford County
 70796,zip,30009,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Alpharetta,Fulton County
@@ -2205,7 +2205,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 99673,zip,98264,WA,"Bellingham, WA",Lynden,Whatcom County
 88210,zip,68845,NE,"Kearney, NE",Kearney,Buffalo County
 96384,zip,91361,CA,"Oxnard-Thousand Oaks-Ventura, CA",Westlake Village,Ventura County
-91290,zip,76177,TX,"Dallas-Fort Worth-Arlington, TX",nan,Tarrant County
+91290,zip,76177,TX,"Dallas-Fort Worth-Arlington, TX",,Tarrant County
 67746,zip,23502,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",Norfolk,Norfolk City
 90317,zip,74134,OK,"Tulsa, OK",Tulsa,Tulsa County
 72712,zip,33609,FL,"Tampa-St. Petersburg-Clearwater, FL",Tampa,Hillsborough County
@@ -2227,7 +2227,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 81304,zip,53224,WI,"Milwaukee-Waukesha, WI",Milwaukee,Milwaukee County
 61976,zip,11001,NY,"New York-Newark-Jersey City, NY-NJ-PA",Floral Park,Nassau County
 81410,zip,53589,WI,"Madison, WI",Stoughton,Dane County
-99643,zip,98230,WA,"Bellingham, WA",nan,Whatcom County
+99643,zip,98230,WA,"Bellingham, WA",,Whatcom County
 73351,zip,35150,AL,"Talladega-Sylacauga, AL",Sylacauga,Talladega County
 72250,zip,32826,FL,"Orlando-Kissimmee-Sanford, FL",Orlando,Orange County
 87125,zip,66209,KS,"Kansas City, MO-KS",Leawood,Johnson County
@@ -2259,7 +2259,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 100380,zip,99705,AK,"Fairbanks, AK",North Pole,Fairbanks North Star Borough
 84423,zip,60177,IL,"Chicago-Naperville-Elgin, IL-IN-WI",South Elgin,Kane County
 85956,zip,63138,MO,"St. Louis, MO-IL",Spanish Lake,Saint Louis County
-75925,zip,41102,KY,"Huntington-Ashland, WV-KY-OH",nan,Boyd County
+75925,zip,41102,KY,"Huntington-Ashland, WV-KY-OH",,Boyd County
 91735,zip,77086,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,Harris County
 72813,zip,33773,FL,"Tampa-St. Petersburg-Clearwater, FL",Largo,Pinellas County
 78729,zip,47710,IN,"Evansville, IN-KY",Evansville,Vanderburgh County
@@ -2279,7 +2279,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 77408,zip,45030,OH,"Cincinnati, OH-KY-IN",Harrison,Hamilton County
 73965,zip,36606,AL,"Mobile, AL",Mobile,Mobile County
 60473,zip,06850,CT,"Bridgeport-Stamford-Norwalk, CT",Norwalk,Fairfield County
-72487,zip,33185,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",nan,Miami-Dade County
+72487,zip,33185,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",,Miami-Dade County
 58840,zip,02649,MA,"Barnstable Town, MA",Mashpee,Barnstable County
 60600,zip,07094,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Secaucus,Hudson County
 88433,zip,70043,LA,"New Orleans-Metairie, LA",Chalmette,Saint Bernard Parish
@@ -2566,7 +2566,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 74373,zip,37411,TN,"Chattanooga, TN-GA",Chattanooga,Hamilton County
 77392,zip,44906,OH,"Mansfield, OH",Mansfield,Richland County
 71291,zip,30728,GA,"Chattanooga, TN-GA",Lafayette,Walker County
-92424,zip,78380,TX,"Corpus Christi, TX",nan,Nueces County
+92424,zip,78380,TX,"Corpus Christi, TX",,Nueces County
 87642,zip,67530,KS,"Great Bend, KS",Great Bend,Barton County
 75558,zip,40204,KY,"Louisville/Jefferson County, KY-IN",Louisville,Jefferson County
 84381,zip,60130,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Forest Park,Cook County
@@ -2809,10 +2809,10 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 58958,zip,02878,RI,"Providence-Warwick, RI-MA",Tiverton,Newport County
 72808,zip,33767,FL,"Tampa-St. Petersburg-Clearwater, FL",Clearwater,Pinellas County
 94656,zip,84720,UT,"Cedar City, UT",Cedar City,Iron County
-85347,zip,62223,IL,"St. Louis, MO-IL",nan,Saint Clair County
+85347,zip,62223,IL,"St. Louis, MO-IL",,Saint Clair County
 94845,zip,85253,AZ,"Phoenix-Mesa-Chandler, AZ",Paradise Valley,Maricopa County
 88409,zip,69361,NE,"Scottsbluff, NE",Scottsbluff,Scotts Bluff County
-99688,zip,98282,WA,"Oak Harbor, WA",nan,Island County
+99688,zip,98282,WA,"Oak Harbor, WA",,Island County
 75020,zip,38829,MS,"Tupelo, MS",Booneville,Prentiss County
 75651,zip,40361,KY,"Lexington-Fayette, KY",Paris,Bourbon County
 92526,zip,78584, TX," Rio Grande City-Roma, TX", Starr County,
@@ -3027,7 +3027,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 72708,zip,33605,FL,"Tampa-St. Petersburg-Clearwater, FL",Tampa,Hillsborough County
 86115,zip,63601,MO,"Farmington, MO",Park Hills,Saint Francois County
 74150,zip,37069,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",Franklin,Williamson County
-73255,zip,34996,FL,"Port St. Lucie, FL",nan,Martin County
+73255,zip,34996,FL,"Port St. Lucie, FL",,Martin County
 65080,zip,17512,PA,"Lancaster, PA",Columbia,Lancaster County
 64459,zip,16125,PA,"Youngstown-Warren-Boardman, OH-PA",Greenville,Mercer County
 88440,zip,70053,LA,"New Orleans-Metairie, LA",Gretna,Jefferson Parish
@@ -3101,7 +3101,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 77306,zip,44706,OH,"Canton-Massillon, OH",Canton,Stark County
 86290,zip,64029,MO,"Kansas City, MO-KS",Grain Valley,Jackson County
 94419,zip,84054,UT,"Ogden-Clearfield, UT",North Salt Lake,Davis County
-70292,zip,29070,SC,"Columbia, SC",nan,Lexington County
+70292,zip,29070,SC,"Columbia, SC",,Lexington County
 74078,zip,36870,AL,"Auburn-Opelika, AL",Phenix City,Lee County
 91029,zip,75672,TX,"Longview, TX",Marshall,Harrison County
 80095,zip,50036,IA,"Ames, IA",Boone,Boone County
@@ -3215,7 +3215,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 70015,zip,28539,NC,"Jacksonville, NC",Hubert,Onslow County
 64541,zip,16323,PA,"Oil City, PA",Franklin,Venango County
 77695,zip,45504,OH,"Springfield, OH",Springfield,Clark County
-71480,zip,31217,GA,"Macon-Bibb County, GA",nan,Bibb County
+71480,zip,31217,GA,"Macon-Bibb County, GA",,Bibb County
 58775,zip,02467,MA,"Boston-Cambridge-Newton, MA-NH",Brookline,Norfolk County
 64425,zip,16046,PA,"Pittsburgh, PA",Mars,Butler County
 60327,zip,06468,CT,"Bridgeport-Stamford-Norwalk, CT",Monroe,Fairfield County
@@ -3251,10 +3251,10 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 60870,zip,07928,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Chatham,Morris County
 72719,zip,33616,FL,"Tampa-St. Petersburg-Clearwater, FL",Tampa,Hillsborough County
 77983,zip,46135,IN,"Indianapolis-Carmel-Anderson, IN",Greencastle,Putnam County
-90721,zip,75143,TX,"Dallas-Fort Worth-Arlington, TX",nan,Kaufman County
+90721,zip,75143,TX,"Dallas-Fort Worth-Arlington, TX",,Kaufman County
 86364,zip,64127,MO,"Kansas City, MO-KS",Kansas City,Jackson County
 99052,zip,97051,OR,"Portland-Vancouver-Hillsboro, OR-WA",Saint Helens,Columbia County
-71249,zip,30635,GA,nan,nan,Elbert County
+71249,zip,30635,GA,nan,,Elbert County
 68866,zip,26041,WV,"Wheeling, WV-OH",Moundsville,Marshall County
 96271,zip,91011,CA,"Los Angeles-Long Beach-Anaheim, CA",La Canada Flintridge,Los Angeles County
 85877,zip,63034,MO,"St. Louis, MO-IL",Florissant,Saint Louis County
@@ -3331,7 +3331,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 100078,zip,99037,WA,"Spokane-Spokane Valley, WA",Spokane Valley,Spokane County
 67773,zip,23605,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",Newport News,Newport News City
 72372,zip,33034,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",Florida City,Miami-Dade County
-90936,zip,75474,TX,"Dallas-Fort Worth-Arlington, TX",nan,Hunt County
+90936,zip,75474,TX,"Dallas-Fort Worth-Arlington, TX",,Hunt County
 87882,zip,68136,NE,"Omaha-Council Bluffs, NE-IA",Omaha,Sarpy County
 59840,zip,05201,VT,"Bennington, VT",Bennington,Bennington County
 98558,zip,96022,CA,"Red Bluff, CA",Cottonwood,Tehama County
@@ -3349,13 +3349,13 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 80793,zip,52002,IA,"Dubuque, IA",Dubuque,Dubuque County
 96395,zip,91381,CA,"Los Angeles-Long Beach-Anaheim, CA",Stevenson Ranch,Los Angeles County
 87427,zip,67042,KS,"Wichita, KS",El Dorado,Butler County
-66781,zip,21108,MD,"Baltimore-Columbia-Towson, MD",nan,Anne Arundel County
+66781,zip,21108,MD,"Baltimore-Columbia-Towson, MD",,Anne Arundel County
 73176,zip,34690,FL,"Tampa-St. Petersburg-Clearwater, FL",Holiday,Pasco County
 60654,zip,07405,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Kinnelon,Morris County
 96136,zip,90304,CA,"Los Angeles-Long Beach-Anaheim, CA",Inglewood,Los Angeles County
-69625,zip,27948,NC,"Kill Devil Hills, NC",nan,Dare County
+69625,zip,27948,NC,"Kill Devil Hills, NC",,Dare County
 64675,zip,16648,PA,"Altoona, PA",Hollidaysburg,Blair County
-72291,zip,32903,FL,"Palm Bay-Melbourne-Titusville, FL",nan,Brevard County
+72291,zip,32903,FL,"Palm Bay-Melbourne-Titusville, FL",,Brevard County
 74377,zip,37416,TN,"Chattanooga, TN-GA",Chattanooga,Hamilton County
 69843,zip,28307, NC, Fayetteville, Cumberland County, Fort Bragg
 60170,zip,06119,CT,"Hartford-East Hartford-Middletown, CT",West Hartford,Hartford County
@@ -3428,7 +3428,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 77161,zip,44420,OH,"Youngstown-Warren-Boardman, OH-PA",Girard,Trumbull County
 60905,zip,08008,NJ,"New York-Newark-Jersey City, NY-NJ-PA",Long Beach Township,Ocean County
 93806,zip,81521,CO,"Grand Junction, CO",Fruita,Mesa County
-99304,zip,97459,OR,"Coos Bay, OR",nan,Coos County
+99304,zip,97459,OR,"Coos Bay, OR",,Coos County
 66583,zip,20724,MD,"Baltimore-Columbia-Towson, MD",Laurel,Anne Arundel County
 87078,zip,66067,KS,"Ottawa, KS",Ottawa,Franklin County
 58737,zip,02351,MA,"Boston-Cambridge-Newton, MA-NH",Abington,Plymouth County
@@ -3469,7 +3469,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 73383,zip,35213,AL,"Birmingham-Hoover, AL",Mountain Brook,Jefferson County
 58678,zip,02188,MA,"Boston-Cambridge-Newton, MA-NH",Weymouth,Norfolk County
 99345,zip,97524,OR,"Medford, OR",Eagle Point,Jackson County
-70049,zip,28584,NC,"Morehead City, NC",nan,Carteret County
+70049,zip,28584,NC,"Morehead City, NC",,Carteret County
 74346,zip,37377,TN,"Chattanooga, TN-GA",Signal Mountain,Hamilton County
 97063,zip,92865,CA,"Los Angeles-Long Beach-Anaheim, CA",Orange,Orange County
 65504,zip,18466,PA,"East Stroudsburg, PA",Tobyhanna,Monroe County
@@ -3516,7 +3516,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 63024,zip,13219,NY,"Syracuse, NY",Syracuse,Onondaga County
 70316,zip,29118,SC,"Orangeburg, SC",Orangeburg,Orangeburg County
 66031,zip,19707,DE,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Hockessin,New Castle County
-91932,zip,77441,TX,"Houston-The Woodlands-Sugar Land, TX",nan,Fort Bend County
+91932,zip,77441,TX,"Houston-The Woodlands-Sugar Land, TX",,Fort Bend County
 71070,zip,30354,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,Fulton County
 77537,zip,45246,OH,"Cincinnati, OH-KY-IN",Springdale,Hamilton County
 73479,zip,35475,AL,"Tuscaloosa, AL",Northport,Tuscaloosa County
@@ -3637,7 +3637,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 73911,zip,36527,AL,"Daphne-Fairhope-Foley, AL",Spanish Fort,Baldwin County
 90998,zip,75633,TX,nan,Carthage,Panola County
 58149,zip,00927, CO, Archuleta County, Pagosa Springs,
-73858,zip,36426,AL,"Atmore, AL",nan,Escambia County
+73858,zip,36426,AL,"Atmore, AL",,Escambia County
 71003,zip,30276,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Senoia,Coweta County
 86751,zip,65265,MO,"Mexico, MO",Mexico,Audrain County
 66899,zip,21532,MD,"Cumberland, MD-WV",Frostburg,Allegany County
@@ -3666,7 +3666,7 @@ region_id,region_type,Zipcode,State,Metro Area,City,County
 98241,zip,95490,CA,"Ukiah, CA",Willits,Mendocino County
 77267,zip,44654,OH,nan,Millersburg,Holmes County
 89622,zip,72543,AR,nan,Heber Springs,Cleburne County
-73229,zip,34949,FL,"Port St. Lucie, FL",nan,Saint Lucie County
+73229,zip,34949,FL,"Port St. Lucie, FL",,Saint Lucie County
 70403,zip,29323,SC,"Spartanburg, SC",Chesnee,Spartanburg County
 63385,zip,14048,NY,"Jamestown-Dunkirk-Fredonia, NY",Dunkirk,Chautauqua County
 85891,zip,63050,MO,"St. Louis, MO-IL",Hillsboro,Jefferson County
