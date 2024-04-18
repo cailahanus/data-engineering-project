@@ -6,7 +6,7 @@ region
 
 Zillow_Indicators
 -
-indicator_id
+indicator_id PK
 indicator
 category
 
