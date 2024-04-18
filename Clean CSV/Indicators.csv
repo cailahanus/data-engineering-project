@@ -1,0 +1,29 @@
+indicator_id,indicator,category
+Z4BR,ZHVI 4-Bedroom Time Series ($),Home values
+ZALL,"ZHVI All Homes (SFR, Condo/Co-op) Time Series ($)",Home values
+ZCON,ZHVI Condo/Co-op Time Series ($),Home values
+ZSFH,ZHVI Single-Family Homes Time Series ($),Home values
+Z3BR,ZHVI 3-Bedroom Time Series ($),Home values
+IRAW,"For-Sale Inventory (Raw, All Homes, Weekly View)",Inventory and sales
+SAAW,"Median Sale Price (Smooth & Seasonally Adjusted, All Homes, Weekly View)",Inventory and sales
+MRAM,"Mean Days to Pending (Raw, All Homes, Monthly)",Inventory and sales
+Z2BR,ZHVI 2-Bedroom Time Series ($),Home values
+ZATT,ZHVI All Homes- Top Tier Time Series ($),Home values
+SSSW,"Median Sale Price (Smooth, SFR only, Weekly View)",Inventory and sales
+LSSM,"Median List Price (Smooth, SFR Only, Monthly)",Inventory and sales
+CSAW,"Share of Listings With a Price Cut (Smooth, All Homes, Weekly View)",Inventory and sales
+ZABT,ZHVI All Homes- Bottom Tier Time Series ($),Home values
+SASW,"Median Sale Price (Smooth & Seasonally Adjusted, SFR only, Weekly View)",Inventory and sales
+MRAW,"Mean Days to Pending (Raw, All Homes, Weekly View) ",Inventory and sales
+LRAM,"Median List Price (Raw, All Homes, Monthly)",Inventory and sales
+ISSW,"For-Sale Inventory (Smooth, SFR only, Weekly View)",Inventory and sales
+MSAW,"Mean Days to Pending (Smooth, All Homes, Weekly View)",Inventory and sales
+LSAM,"Median List Price (Smooth, All Homes, Monthly)",Inventory and sales
+NRAW,"Median Days to Pending (Raw, All Homes, Weekly View)",Inventory and sales
+NSAW,"Median Days to Pending (Smooth, All Homes, Weekly View)",Inventory and sales
+SRAM,"Median Sale Price (Raw, All Homes, Monthly)",Inventory and sales
+SSAM,"Median Sale Price (Smooth, All Homes, Monthly)",Inventory and sales
+NSAM,"Median Days to Pending (Smooth, All Homes, Monthly)",Inventory and sales
+CRAM,"Share of Listings With a Price Cut (Raw, All Homes, Monthly)",Inventory and sales
+Z5BR,ZHVI 5+ Bedroom Time Series ($),Home values
+NRAM,"Median Days to Pending (Raw, All Homes, Monthly)",Inventory and sales

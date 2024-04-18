@@ -1,0 +1,3007 @@
+region_id,region_type,County Name,State,Metro Area
+2375,county,Lamoille County,VT,
+865,county,Benton County,IA,"Cedar Rapids, IA"
+2481,county,Plymouth County,IA,
+703,county,Salem City,VA,"Roanoke, VA"
+568,county,Iosco County,MI,
+3230,county,Staunton City,VA,"Staunton, VA"
+1297,county,Otsego County,MI,
+2400,county,Manistee County,MI,
+699,county,Routt County,CO,"Steamboat Springs, CO"
+891,county,Bremer County,IA,"Waterloo-Cedar Falls, IA"
+2550,county,Somerset County,MD,"Salisbury, MD-DE"
+1207,county,Miller County,MO,
+1427,county,Teller County,CO,"Colorado Springs, CO"
+1517,county,Aransas County,TX,"Rockport, TX"
+3162,county,Fairfax City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+2936,county,Hood River County,OR,"Hood River, OR"
+878,county,Blaine County,ID,"Hailey, ID"
+2838,county,Roscommon County,MI,
+833,county,Antrim County,MI,
+745,county,Teton County,WY,"Jackson, WY-ID"
+466,county,Curry County,OR,"Brookings, OR"
+1962,county,Pacific County,WA,
+782,county,Vilas County,WI,
+3052,county,Washington County,IA,"Iowa City, IA"
+1198,county,Mercer County,KY,
+2390,county,Leelanau County,MI,"Traverse City, MI"
+1235,county,Morgan County,MO,
+3086,county,Buena Vista County,IA,"Storm Lake, IA"
+364,county,Adams County,WI,
+487,county,Dukes County,MA,"Vineyard Haven, MA"
+1877,county,Lincoln County,NM,"Ruidoso, NM"
+1329,county,Plumas County,CA,
+1796,county,Jackson County,IA,
+1606,county,Chaffee County,CO,
+2962,county,Los Alamos County,NM,"Los Alamos, NM"
+2932,county,Green Lake County,WI,
+430,county,Cedar County,IA,
+1053,county,Greene County,GA,
+1937,county,Montour County,PA,"Bloomsburg-Berwick, PA"
+873,county,Benzie County,MI,"Traverse City, MI"
+1368,county,Sawyer County,WI,
+376,county,Avery County,NC,
+2522,county,San Juan County,WA,
+2681,county,Dickinson County,IA,"Spirit Lake, IA"
+2246,county,Delaware County,IA,
+1324,county,Pitkin County,CO,"Glenwood Springs, CO"
+315,county,Tama County,IA,
+2313,county,Gunnison County,CO,
+692,county,Rabun County,GA,
+2737,county,Jefferson County,IA,"Fairfield, IA"
+528,county,Grand County,CO,
+403,county,Brown County,IN,"Indianapolis-Carmel-Anderson, IN"
+3279,county,Williamsburg City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+3282,county,Manassas Park City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+1256,county,Nelson County,VA,"Charlottesville, VA"
+3272,county,Falls Church City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+739,county,Swain County,NC,"Cullowhee, NC"
+1273,county,O Brien County,IA,
+2611,county,Allamakee County,IA,
+3274,county,Ketchikan Gateway Borough,AK,"Ketchikan, AK"
+935,county,Chowan County,NC,
+2813,county,Nantucket County,MA,
+253,county,Mono County,CA,
+2618,county,Archuleta County,CO,
+107,county,Cass County,IA,
+2547,county,Shoshone County,ID,
+950,county,Colfax County,NM,
+1067,county,Grundy County,IA,"Waterloo-Cedar Falls, IA"
+752,county,Towns County,GA,
+1963,county,Pamlico County,NC,"New Bern, NC"
+2272,county,Franklin County,FL,
+3113,county,Northampton County,VA,
+743,county,Teton County,ID,"Jackson, WY-ID"
+1454,county,Valley County,ID,
+1012,county,Fergus County,MT,
+694,county,Ralls County,MO,"Hannibal, MO"
+3091,county,Clear Creek County,CO,"Denver-Aurora-Lakewood, CO"
+1906,county,Madison County,MT,
+3022,county,San Miguel County,CO,
+3000,county,Pocahontas County,WV,
+140,county,Cook County,MN,
+665,county,Ouray County,CO,"Montrose, CO"
+828,county,Alpine County,CA,
+3101,county,Los Angeles County,CA,"Los Angeles-Long Beach-Anaheim, CA"
+139,county,Cook County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+1090,county,Harris County,TX,"Houston-The Woodlands-Sugar Land, TX"
+2402,county,Maricopa County,AZ,"Phoenix-Mesa-Chandler, AZ"
+2841,county,San Diego County,CA,"San Diego-Chula Vista-Carlsbad, CA"
+1286,county,Orange County,CA,"Los Angeles-Long Beach-Anaheim, CA"
+581,county,Kings County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+2964,county,Miami-Dade County,FL,"Miami-Fort Lauderdale-Pompano Beach, FL"
+978,county,Dallas County,TX,"Dallas-Fort Worth-Arlington, TX"
+2832,county,Riverside County,CA,"Riverside-San Bernardino-Ontario, CA"
+1347,county,Queens County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+207,county,King County,WA,"Seattle-Tacoma-Bellevue, WA"
+445,county,Clark County,NV,"Las Vegas-Henderson-Paradise, NV"
+3250,county,San Bernardino County,CA,"Riverside-San Bernardino-Ontario, CA"
+2049,county,Tarrant County,TX,"Dallas-Fort Worth-Arlington, TX"
+386,county,Bexar County,TX,"San Antonio-New Braunfels, TX"
+3136,county,Santa Clara County,CA,"San Jose-Sunnyvale-Santa Clara, CA"
+1561,county,Broward County,FL,"Miami-Fort Lauderdale-Pompano Beach, FL"
+791,county,Wayne County,MI,"Detroit-Warren-Dearborn, MI"
+1510,county,Alameda County,CA,"San Francisco-Oakland-Berkeley, CA"
+2452,county,New York County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+2801,county,Middlesex County,MA,"Boston-Cambridge-Newton, MA-NH"
+3175,county,Philadelphia County,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+3017,county,Sacramento County,CA,"Sacramento-Roseville-Folsom, CA"
+2046,county,Suffolk County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+2993,county,Palm Beach County,FL,"Miami-Fort Lauderdale-Pompano Beach, FL"
+401,county,Bronx County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+3165,county,Hillsborough County,FL,"Tampa-St. Petersburg-Clearwater, FL"
+1287,county,Orange County,FL,"Orlando-Kissimmee-Sanford, FL"
+1252,county,Nassau County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+2288,county,Franklin County,OH,"Columbus, OH"
+1950,county,Oakland County,MI,"Detroit-Warren-Dearborn, MI"
+2339,county,Hennepin County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+1440,county,Travis County,TX,"Austin-Round Rock-Georgetown, TX"
+2241,county,Cuyahoga County,OH,"Cleveland-Elyria, OH"
+2614,county,Allegheny County,PA,"Pittsburgh, PA"
+2840,county,Salt Lake County,UT,"Salt Lake City, UT"
+3159,county,Contra Costa County,CA,"San Francisco-Oakland-Berkeley, CA"
+1694,county,Fairfax County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+324,county,Wake County,NC,"Raleigh-Cary, NC"
+3102,county,Mecklenburg County,NC,"Charlotte-Concord-Gastonia, NC-SC"
+2975,county,Montgomery County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+1020,county,Fulton County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+951,county,Collin County,TX,"Dallas-Fort Worth-Arlington, TX"
+281,county,Pima County,AZ,"Tucson, AZ"
+2347,county,Honolulu County,HI,"Urban Honolulu, HI"
+1018,county,Fresno County,CA,"Fresno, CA"
+3130,county,Saint Louis County,MO,"St. Louis, MO-IL"
+3148,county,Westchester County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+489,county,Duval County,FL,"Jacksonville, FL"
+1165,county,Marion County,IN,"Indianapolis-Carmel-Anderson, IN"
+2480,county,Pinellas County,FL,"Tampa-St. Petersburg-Clearwater, FL"
+3246,county,Prince Georges County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+2694,county,Fairfield County,CT,"Bridgeport-Stamford-Norwalk, CT"
+874,county,Bergen County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+157,county,Erie County,NY,"Buffalo-Cheektowaga, NY"
+2314,county,Gwinnett County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2804,county,Milwaukee County,WI,"Milwaukee-Waukesha, WI"
+1682,county,DuPage County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+1388,county,Shelby County,TN,"Memphis, TN-MS-AR"
+1322,county,Pierce County,WA,"Seattle-Tacoma-Bellevue, WA"
+204,county,Kern County,CA,"Bakersfield, CA"
+2337,county,Hartford County,CT,"Hartford-East Hartford-Middletown, CT"
+988,county,Denton County,TX,"Dallas-Fort Worth-Arlington, TX"
+1155,county,Macomb County,MI,"Detroit-Warren-Dearborn, MI"
+3227,county,San Francisco County,CA,"San Francisco-Oakland-Berkeley, CA"
+1776,county,Hidalgo County,TX,"McAllen-Edinburg-Mission, TX"
+2815,county,New Haven County,CT,"New Haven-Milford, CT"
+1690,county,El Paso County,TX,"El Paso, TX"
+2802,county,Middlesex County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+2879,county,Worcester County,MA,"Worcester, MA-CT"
+504,county,Essex County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+2981,county,Montgomery County,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+2626,county,Baltimore County,MD,"Baltimore-Columbia-Towson, MD"
+2061,county,Ventura County,CA,"Oxnard-Thousand Oaks-Ventura, CA"
+2322,county,Hamilton County,OH,"Cincinnati, OH-KY-IN"
+2847,county,Snohomish County,WA,"Seattle-Tacoma-Bellevue, WA"
+2810,county,Multnomah County,OR,"Portland-Vancouver-Hillsboro, OR-WA"
+2698,county,Fort Bend County,TX,"Houston-The Woodlands-Sugar Land, TX"
+503,county,Essex County,MA,"Boston-Cambridge-Newton, MA-NH"
+2045,county,Suffolk County,MA,"Boston-Cambridge-Newton, MA-NH"
+2463,county,Oklahoma County,OK,"Oklahoma City, OK"
+2742,county,Jefferson County,KY,"Louisville/Jefferson County, KY-IN"
+3134,county,San Joaquin County,CA,"Stockton, CA"
+135,county,Cobb County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2842,county,San Mateo County,CA,"San Francisco-Oakland-Berkeley, CA"
+984,county,Dekalb County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+1223,county,Monroe County,NY,"Rochester, NY"
+80,county,Lee County,FL,"Cape Coral-Fort Myers, FL"
+1689,county,El Paso County,CO,"Colorado Springs, CO"
+1948,county,Norfolk County,MA,"Boston-Cambridge-Newton, MA-NH"
+220,county,Lake County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+1804,county,Jackson County,MO,"Kansas City, MO-KS"
+285,county,Polk County,FL,"Lakeland-Winter Haven, FL"
+1106,county,Hudson County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+2243,county,Davidson County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+989,county,Denver County,CO,"Denver-Aurora-Lakewood, CO"
+330,county,Will County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+3289,county,District of Columbia,DC,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+2889,county,Bernalillo County,NM,"Albuquerque, NM"
+2732,county,Jefferson County,AL,"Birmingham-Hoover, AL"
+757,county,Tulsa County,OK,"Tulsa, OK"
+3001,county,Providence County,RI,"Providence-Warwick, RI-MA"
+201,county,Kent County,MI,"Grand Rapids-Kentwood, MI"
+2127,county,Arapahoe County,CO,"Denver-Aurora-Lakewood, CO"
+322,county,Utah County,UT,"Provo-Orem, UT"
+414,county,Bucks County,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+2441,county,Monmouth County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+659,county,Ocean County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+2983,county,Montgomery County,TX,"Houston-The Woodlands-Sugar Land, TX"
+1822,county,Johnson County,KS,"Kansas City, MO-KS"
+1556,county,Brevard County,FL,"Palm Bay-Melbourne-Titusville, FL"
+3069,county,Washington County,OR,"Portland-Vancouver-Hillsboro, OR-WA"
+3236,county,Baltimore City,MD,"Baltimore-Columbia-Towson, MD"
+3081,county,Williamson County,TX,"Austin-Round Rock-Georgetown, TX"
+3152,county,Anne Arundel County,MD,"Baltimore-Columbia-Towson, MD"
+2734,county,Jefferson County,CO,"Denver-Aurora-Lakewood, CO"
+1676,county,Douglas County,NE,"Omaha-Council Bluffs, NE-IA"
+1558,county,Bristol County,MA,"Providence-Warwick, RI-MA"
+2251,county,Delaware County,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+771,county,Union County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+2986,county,New Castle County,DE,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+146,county,Dane County,WI,"Madison, WI"
+669,county,Pasco County,FL,"Tampa-St. Petersburg-Clearwater, FL"
+3033,county,Stanislaus County,CA,"Modesto, CA"
+2776,county,Lancaster County,PA,"Lancaster, PA"
+1349,county,Ramsey County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+2063,county,Volusia County,FL,"Deltona-Daytona Beach-Ormond Beach, FL"
+1404,county,Summit County,OH,"Akron, OH"
+2312,county,Guilford County,NC,"Greensboro-High Point, NC"
+2980,county,Montgomery County,OH,"Dayton-Kettering, OH"
+1611,county,Chester County,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+2033,county,Spokane County,WA,"Spokane-Spokane Valley, WA"
+2482,county,Plymouth County,MA,"Boston-Cambridge-Newton, MA-NH"
+911,county,Camden County,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+1964,county,Passaic County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+2537,county,Sedgwick County,KS,"Wichita, KS"
+2934,county,Greenville County,SC,"Greenville-Anderson, SC"
+197,county,Kane County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+353,county,Adams County,CO,"Denver-Aurora-Lakewood, CO"
+1241,county,Morris County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+448,county,Clark County,WA,"Portland-Vancouver-Hillsboro, OR-WA"
+221,county,Lake County,IN,"Chicago-Naperville-Elgin, IL-IN-WI"
+2511,county,Richmond County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+1396,county,Sonoma County,CA,"Santa Rosa-Petaluma, CA"
+287,county,Polk County,IA,"Des Moines-West Des Moines, IA"
+66,county,Ada County,ID,"Boise City, ID"
+1485,county,Washoe County,NV,"Reno, NV"
+3247,county,Prince William County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+215,county,Knox County,TN,"Knoxville, TN"
+2465,county,Onondaga County,NY,"Syracuse, NY"
+1442,county,Tulare County,CA,"Visalia, CA"
+2538,county,Seminole County,FL,"Orlando-Kissimmee-Sanford, FL"
+1746,county,Hampden County,MA,"Springfield, MA"
+2896,county,Burlington County,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+3286,county,Virginia Beach City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+3266,county,East Baton Rouge Parish,LA,"Baton Rouge, LA"
+343,county,York County,PA,"York-Hanover, PA"
+1395,county,Solano County,CA,"Vallejo, CA"
+3229,county,Santa Barbara County,CA,"Santa Maria-Santa Barbara, CA"
+2743,county,Jefferson Parish,LA,"New Orleans-Metairie, LA"
+2444,county,Monterey County,CA,"Salinas, CA"
+971,county,Dakota County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+616,county,Lucas County,OH,"Toledo, OH"
+2528,county,Sarasota County,FL,"North Port-Sarasota-Bradenton, FL"
+385,county,Berks County,PA,"Reading, PA"
+685,county,Pinal County,AZ,"Phoenix-Mesa-Chandler, AZ"
+3166,county,Hillsborough County,NH,"Manchester-Nashua, NH"
+1585,county,Cameron County,TX,"Brownsville-Harlingen, TX"
+2661,county,Clackamas County,OR,"Portland-Vancouver-Hillsboro, OR-WA"
+2507,county,Richland County,SC,"Columbia, SC"
+1208,county,Mobile County,AL,"Mobile, AL"
+1887,county,Loudoun County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+1721,county,Genesee County,MI,"Flint, MI"
+2596,county,Waukesha County,WI,"Milwaukee-Waukesha, WI"
+2897,county,Charleston County,SC,"Charleston-North Charleston, SC"
+3223,county,Saint Charles County,MO,"St. Louis, MO-IL"
+1325,county,Placer County,CA,"Sacramento-Roseville-Folsom, CA"
+1290,county,Orange County,NY,"Poughkeepsie-Newburgh-Middletown, NY"
+1981,county,Pulaski County,AR,"Little Rock-North Little Rock-Conway, AR"
+1916,county,Manatee County,FL,"North Port-Sarasota-Bradenton, FL"
+904,county,Butler County,OH,"Cincinnati, OH-KY-IN"
+1201,county,Mercer County,NJ,"Trenton-Princeton, NJ"
+1953,county,Orleans Parish,LA,"New Orleans-Metairie, LA"
+1894,county,Madison County,AL,"Huntsville, AL"
+367,county,Allen County,IN,"Fort Wayne, IN"
+1712,county,Forsyth County,NC,"Winston-Salem, NC"
+231,county,Lane County,OR,"Eugene-Springfield, OR"
+1957,county,Osceola County,FL,"Orlando-Kissimmee-Sanford, FL"
+219,county,Lake County,FL,"Orlando-Kissimmee-Sanford, FL"
+730,county,Stark County,OH,"Canton-Massillon, OH"
+1638,county,Collier County,FL,"Naples-Marco Island, FL"
+1146,county,Lehigh County,PA,"Allentown-Bethlehem-Easton, PA-NJ"
+1161,county,Marion County,FL,"Ocala, FL"
+2151,county,Brazoria County,TX,"Houston-The Woodlands-Sugar Land, TX"
+98,county,Bell County,TX,"Killeen-Temple, TX"
+2323,county,Hamilton County,TN,"Chattanooga, TN-GA"
+373,county,Anoka County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+3158,county,Chesterfield County,VA,"Richmond, VA"
+470,county,Davis County,UT,"Ogden-Clearfield, UT"
+3200,county,Westmoreland County,PA,"Pittsburgh, PA"
+1849,county,Larimer County,CO,"Fort Collins, CO"
+1272,county,Nueces County,TX,"Corpus Christi, TX"
+1670,county,Douglas County,CO,"Denver-Aurora-Lakewood, CO"
+2702,county,Galveston County,TX,"Houston-The Woodlands-Sugar Land, TX"
+563,county,Horry County,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC"
+1171,county,Marion County,OR,"Salem, OR"
+2552,county,Somerset County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+2318,county,Hamilton County,IN,"Indianapolis-Carmel-Anderson, IN"
+2515,county,Rockland County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+3016,county,Rutherford County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+2912,county,Cumberland County,NC,"Fayetteville, NC"
+1771,county,Henrico County,VA,"Richmond, VA"
+1101,county,Howard County,MD,"Baltimore-Columbia-Towson, MD"
+1549,county,Boulder County,CO,"Boulder, CO"
+3131,county,Saint Lucie County,FL,"Port St. Lucie, FL"
+1893,county,Luzerne County,PA,"Scranton--Wilkes-Barre, PA"
+3141,county,Spartanburg County,SC,"Spartanburg, SC"
+329,county,Weld County,CO,"Greeley, CO"
+1701,county,Fayette County,KY,"Lexington-Fayette, KY"
+2775,county,Lancaster County,NE,"Lincoln, NE"
+999,county,Durham County,NC,"Durham-Chapel Hill, NC"
+2259,county,Escambia County,FL,"Pensacola-Ferry Pass-Brent, FL"
+823,county,Albany County,NY,"Albany-Schenectady-Troy, NY"
+3013,county,Rockingham County,NH,"Boston-Cambridge-Newton, MA-NH"
+1150,county,Lorain County,OH,"Cleveland-Elyria, OH"
+3112,county,Northampton County,PA,"Allentown-Bethlehem-Easton, PA-NJ"
+1922,county,McHenry County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+1891,county,Lubbock County,TX,"Lubbock, TX"
+3269,county,Saint Louis City,MO,"St. Louis, MO-IL"
+2911,county,Cumberland County,ME,"Portland-South Portland, ME"
+2929,county,Gloucester County,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+1057,county,Greene County,MO,"Springfield, MO"
+2255,county,Dutchess County,NY,"Poughkeepsie-Newburgh-Middletown, NY"
+1608,county,Chatham County,GA,"Savannah, GA"
+1622,county,Clayton County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+1300,county,Ottawa County,MI,"Grand Rapids-Kentwood, MI"
+2616,county,Anchorage Borough,AK,"Anchorage, AK"
+2668,county,Cleveland County,OK,"Oklahoma City, OK"
+2779,county,Lexington County,SC,"Columbia, SC"
+232,county,Leon County,FL,"Tallahassee, FL"
+2575,county,Thurston County,WA,"Olympia-Lacey-Tumwater, WA"
+1110,county,Ingham County,MI,"Lansing-East Lansing, MI"
+2877,county,Winnebago County,IL,"Rockford, IL"
+1650,county,Dauphin County,PA,"Harrisburg-Carlisle, PA"
+3261,county,San Luis Obispo County,CA,"San Luis Obispo-Paso Robles, CA"
+864,county,Benton County,AR,"Fayetteville-Springdale-Rogers, AR"
+1196,county,Merced County,CA,"Merced, CA"
+344,county,York County,SC,"Charlotte-Concord-Gastonia, NC-SC"
+1509,county,Alachua County,FL,"Gainesville, FL"
+2133,county,Atlantic County,NJ,"Atlantic City-Hammonton, NJ"
+1138,county,Kitsap County,WA,"Bremerton-Silverdale-Port Orchard, WA"
+3025,county,Santa Cruz County,CA,"Santa Cruz-Watsonville, CA"
+2849,county,Saint Joseph County,IN,"South Bend-Mishawaka, IN-MI"
+159,county,Erie County,PA,"Erie, PA"
+2987,county,New London County,CT,"Norwich-New London, CT"
+2699,county,Frederick County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+410,county,Brown County,WI,"Green Bay, WI"
+2156,county,Buncombe County,NC,"Asheville, NC"
+328,county,Webb County,TX,"Laredo, TX"
+1900,county,Madison County,IL,"St. Louis, MO-IL"
+3128,county,Saint Johns County,FL,"Jacksonville, FL"
+3061,county,Washington County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+3225,county,Saint Tammany Parish,LA,"New Orleans-Metairie, LA"
+625,county,Marin County,CA,"San Francisco-Oakland-Berkeley, CA"
+2188,county,Cherokee County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2761,county,Kalamazoo County,MI,"Kalamazoo-Portage, MI"
+802,county,Weber County,UT,"Ogden-Clearfield, UT"
+3122,county,Saint Clair County,IL,"St. Louis, MO-IL"
+1761,county,Harford County,MD,"Baltimore-Columbia-Towson, MD"
+2429,county,McLennan County,TX,"Waco, TX"
+2914,county,Cumberland County,PA,"Harrisburg-Carlisle, PA"
+2754,county,Jefferson County,TX,"Beaumont-Port Arthur, TX"
+1503,county,Yakima County,WA,"Yakima, WA"
+126,county,Clay County,MO,"Kansas City, MO-KS"
+3254,county,Chesapeake City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+1711,county,Forsyth County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+3048,county,Washington County,AR,"Fayetteville-Springdale-Rogers, AR"
+3080,county,Williamson County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+2770,county,Lafayette Parish,LA,"Lafayette, LA"
+423,county,Caddo Parish,LA,"Shreveport-Bossier City, LA"
+1480,county,Warren County,OH,"Cincinnati, OH-KY-IN"
+3173,county,Norfolk City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+553,county,Henry County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+770,county,Union County,NC,"Charlotte-Concord-Gastonia, NC-SC"
+2619,county,Arlington County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+2529,county,Saratoga County,NY,"Albany-Schenectady-Troy, NY"
+178,county,Hays County,TX,"Austin-Round Rock-Georgetown, TX"
+1412,county,Sussex County,DE,"Salisbury, MD-DE"
+2112,county,Yavapai County,AZ,"Prescott Valley-Prescott, AZ"
+225,county,Lake County,OH,"Cleveland-Elyria, OH"
+725,county,Smith County,TX,"Tyler, TX"
+890,county,Brazos County,TX,"College Station-Bryan, TX"
+562,county,Hinds County,MS,"Jackson, MS"
+2967,county,Montgomery County,AL,"Montgomery, AL"
+2399,county,Mahoning County,OH,"Youngstown-Warren-Boardman, OH-PA"
+235,county,Linn County,IA,"Cedar Rapids, IA"
+2885,county,Barnstable County,MA,"Barnstable Town, MA"
+913,county,Canyon County,ID,"Boise City, ID"
+1525,county,Baldwin County,AL,"Daphne-Fairhope-Foley, AL"
+1032,county,Gaston County,NC,"Charlotte-Concord-Gastonia, NC-SC"
+2744,county,Jefferson County,MO,"St. Louis, MO-IL"
+3219,county,Richmond City,VA,"Richmond, VA"
+3109,county,New Hanover County,NC,"Wilmington, NC"
+2086,county,Whatcom County,WA,"Bellingham, WA"
+3043,county,Tuscaloosa County,AL,"Tuscaloosa, AL"
+2141,county,Berkeley County,SC,"Charleston-North Charleston, SC"
+1809,county,Jackson County,OR,"Medford, OR"
+2159,county,Cabarrus County,NC,"Charlotte-Concord-Gastonia, NC-SC"
+1381,county,Shelby County,AL,"Birmingham-Hoover, AL"
+2252,county,Dona Ana County,NM,"Las Cruces, NM"
+418,county,Butte County,CA,"Chico, CA"
+340,county,Yolo County,CA,"Sacramento-Roseville-Folsom, CA"
+118,county,Clay County,FL,"Jacksonville, FL"
+2982,county,Montgomery County,TN,"Clarksville, TN-KY"
+2949,county,Lackawanna County,PA,"Scranton--Wilkes-Barre, PA"
+1946,county,Niagara County,NY,"Buffalo-Cheektowaga, NY"
+1210,county,Mohave County,AZ,"Lake Havasu City-Kingman, AZ"
+2249,county,Delaware County,OH,"Columbus, OH"
+2360,county,Johnston County,NC,"Raleigh-Cary, NC"
+341,county,York County,ME,"Portland-South Portland, ME"
+2460,county,Okaloosa County,FL,"Crestview-Fort Walton Beach-Destin, FL"
+3070,county,Washington County,PA,"Pittsburgh, PA"
+2206,county,Clermont County,OH,"Cincinnati, OH-KY-IN"
+2333,county,Harrison County,MS,"Gulfport-Biloxi, MS"
+2648,county,Champaign County,IL,"Champaign-Urbana, IL"
+1691,county,Elkhart County,IN,"Elkhart-Goshen, IN"
+2509,county,Richmond County,GA,"Augusta-Richmond County, GA-SC"
+872,county,Benton County,WA,"Kennewick-Richland, WA"
+2448,county,Muscogee County,GA,"Columbus, GA-AL"
+347,county,Yuma County,AZ,"Yuma, AZ"
+2122,county,Anderson County,SC,"Greenville-Anderson, SC"
+2583,county,Trumbull County,OH,"Youngstown-Warren-Boardman, OH-PA"
+172,county,Hall County,GA,"Gainesville, GA"
+1285,county,Onslow County,NC,"Jacksonville, NC"
+1092,county,Hawaii County,HI,"Hilo, HI"
+3129,county,Saint Louis County,MN,"Duluth, MN-WI"
+1348,county,Racine County,WI,"Racine, WI"
+2526,county,Sangamon County,IL,"Springfield, IL"
+2679,county,Deschutes County,OR,"Bend, OR"
+2805,county,Minnehaha County,SD,"Sioux Falls, SD"
+2959,county,Livingston County,MI,"Detroit-Warren-Dearborn, MI"
+1407,county,Sumner County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+905,county,Butler County,PA,"Pittsburgh, PA"
+2341,county,Hernando County,FL,"Tampa-St. Petersburg-Clearwater, FL"
+2691,county,El Dorado County,CA,"Sacramento-Roseville-Folsom, CA"
+2010,county,Saginaw County,MI,"Saginaw, MI"
+2820,county,Outagamie County,WI,"Appleton, WI"
+704,county,Sarpy County,NE,"Omaha-Council Bluffs, NE-IA"
+3041,county,Tippecanoe County,IN,"Lafayette-West Lafayette, IN"
+2138,county,Beaufort County,SC,"Hilton Head Island-Bluffton, SC"
+2955,county,Litchfield County,CT,"Torrington, CT"
+2650,county,Charlotte County,FL,"Punta Gorda, FL"
+3026,county,Santa Rosa County,FL,"Pensacola-Ferry Pass-Brent, FL"
+1789,county,Iredell County,NC,"Charlotte-Concord-Gastonia, NC-SC"
+3278,county,Newport News City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+113,county,Cass County,ND,"Fargo, ND-MN"
+1314,county,Peoria County,IL,"Peoria, IL"
+395,county,Boone County,MO,"Columbia, MO"
+1832,county,Kanawha County,WV,"Charleston, WV"
+1380,county,Shasta County,CA,"Redding, CA"
+1448,county,Ulster County,NY,"Kingston, NY"
+1191,county,Medina County,OH,"Cleveland-Elyria, OH"
+67,county,Bay County,FL,"Panama City, FL"
+199,county,Kent County,DE,"Dover, DE"
+2354,county,Imperial County,CA,"El Centro, CA"
+3146,county,Vanderburgh County,IN,"Evansville, IN-KY"
+2023,county,Shawnee County,KS,"Topeka, KS"
+1862,county,Licking County,OH,"Columbus, OH"
+1827,county,Johnson County,TX,"Dallas-Fort Worth-Arlington, TX"
+3074,county,Washington County,UT,"St. George, UT"
+2449,county,Muskegon County,MI,"Muskegon, MI"
+706,county,Scott County,IA,"Davenport-Moline-Rock Island, IA-IL"
+1330,county,Porter County,IN,"Chicago-Naperville-Elgin, IL-IN-WI"
+78,county,Lee County,AL,"Auburn-Opelika, AL"
+1595,county,Carroll County,MD,"Baltimore-Columbia-Towson, MD"
+2722,county,Hendricks County,IN,"Indianapolis-Carmel-Anderson, IN"
+1186,county,McLean County,IL,"Bloomington, IL"
+2878,county,Winnebago County,WI,"Oshkosh-Neenah, WI"
+283,county,Pitt County,NC,"Greenville, NC"
+202,county,Kent County,RI,"Providence-Warwick, RI-MA"
+2117,county,Alamance County,NC,"Burlington, NC"
+1837,county,Kenosha County,WI,"Chicago-Naperville-Elgin, IL-IN-WI"
+2881,county,Wyandotte County,KS,"Kansas City, MO-KS"
+2368,county,Kootenai County,ID,"Coeur d'Alene, ID"
+1133,county,Kenton County,KY,"Cincinnati, OH-KY-IN"
+860,county,Beaver County,PA,"Pittsburgh, PA"
+1225,county,Monroe County,PA,"East Stroudsburg, PA"
+365,county,Aiken County,SC,"Augusta-Richmond County, GA-SC"
+2242,county,Davidson County,NC,"Winston-Salem, NC"
+1337,county,Pueblo County,CO,"Pueblo, CO"
+2901,county,Chittenden County,VT,"Burlington-South Burlington, VT"
+1061,county,Greene County,OH,"Dayton-Kettering, OH"
+2470,county,Paulding County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+250,county,Maui County,HI,"Kahului-Wailuku-Lahaina, HI"
+2800,county,Middlesex County,CT,"Hartford-East Hartford-Middletown, CT"
+3149,county,Yellowstone County,MT,"Billings, MT"
+308,county,Rock County,WI,"Janesville-Beloit, WI"
+1975,county,Portage County,OH,"Akron, OH"
+2714,county,Hampshire County,MA,"Springfield, MA"
+1782,county,Houston County,GA,"Warner Robins, GA"
+2923,county,Dorchester County,SC,"Charleston-North Charleston, SC"
+3004,county,Rensselaer County,NY,"Albany-Schenectady-Troy, NY"
+1951,county,Olmsted County,MN,"Rochester, MN"
+1802,county,Jackson County,MI,"Jackson, MI"
+2468,county,Ouachita Parish,LA,"Monroe, LA"
+3123,county,Saint Clair County,MI,"Detroit-Warren-Dearborn, MI"
+1821,county,Johnson County,IN,"Indianapolis-Carmel-Anderson, IN"
+1604,county,Catawba County,NC,"Hickory-Lenoir-Morganton, NC"
+930,county,Centre County,PA,"State College, PA"
+3168,county,Indian River County,FL,"Sebastian-Vero Beach, FL"
+1176,county,Martin County,FL,"Port St. Lucie, FL"
+2569,county,Sullivan County,TN,"Kingsport-Bristol, TN-VA"
+2037,county,Stearns County,MN,"St. Cloud, MN"
+2695,county,Fairfield County,OH,"Columbus, OH"
+3137,county,Schenectady County,NY,"Albany-Schenectady-Troy, NY"
+101,county,Bibb County,GA,"Macon-Bibb County, GA"
+454,county,Comal County,TX,"San Antonio-New Braunfels, TX"
+1351,county,Rankin County,MS,"Jackson, MS"
+2913,county,Cumberland County,NJ,"Vineland-Bridgeton, NJ"
+251,county,Mesa County,CO,"Grand Junction, CO"
+2213,county,Columbia County,GA,"Augusta-Richmond County, GA-SC"
+1544,county,Berrien County,MI,"Niles, MI"
+2556,county,Stafford County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+1220,county,Monroe County,MI,"Monroe, MI"
+3059,county,Washington County,MD,"Hagerstown-Martinsburg, MD-WV"
+2527,county,Santa Fe County,NM,"Santa Fe, NM"
+2799,county,Merrimack County,NH,"Concord, NH"
+2824,county,Penobscot County,ME,"Bangor, ME"
+938,county,Citrus County,FL,"Homosassa Springs, FL"
+1819,county,Johnson County,IA,"Iowa City, IA"
+2173,county,Canadian County,OK,"Oklahoma City, OK"
+2054,county,Tolland County,CT,"Hartford-East Hartford-Middletown, CT"
+711,county,Scott County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+2524,county,Sandoval County,NM,"Albuquerque, NM"
+1289,county,Orange County,NC,"Durham-Chapel Hill, NC"
+701,county,Rowan County,NC,"Charlotte-Concord-Gastonia, NC-SC"
+1413,county,Sussex County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+1496,county,Wilson County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+3119,county,Rock Island County,IL,"Davenport-Moline-Rock Island, IA-IL"
+2495,county,Randolph County,NC,"Greensboro-High Point, NC"
+1671,county,Douglas County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+1805,county,Jackson County,MS,"Gulfport-Biloxi, MS"
+1854,county,Lebanon County,PA,"Lebanon, PA"
+1423,county,Taylor County,TX,"Abilene, TX"
+2958,county,Livingston Parish,LA,"Baton Rouge, LA"
+1218,county,Monroe County,IN,"Bloomington, IN"
+1500,county,Wright County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+255,county,Napa County,CA,"Napa, CA"
+2401,county,Marathon County,WI,"Wausau-Weston, WI"
+2266,county,Florence County,SC,"Florence, SC"
+3164,county,Hampton City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+3077,county,Washington County,WI,"Milwaukee-Waukesha, WI"
+446,county,Clark County,OH,"Springfield, OH"
+394,county,Boone County,KY,"Cincinnati, OH-KY-IN"
+1575,county,Calhoun County,MI,"Battle Creek, MI"
+884,county,Blount County,TN,"Knoxville, TN"
+2640,county,Brunswick County,NC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC"
+1762,county,Harnett County,NC,"Fayetteville, NC"
+1474,county,Warren County,KY,"Bowling Green, KY"
+2572,county,Tazewell County,IL,"Peoria, IL"
+3072,county,Washington County,TN,"Johnson City, TN"
+335,county,Wood County,OH,"Toledo, OH"
+3039,county,Tangipahoa Parish,LA,"Hammond, LA"
+422,county,Cache County,UT,"Logan, UT-ID"
+2890,county,Black Hawk County,IA,"Waterloo-Cedar Falls, IA"
+1835,county,Kendall County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+2851,county,Strafford County,NH,"Boston-Cambridge-Newton, MA-NH"
+1992,county,Rapides Parish,LA,"Alexandria, LA"
+1901,county,Madison County,IN,"Indianapolis-Carmel-Anderson, IN"
+3071,county,Washington County,RI,"Providence-Warwick, RI-MA"
+1972,county,Pickens County,SC,"Greenville-Anderson, SC"
+1703,county,Fayette County,PA,"Pittsburgh, PA"
+2628,county,Berkshire County,MA,"Pittsfield, MA"
+2729,county,Hunterdon County,NJ,"New York-Newark-Jersey City, NY-NJ-PA"
+1393,county,Skagit County,WA,"Mount Vernon-Anacortes, WA"
+940,county,Clarke County,GA,"Athens-Clarke County, GA"
+2900,county,Chautauqua County,NY,"Jamestown-Dunkirk-Fredonia, NY"
+2844,county,Sebastian County,AR,"Fort Smith, AR-OK"
+1409,county,Sumter County,FL,"The Villages, FL"
+238,county,Linn County,OR,"Albany-Lebanon, OR"
+2623,county,Ascension Parish,LA,"Baton Rouge, LA"
+1634,county,Cochise County,AZ,"Sierra Vista-Douglas, AZ"
+2506,county,Richland County,OH,"Mansfield, OH"
+2364,county,Kennebec County,ME,"Augusta-Waterville, ME"
+2892,county,Bonneville County,ID,"Idaho Falls, ID"
+2767,county,La Crosse County,WI,"La Crosse-Onalaska, WI-MN"
+441,county,Clark County,IN,"Louisville/Jefferson County, KY-IN"
+1513,county,Allegan County,MI,"Holland, MI"
+1673,county,Douglas County,KS,"Lawrence, KS"
+1590,county,Carroll County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+794,county,Wayne County,NC,"Goldsboro, NC"
+1697,county,Fayette County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2845,county,Sheboygan County,WI,"Sheboygan, WI"
+1889,county,Lowndes County,GA,"Valdosta, GA"
+2434,county,Missoula County,MT,"Missoula, MT"
+797,county,Wayne County,OH,"Wooster, OH"
+2097,county,Windham County,CT,"Worcester, MA-CT"
+2299,county,Gallatin County,MT,"Bozeman, MT"
+2719,county,Henderson County,NC,"Asheville, NC"
+1707,county,Flagler County,FL,"Deltona-Daytona Beach-Ormond Beach, FL"
+3132,county,Saint Marys County,MD,"California-Lexington Park, MD"
+2247,county,Delaware County,IN,"Muncie, IN"
+2370,county,La Porte County,IN,"Michigan City-La Porte, IN"
+1952,county,Ontario County,NY,"Rochester, NY"
+2608,county,Albemarle County,VA,"Charlottesville, VA"
+1203,county,Mercer County,PA,"Youngstown-Warren-Boardman, OH-PA"
+1678,county,Douglas County,OR,"Roseburg, OR"
+3151,county,Androscoggin County,ME,"Lewiston-Auburn, ME"
+1079,county,Hardin County,KY,"Elizabethtown-Fort Knox, KY"
+2371,county,La Salle County,IL,"Ottawa, IL"
+2674,county,Craighead County,AR,"Jonesboro, AR"
+1644,county,Cowlitz County,WA,"Longview, WA"
+1478,county,Warren County,NJ,"Allentown-Bethlehem-Easton, PA-NJ"
+1758,county,Hanover County,VA,"Richmond, VA"
+493,county,Eaton County,MI,"Lansing-East Lansing, MI"
+2997,county,Pennington County,SD,"Rapid City, SD"
+1905,county,Madison County,MS,"Jackson, MS"
+2363,county,Kankakee County,IL,"Kankakee, IL"
+855,county,Bartow County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+641,county,Miami County,OH,"Dayton-Kettering, OH"
+1554,county,Bradley County,TN,"Cleveland, TN"
+2110,county,Yamhill County,OR,"Portland-Vancouver-Hillsboro, OR-WA"
+3277,county,Matanuska Susitna Borough,AK,"Anchorage, AK"
+1253,county,Navajo County,AZ,"Show Low, AZ"
+323,county,Vigo County,IN,"Terre Haute, IN"
+1781,county,Houston County,AL,"Dothan, AL"
+2592,county,Walworth County,WI,"Whitewater, WI"
+924,county,Carver County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+2966,county,Monongalia County,WV,"Morgantown, WV"
+2578,county,Tompkins County,NY,"Ithaca, NY"
+2516,county,Rockwall County,TX,"Dallas-Fort Worth-Arlington, TX"
+2924,county,Eau Claire County,WI,"Eau Claire, WI"
+1326,county,Platte County,MO,"Kansas City, MO-KS"
+2601,county,Woodbury County,IA,"Sioux City, IA-NE-SD"
+620,county,Macon County,IL,"Decatur, IL"
+2283,county,Franklin County,MO,"St. Louis, MO-IL"
+68,county,Bay County,MI,"Bay City, MI"
+3092,county,Fond du Lac County,WI,"Fond du Lac, WI"
+362,county,Adams County,PA,"Gettysburg, PA"
+2265,county,Flathead County,MT,"Kalispell, MT"
+429,county,Cecil County,MD,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+2598,county,Wicomico County,MD,"Salisbury, MD-DE"
+2872,county,Whitfield County,GA,"Dalton, GA"
+1652,county,Daviess County,KY,"Owensboro, KY"
+371,county,Allen County,OH,"Lima, OH"
+2905,county,Columbiana County,OH,"Salem, OH"
+1261,county,Nevada County,CA,"Truckee-Grass Valley, CA"
+2780,county,Limestone County,AL,"Huntsville, AL"
+962,county,Craven County,NC,"New Bern, NC"
+2724,county,Highlands County,FL,"Sebring-Avon Park, FL"
+1657,county,DeKalb County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+1848,county,Laramie County,WY,"Cheyenne, WY"
+1718,county,Garland County,AR,"Hot Springs, AR"
+3184,county,Roanoke City,VA,"Roanoke, VA"
+1856,county,Lenawee County,MI,"Adrian, MI"
+2984,county,Montgomery County,VA,"Blacksburg-Christiansburg, VA"
+1415,county,Sutter County,CA,"Yuba City, CA"
+632,county,Maury County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+1683,county,Dubuque County,IA,"Dubuque, IA"
+649,county,Moore County,NC,"Pinehurst-Southern Pines, NC"
+512,county,Floyd County,GA,"Rome, GA"
+735,county,Story County,IA,"Ames, IA"
+1376,county,Sevier County,TN,"Sevierville, TN"
+1343,county,Putnam County,NY,"New York-Newark-Jersey City, NY-NJ-PA"
+2157,county,Burleigh County,ND,"Bismarck, ND"
+542,county,Grant County,WA,"Moses Lake, WA"
+2624,county,Ashtabula County,OH,"Ashtabula, OH"
+3260,county,Portsmouth City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+3290,county,Fairbanks North Star Borough,AK,"Fairbanks, AK"
+976,county,Dallas County,IA,"Des Moines-West Des Moines, IA"
+1998,county,Roanoke County,VA,"Roanoke, VA"
+2846,county,Sherburne County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+2174,county,Cape May County,NJ,"Ocean City, NJ"
+1469,county,Walton County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+1033,county,Geauga County,OH,"Cleveland-Elyria, OH"
+870,county,Benton County,OR,"Corvallis, OR"
+906,county,Cabell County,WV,"Huntington-Ashland, WV-KY-OH"
+3240,county,Grand Traverse County,MI,"Traverse City, MI"
+3194,county,Suffolk City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+3044,county,Tuscarawas County,OH,"New Philadelphia-Dover, OH"
+2514,county,Rockdale County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2168,county,Campbell County,KY,"Cincinnati, OH-KY-IN"
+3126,county,Saint Croix County,WI,"Minneapolis-St. Paul-Bloomington, MN-WI"
+1581,county,Calvert County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+1729,county,Grafton County,NH,"Lebanon, NH-VT"
+1961,county,Ozaukee County,WI,"Milwaukee-Waukesha, WI"
+2700,county,Frederick County,VA,"Winchester, VA-WV"
+485,county,Dodge County,WI,"Beaver Dam, WI"
+1142,county,Lapeer County,MI,"Detroit-Warren-Dearborn, MI"
+1251,county,Nassau County,FL,"Jacksonville, FL"
+2659,county,Christian County,MO,"Springfield, MO"
+2686,county,Dougherty County,GA,"Albany, GA"
+1530,county,Bannock County,ID,"Pocatello, ID"
+292,county,Polk County,OR,"Salem, OR"
+2812,county,Muskingum County,OH,"Zanesville, OH"
+2386,county,Lawrence County,PA,"New Castle, PA"
+1112,county,Island County,WA,"Oak Harbor, WA"
+1875,county,Lincoln County,NC,"Charlotte-Concord-Gastonia, NC-SC"
+1945,county,Newport County,RI,"Providence-Warwick, RI-MA"
+2756,county,Jefferson County,WI,"Watertown-Fort Atkinson, WI"
+525,county,Glynn County,GA,"Brunswick, GA"
+1602,county,Cascade County,MT,"Great Falls, MT"
+1788,county,Indiana County,PA,"Indiana, PA"
+1929,county,Midland County,MI,"Midland, MI"
+1100,county,Howard County,IN,"Kokomo, IN"
+3014,county,Rockingham County,VA,"Harrisonburg, VA"
+1214,county,Monroe County,FL,"Key West, FL"
+852,county,Barrow County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+3084,county,Bartholomew County,IN,"Columbus, IN"
+2783,county,Manitowoc County,WI,"Manitowoc, WI"
+3237,county,Cape Girardeau County,MO,"Cape Girardeau, MO-IL"
+2163,county,Caldwell County,NC,"Hickory-Lenoir-Morganton, NC"
+2766,county,Kosciusko County,IN,"Warsaw, IN"
+1566,county,Bulloch County,GA,"Statesboro, GA"
+1941,county,Natrona County,WY,"Casper, WY"
+514,county,Floyd County,IN,"Louisville/Jefferson County, KY-IN"
+1538,county,Bedford County,VA,"Lynchburg, VA"
+1345,county,Putnam County,TN,"Cookeville, TN"
+1628,county,Clinton County,MI,"Lansing-East Lansing, MI"
+3243,county,Lynchburg City,VA,"Lynchburg, VA"
+1751,county,Hancock County,IN,"Indianapolis-Carmel-Anderson, IN"
+932,county,Chelan County,WA,"Wenatchee, WA"
+2567,county,Sullivan County,NY,
+1276,county,Oconee County,SC,"Seneca, SC"
+2942,county,James City County,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+137,county,Cole County,MO,"Jefferson City, MO"
+309,county,Ross County,OH,"Chillicothe, OH"
+1619,county,Clallam County,WA,"Port Angeles, WA"
+2123,county,Anderson County,TN,"Knoxville, TN"
+2195,county,Cheshire County,NH,"Keene, NH"
+158,county,Erie County,OH,"Sandusky, OH"
+2860,county,Van Buren County,MI,
+1755,county,Hancock County,OH,"Findlay, OH"
+1609,county,Chatham County,NC,"Durham-Chapel Hill, NC"
+2865,county,Vermilion County,IL,"Danville, IL"
+3163,county,Grays Harbor County,WA,"Aberdeen, WA"
+1370,county,Scioto County,OH,"Portsmouth, OH"
+2553,county,Somerset County,PA,"Somerset, PA"
+1468,county,Walton County,FL,"Crestview-Fort Walton Beach-Destin, FL"
+578,county,Kauai County,HI,"Kapaa, HI"
+1338,county,Putnam County,FL,"Palatka, FL"
+3093,county,Grand Forks County,ND,"Grand Forks, ND-MN"
+695,county,Riley County,KS,"Manhattan, KS"
+2261,county,Fauquier County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+2894,county,Broomfield County,CO,"Denver-Aurora-Lakewood, CO"
+2834,county,Robertson County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+345,county,York County,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+737,county,Surry County,NC,"Mount Airy, NC"
+1233,county,Morgan County,IN,"Indianapolis-Carmel-Anderson, IN"
+1436,county,Tooele County,UT,"Salt Lake City, UT"
+2281,county,Franklin County,MA,"Springfield, MA"
+1976,county,Portage County,WI,"Stevens Point, WI"
+3258,county,Lewis and Clark County,MT,"Helena, MT"
+1063,county,Greene County,TN,"Greeneville, TN"
+393,county,Boone County,IN,"Indianapolis-Carmel-Anderson, IN"
+325,county,Ward County,ND,"Minot, ND"
+2710,county,Greenwood County,SC,"Greenwood, SC"
+1842,county,Klamath County,OR,"Klamath Falls, OR"
+2891,county,Blue Earth County,MN,"Mankato, MN"
+2179,county,Carteret County,NC,"Morehead City, NC"
+217,county,Lake County,CA,"Clearlake, CA"
+1279,county,Oldham County,KY,"Louisville/Jefferson County, KY-IN"
+900,county,Butler County,KS,"Wichita, KS"
+2789,county,McCracken County,KY,"Paducah, KY-IL"
+3248,county,Saint Francois County,MO,"Farmington, MO"
+531,county,Grant County,IN,"Marion, IN"
+304,county,Rice County,MN,"Faribault-Northfield, MN"
+2554,county,Spalding County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+789,county,Wayne County,IN,"Richmond, IN"
+2675,county,Crow Wing County,MN,"Brainerd, MN"
+2201,county,Chippewa County,WI,"Eau Claire, WI"
+2356,county,Isabella County,MI,"Mount Pleasant, MI"
+1170,county,Marion County,OH,"Marion, OH"
+314,county,Sauk County,WI,"Baraboo, WI"
+915,county,Carbon County,PA,"Allentown-Bethlehem-Easton, PA-NJ"
+1985,county,Pulaski County,KY,"Somerset, KY"
+142,county,Coos County,OR,"Coos Bay, OR"
+3015,county,Rutherford County,NC,"Forest City, NC"
+1859,county,Liberty County,GA,"Hinesville, GA"
+1745,county,Hamblen County,TN,"Morristown, TN"
+2070,county,Warrick County,IN,"Evansville, IN-KY"
+86,county,Lee County,NC,"Sanford, NC"
+173,county,Hall County,NE,"Grand Island, NE"
+214,county,Knox County,OH,"Mount Vernon, OH"
+3147,county,Walla Walla County,WA,"Walla Walla, WA"
+382,county,Barry County,MI,
+773,county,Union County,OH,"Columbus, OH"
+1769,county,Haywood County,NC,"Asheville, NC"
+2300,county,Garfield County,CO,"Glenwood Springs, CO"
+2009,county,Rutland County,VT,"Rutland, VT"
+2915,county,Cumberland County,TN,"Crossville, TN"
+184,county,Hood County,TX,"Granbury, TX"
+1313,county,Pender County,NC,"Wilmington, NC"
+3067,county,Washington County,OH,"Marietta, OH"
+3076,county,Washington County,VT,"Barre, VT"
+2525,county,Sandusky County,OH,"Fremont, OH"
+2385,county,Lawrence County,OH,"Huntington-Ashland, WV-KY-OH"
+565,county,Huron County,OH,"Norwalk, OH"
+2479,county,Pickaway County,OH,"Columbus, OH"
+2218,county,Columbia County,WI,"Madison, WI"
+3087,county,Carson City,NV,"Carson City, NV"
+1305,county,Oxford County,ME,
+2099,county,Windsor County,VT,"Lebanon, NH-VT"
+1044,county,Gordon County,GA,"Calhoun, GA"
+1615,county,Chisago County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+923,county,Carter County,TN,"Johnson City, TN"
+2871,county,Whiteside County,IL,"Sterling, IL"
+741,county,Taney County,MO,"Branson, MO"
+193,county,Iron County,UT,"Cedar City, UT"
+2772,county,Lafayette County,MS,"Oxford, MS"
+491,county,Eagle County,CO,"Edwards, CO"
+2369,county,La Plata County,CO,"Durango, CO"
+1753,county,Hancock County,ME,
+2292,county,Franklin County,VA,"Roanoke, VA"
+2753,county,Jefferson County,TN,"Morristown, TN"
+1151,county,Loudon County,TN,"Knoxville, TN"
+908,county,Camden County,GA,"St. Marys, GA"
+2073,county,Watauga County,NC,"Boone, NC"
+1668,county,Dickson County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+392,county,Boone County,IL,"Rockford, IL"
+696,county,Roane County,TN,"Knoxville, TN"
+164,county,Gila County,AZ,"Payson, AZ"
+2758,county,Jessamine County,KY,"Lexington-Fayette, KY"
+1519,county,Ashland County,OH,"Ashland, OH"
+205,county,Kerr County,TX,"Kerrville, TX"
+3068,county,Washington County,OK,"Bartlesville, OK"
+1068,county,Grundy County,IL,"Chicago-Naperville-Elgin, IL-IN-WI"
+2880,county,Worcester County,MD,"Salisbury, MD-DE"
+3273,county,Harrisonburg City,VA,"Harrisonburg, VA"
+1471,county,Warren County,IA,"Des Moines-West Des Moines, IA"
+467,county,Darke County,OH,"Greenville, OH"
+259,county,Ogle County,IL,"Rochelle, IL"
+2074,county,Waupaca County,WI,
+2818,county,Oktibbeha County,MS,"Starkville, MS"
+2279,county,Franklin County,KY,"Frankfort, KY"
+1559,county,Bristol County,RI,"Providence-Warwick, RI-MA"
+2244,county,Dearborn County,IN,"Cincinnati, OH-KY-IN"
+90,county,Nye County,NV,"Pahrump, NV"
+1598,county,Carroll County,NH,
+1880,county,Lincoln County,OR,"Newport, OR"
+1562,county,Buffalo County,NE,"Kearney, NE"
+2293,county,Franklin County,VT,"Burlington-South Burlington, VT"
+3118,county,Queen Annes County,MD,"Baltimore-Columbia-Towson, MD"
+555,county,Henry County,IL,"Davenport-Moline-Rock Island, IA-IL"
+1677,county,Douglas County,NV,"Gardnerville Ranchos, NV"
+1387,county,Shelby County,OH,"Sidney, OH"
+2093,county,Whitman County,WA,"Pullman, WA"
+103,county,Boyd County,KY,"Huntington-Ashland, WV-KY-OH"
+1060,county,Greene County,NY,
+1385,county,Shelby County,KY,"Louisville/Jefferson County, KY-IN"
+1727,county,Goodhue County,MN,"Red Wing, MN"
+3024,county,Santa Cruz County,AZ,"Nogales, AZ"
+654,county,Noble County,IN,"Kendallville, IN"
+3288,county,Charlottesville City,VA,"Charlottesville, VA"
+1624,county,Clinton County,IA,"Clinton, IA"
+851,county,Barron County,WI,
+885,county,Bonner County,ID,"Sandpoint, ID"
+1254,county,Nelson County,KY,"Bardstown, KY"
+2134,county,Auglaize County,OH,"Wapakoneta, OH"
+2408,county,Marshall County,IN,"Plymouth, IN"
+611,county,Logan County,OH,"Bellefontaine, OH"
+1798,county,Jackson County,IN,"Seymour, IN"
+1754,county,Hancock County,MS,"Gulfport-Biloxi, MS"
+2098,county,Windham County,VT,
+2718,county,Henderson County,KY,"Evansville, IN-KY"
+2643,county,Calaveras County,CA,
+152,county,Dunn County,WI,"Menomonie, WI"
+1384,county,Shelby County,IN,"Indianapolis-Carmel-Anderson, IN"
+3034,county,Stephenson County,IL,"Freeport, IL"
+3030,county,Shenandoah County,VA,
+1096,county,Holmes County,OH,
+2367,county,Kittitas County,WA,"Ellensburg, WA"
+1910,county,Madison County,OH,"Columbus, OH"
+1526,county,Baldwin County,GA,"Milledgeville, GA"
+412,county,Bryan County,GA,"Savannah, GA"
+3089,county,Cerro Gordo County,IA,"Mason City, IA"
+2343,county,Highland County,OH,
+2811,county,Muscatine County,IA,"Muscatine, IA"
+2566,county,Sullivan County,NH,"Lebanon, NH-VT"
+909,county,Camden County,MO,
+1806,county,Jackson County,NC,"Cullowhee, NC"
+3213,county,Manassas City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+1025,county,Fulton County,OH,"Toledo, OH"
+1680,county,Douglas County,WA,"Wenatchee, WA"
+262,county,Ohio County,WV,"Wheeling, WV-OH"
+468,county,Davie County,NC,"Winston-Salem, NC"
+234,county,Levy County,FL,"Gainesville, FL"
+1323,county,Pierce County,WI,"Minneapolis-St. Paul-Bloomington, MN-WI"
+1405,county,Summit County,UT,"Heber, UT"
+1202,county,Mercer County,OH,"Celina, OH"
+2234,county,Crawford County,OH,"Bucyrus-Galion, OH"
+2816,county,Nez Perce County,ID,"Lewiston, ID-WA"
+3038,county,Tallapoosa County,AL,"Alexander City, AL"
+1275,county,Oconee County,GA,"Athens-Clarke County, GA"
+2185,county,Cheatham County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+2022,county,Shawano County,WI,"Shawano, WI"
+1621,county,Clatsop County,OR,"Astoria, OR"
+2250,county,Delaware County,OK,
+211,county,Knox County,ME,
+1301,county,Ottawa County,OH,"Toledo, OH"
+783,county,Waldo County,ME,
+593,county,Latah County,ID,"Moscow, ID"
+1093,county,Hendry County,FL,"Clewiston, FL"
+2920,county,Des Moines County,IA,"Burlington, IA-IL"
+1674,county,Douglas County,MN,"Alexandria, MN"
+2649,county,Champaign County,OH,"Urbana, OH"
+2930,county,Gloucester County,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+2208,county,Colleton County,SC,
+2599,county,Williams County,ND,"Williston, ND"
+2245,county,Defiance County,OH,"Defiance, OH"
+3210,county,Isle of Wight County,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+2972,county,Montgomery County,IN,"Crawfordsville, IN"
+1418,county,Talbot County,MD,"Easton, MD"
+1284,county,Oneida County,WI,
+824,county,Albany County,WY,"Laramie, WY"
+1508,county,Addison County,VT,
+2888,county,Bennington County,VT,"Bennington, VT"
+2077,county,Webster County,IA,"Fort Dodge, IA"
+2600,county,Williams County,OH,
+1341,county,Putnam County,IN,"Indianapolis-Carmel-Anderson, IN"
+147,county,Dare County,NC,"Kill Devil Hills, NC"
+1189,county,McLeod County,MN,"Hutchinson, MN"
+622,county,Macon County,NC,
+2839,county,Sagadahoc County,ME,"Portland-South Portland, ME"
+1217,county,Monroe County,IL,"St. Louis, MO-IL"
+209,county,Knox County,IN,"Vincennes, IN"
+2956,county,Livingston County,IL,"Pontiac, IL"
+681,county,Perry County,OH,"Columbus, OH"
+1870,county,Lincoln County,ME,
+862,county,Becker County,MN,
+1344,county,Putnam County,OH,
+2038,county,Steuben County,IN,"Angola, IN"
+316,county,Taos County,NM,"Taos, NM"
+2091,county,Whitley County,IN,"Fort Wayne, IN"
+2071,county,Wasatch County,UT,"Heber, UT"
+1659,county,De Soto County,FL,"Arcadia, FL"
+501,county,Emmet County,MI,
+1163,county,Marion County,IA,"Pella, IA"
+2066,county,Wakulla County,FL,"Tallahassee, FL"
+1037,county,Gibson County,IN,
+1626,county,Clinton County,IN,"Frankfort, IN"
+1117,county,Jasper County,IN,"Chicago-Naperville-Elgin, IL-IN-WI"
+3197,county,Transylvania County,NC,"Brevard, NC"
+1246,county,Morton County,ND,"Bismarck, ND"
+729,county,Stark County,ND,"Dickinson, ND"
+2755,county,Jefferson County,WA,
+2922,county,Dorchester County,MD,"Cambridge, MD"
+1127,county,Juneau Borough,AK,"Juneau, AK"
+141,county,Coos County,NH,"Berlin, NH"
+1462,county,Wabash County,IN,"Wabash, IN"
+1403,county,Summit County,CO,"Breckenridge, CO"
+733,county,Stone County,MO,
+635,county,Meade County,KY,"Elizabethtown-Fort Knox, KY"
+149,county,Door County,WI,
+2282,county,Franklin County,ME,
+628,county,Mason County,MI,"Ludington, MI"
+1720,county,Garrett County,MD,
+1702,county,Fayette County,OH,"Washington Court House, OH"
+1884,county,Lincoln County,WI,"Wausau-Weston, WI"
+2994,county,Palo Pinto County,TX,"Mineral Wells, TX"
+1589,county,Carroll County,AR,
+559,county,Henry County,OH,
+2677,county,Currituck County,NC,"Virginia Beach-Norfolk-Newport News, VA-NC"
+2854,county,Tillamook County,OR,
+391,county,Boone County,IA,"Ames, IA"
+2898,county,Charlevoix County,MI,
+1339,county,Putnam County,GA,
+603,county,Llano County,TX,
+2869,county,Washtenaw County,MI,"Ann Arbor, MI"
+3253,county,Alexandria City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+960,county,Coweta County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2207,county,Coconino County,AZ,"Flagstaff, AZ"
+1565,county,Bullitt County,KY,"Louisville/Jefferson County, KY-IN"
+1539,county,Belknap County,NH,"Laconia, NH"
+3020,county,San Benito County,CA,"San Jose-Sunnyvale-Santa Clara, CA"
+1881,county,Lincoln County,SD,"Sioux Falls, SD"
+2928,county,Georgetown County,SC,"Georgetown, SC"
+841,county,Athens County,OH,"Athens, OH"
+1374,county,Seneca County,OH,"Tiffin, OH"
+2445,county,Montrose County,CO,"Montrose, CO"
+3218,county,Prince George County,VA,"Richmond, VA"
+2777,county,Lancaster County,SC,"Charlotte-Concord-Gastonia, NC-SC"
+1115,county,Jasper County,IA,"Des Moines-West Des Moines, IA"
+387,county,Blair County,PA,"Altoona, PA"
+2005,county,Russell County,AL,"Columbus, GA-AL"
+947,county,Coffee County,TN,"Tullahoma-Manchester, TN"
+1768,county,Hawkins County,TN,"Kingsport-Bristol, TN-VA"
+1537,county,Bedford County,TN,"Shelbyville, TN"
+1226,county,Monroe County,TN,
+2406,county,Marshall County,IA,"Marshalltown, IA"
+2170,county,Campbell County,TN,"Knoxville, TN"
+82,county,Lee County,IA,"Fort Madison-Keokuk, IA-IL-MO"
+2664,county,Claiborne County,TN,
+224,county,Lake County,MT,
+2308,county,Grainger County,TN,"Morristown, TN"
+2945,county,Jo Daviess County,IL,
+2153,county,Buchanan County,IA,
+3082,county,Winneshiek County,IA,
+2829,county,Poweshiek County,IA,
+1560,county,Bristol City,VA,"Kingsport-Bristol, TN-VA"
+120,county,Clay County,IA,"Spencer, IA"
+1499,county,Wright County,IA,
+1742,county,Guthrie County,IA,"Des Moines-West Des Moines, IA"
+1844,county,Kossuth County,IA,
+3045,county,Twin Falls County,ID,"Twin Falls, ID"
+2443,county,Montcalm County,MI,"Grand Rapids-Kentwood, MI"
+2084,county,Wexford County,MI,"Cadillac, MI"
+169,county,Gulf County,FL,
+2712,county,Guadalupe County,TX,"San Antonio-New Braunfels, TX"
+1411,county,Sumter County,SC,"Sumter, SC"
+2235,county,Crawford County,PA,"Meadville, PA"
+2645,county,Caledonia County,VT,
+1955,county,Orleans County,VT,
+1725,county,Gladwin County,MI,
+1419,county,Taylor County,FL,
+1902,county,Madison County,KY,"Richmond-Berea, KY"
+338,county,Wood County,WV,"Parkersburg-Vienna, WV"
+2336,county,Harrison County,WV,"Clarksburg, WV"
+3031,county,Shiawassee County,MI,"Lansing-East Lansing, MI"
+1492,county,Wilkes County,NC,"North Wilkesboro, NC"
+1204,county,Mercer County,WV,"Bluefield, WV-VA"
+1441,county,Tucker County,WV,
+2350,county,Huerfano County,CO,
+305,county,Rich County,UT,
+567,county,Ionia County,MI,"Grand Rapids-Kentwood, MI"
+2637,county,Box Elder County,UT,"Ogden-Clearfield, UT"
+110,county,Cass County,MI,"South Bend-Mishawaka, IN-MI"
+3182,county,Radford City,VA,"Blacksburg-Christiansburg, VA"
+529,county,Grand County,UT,
+1283,county,Oneida County,NY,"Utica-Rome, NY"
+895,county,Broome County,NY,"Binghamton, NY"
+1607,county,Charles County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+548,county,Gregg County,TX,"Longview, TX"
+2260,county,Faulkner County,AR,"Little Rock-North Little Rock-Conway, AR"
+1362,county,Saline County,AR,"Little Rock-North Little Rock-Conway, AR"
+2221,county,Comanche County,OK,"Lawton, OK"
+1296,county,Oswego County,NY,"Syracuse, NY"
+2748,county,Jefferson County,NY,"Watertown-Fort Drum, NY"
+2394,county,Lycoming County,PA,"Williamsport, PA"
+1263,county,Newton County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+3249,county,Saint Lawrence County,NY,"Ogdensburg-Massena, NY"
+2667,county,Cleveland County,NC,"Shelby, NC"
+1911,county,Madison County,TN,"Jackson, TN"
+2294,county,Franklin County,WA,"Kennewick-Richland, WA"
+1533,county,Bastrop County,TX,"Austin-Round Rock-Georgetown, TX"
+1358,county,Rogers County,OK,"Tulsa, OK"
+2039,county,Steuben County,NY,"Corning, NY"
+796,county,Wayne County,NY,"Rochester, NY"
+2760,county,Josephine County,OR,"Grants Pass, OR"
+2125,county,Angelina County,TX,"Lufkin, TX"
+1610,county,Chemung County,NY,"Elmira, NY"
+670,county,Payne County,OK,"Stillwater, OK"
+2902,county,Clearfield County,PA,"DuBois, PA"
+2065,county,Wagoner County,OK,"Tulsa, OK"
+1630,county,Clinton County,NY,"Plattsburgh, NY"
+3088,county,Cattaraugus County,NY,"Olean, NY"
+805,county,White County,AR,"Searcy, AR"
+929,county,Cayuga County,NY,"Auburn, NY"
+1990,county,Raleigh County,WV,"Beckley, WV"
+1149,county,Lonoke County,AR,"Little Rock-North Little Rock-Conway, AR"
+2658,county,Christian County,KY,"Clarksville, TN-KY"
+3178,county,Pottawatomie County,OK,"Shawnee, OK"
+460,county,Creek County,OK,"Tulsa, OK"
+756,county,Troup County,GA,"LaGrange, GA-AL"
+2212,county,Columbia County,FL,"Lake City, FL"
+2118,county,Allegany County,MD,"Cumberland, MD-WV"
+1909,county,Madison County,NY,"Syracuse, NY"
+2733,county,Jefferson County,AR,"Pine Bluff, AR"
+1465,county,Walker County,GA,"Chattanooga, TN-GA"
+1605,county,Catoosa County,GA,"Chattanooga, TN-GA"
+1852,county,Laurens County,SC,"Greenville-Anderson, SC"
+2450,county,Muskogee County,OK,"Muskogee, OK"
+2785,county,Marquette County,MI,"Marquette, MI"
+2620,county,Armstrong County,PA,"Pittsburgh, PA"
+1479,county,Warren County,NY,"Glens Falls, NY"
+1464,county,Walker County,AL,"Jasper, AL"
+2216,county,Columbia County,PA,"Bloomsburg-Berwick, PA"
+702,county,Salem County,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+2689,county,Effingham County,GA,"Savannah, GA"
+296,county,Pope County,AR,"Russellville, AR"
+2303,county,Garfield County,OK,"Enid, OK"
+2961,county,Livingston County,NY,"Rochester, NY"
+1144,county,Laurel County,KY,"London, KY"
+2214,county,Columbia County,NY,"Hudson, NY"
+3066,county,Washington County,NY,"Glens Falls, NY"
+1435,county,Tipton County,TN,"Memphis, TN-MS-AR"
+2226,county,Crawford County,AR,"Fort Smith, AR-OK"
+2708,county,Granville County,NC,"Durham-Chapel Hill, NC"
+3186,county,Saint Joseph County,MI,"Sturgis, MI"
+2340,county,Herkimer County,NY,"Utica-Rome, NY"
+2012,county,Sampson County,NC,
+1298,county,Otsego County,NY,"Oneonta, NY"
+276,county,Pike County,KY,
+1722,county,Genesee County,NY,"Batavia, NY"
+1524,county,Autauga County,AL,"Montgomery, AL"
+2757,county,Jefferson County,WV,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+527,county,Grady County,OK,"Oklahoma City, OK"
+1024,county,Fulton County,NY,"Gloversville, NY"
+2215,county,Columbia County,OR,"Portland-Vancouver-Hillsboro, OR-WA"
+3222,county,Saint Charles Parish,LA,"New Orleans-Metairie, LA"
+2219,county,Columbus County,NC,
+798,county,Wayne County,PA,
+2060,county,Venango County,PA,"Oil City, PA"
+2551,county,Somerset County,ME,
+1038,county,Gibson County,TN,"Jackson, TN"
+998,county,Duplin County,NC,
+1944,county,Newaygo County,MI,
+2687,county,Edgecombe County,NC,"Rocky Mount, NC"
+2979,county,Montgomery County,NY,"Amsterdam, NY"
+1743,county,Halifax County,NC,"Roanoke Rapids, NC"
+1851,county,Laurens County,GA,"Dublin, GA"
+612,county,Logan County,OK,"Oklahoma City, OK"
+748,county,Tioga County,NY,"Binghamton, NY"
+1853,county,Le Flore County,OK,
+2907,county,Crittenden County,AR,"Memphis, TN-MS-AR"
+922,county,Carter County,OK,"Ardmore, OK"
+2287,county,Franklin County,NY,"Malone, NY"
+1536,county,Bedford County,PA,
+2186,county,Chenango County,NY,
+2192,county,Cherokee County,OK,"Tahlequah, OK"
+2224,county,Cortland County,NY,"Cortland, NY"
+2119,county,Allegany County,NY,
+662,county,Osage County,OK,"Tulsa, OK"
+2042,county,Stevens County,WA,"Spokane-Spokane Valley, WA"
+413,county,Bryan County,OK,"Durant, OK"
+2210,county,Colquitt County,GA,"Moultrie, GA"
+1430,county,Thomas County,GA,"Thomasville, GA"
+1052,county,Greene County,AR,"Paragould, AR"
+1779,county,Hopkins County,KY,"Madisonville, KY"
+2396,county,Macoupin County,IL,"St. Louis, MO-IL"
+2137,county,Beaufort County,NC,"Washington, NC"
+889,county,Branch County,MI,"Coldwater, MI"
+2248,county,Delaware County,NY,
+1401,county,Stokes County,NC,"Winston-Salem, NC"
+850,county,Barren County,KY,"Glasgow, KY"
+76,county,Kay County,OK,"Ponca City, OK"
+2388,county,Lawrence County,TN,"Lawrenceburg, TN"
+2827,county,Pittsburg County,OK,"McAlester, OK"
+3221,county,Saint Bernard Parish,LA,"New Orleans-Metairie, LA"
+407,county,Brown County,OH,"Cincinnati, OH-KY-IN"
+3157,county,Chesterfield County,SC,
+946,county,Coffee County,GA,"Douglas, GA"
+2558,county,Stephens County,OK,"Duncan, OK"
+1316,county,Pettis County,MO,"Sedalia, MO"
+1205,county,Miller County,AR,"Texarkana, TX-AR"
+286,county,Polk County,GA,"Cedartown, GA"
+3205,county,Danville City,VA,"Danville, VA"
+2290,county,Franklin County,TN,"Tullahoma-Manchester, TN"
+1704,county,Fayette County,TN,"Memphis, TN-MS-AR"
+856,county,Baxter County,AR,"Mountain Home, AR"
+1921,county,McClain County,OK,"Oklahoma City, OK"
+318,county,Tift County,GA,"Tifton, GA"
+749,county,Tioga County,PA,
+1336,county,Preble County,OH,
+3104,county,Mississippi County,AR,"Blytheville, AR"
+2015,county,Sanilac County,MI,
+1482,county,Warren County,TN,"McMinnville, TN"
+2105,county,Wyoming County,NY,
+1111,county,Isanti County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+1954,county,Orleans County,NY,"Rochester, NY"
+652,county,Mower County,MN,"Austin, MN"
+1248,county,Murray County,GA,"Dalton, GA"
+2990,county,Okeechobee County,FL,"Okeechobee, FL"
+2541,county,Sequoyah County,OK,"Fort Smith, AR-OK"
+801,county,Wayne County,WV,"Huntington-Ashland, WV-KY-OH"
+633,county,Mayes County,OK,
+974,county,Dallas County,AL,"Selma, AL"
+1315,county,Person County,NC,"Durham-Chapel Hill, NC"
+1047,county,Graham County,AZ,"Safford, AZ"
+2485,county,Pontotoc County,OK,"Ada, OK"
+3167,county,Independence County,AR,"Batesville, AR"
+505,county,Essex County,NY,
+390,county,Boone County,AR,"Harrison, AR"
+2167,county,Calloway County,KY,"Murray, KY"
+2464,county,Okmulgee County,OK,"Tulsa, OK"
+153,county,Dyer County,TN,"Dyersburg, TN"
+443,county,Clark County,KY,"Lexington-Fayette, KY"
+515,county,Floyd County,KY,
+327,county,Ware County,GA,"Waycross, GA"
+1737,county,Greenup County,KY,"Huntington-Ashland, WV-KY-OH"
+452,county,Cocke County,TN,"Newport, TN"
+1882,county,Lincoln County,TN,
+2535,county,Scotland County,NC,"Laurinburg, NC"
+1327,county,Platte County,NE,"Columbus, NE"
+2415,county,Marshall County,TN,"Lewisburg, TN"
+1373,county,Seneca County,NY,"Seneca Falls, NY"
+2446,county,Morrison County,MN,
+1879,county,Lincoln County,OK,"Oklahoma City, OK"
+2177,county,Caroline County,MD,
+3259,county,Petersburg City,VA,"Richmond, VA"
+1892,county,Lumpkin County,GA,
+2937,county,Hot Spring County,AR,"Malvern, AR"
+2075,county,Weakley County,TN,"Martin, TN"
+1971,county,Pickens County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+302,county,Rhea County,TN,"Dayton, TN"
+81,county,Lee County,GA,"Albany, GA"
+1807,county,Jackson County,OH,"Jackson, OH"
+560,county,Henry County,TN,"Paris, TN"
+1612,county,Chester County,SC,"Charlotte-Concord-Gastonia, NC-SC"
+2665,county,Clarendon County,SC,"Sumter, SC"
+1915,county,Malheur County,OR,"Ontario, OR-ID"
+2791,county,McCurtain County,OK,
+1080,county,Hardin County,OH,
+658,county,Obion County,TN,"Union City, TN"
+1302,county,Ottawa County,OK,"Miami, OK"
+400,county,Boyle County,KY,"Danville, KY"
+522,county,Giles County,TN,
+786,county,Wayne County,GA,"Jesup, GA"
+726,county,Smyth County,VA,
+2843,county,Schoharie County,NY,"Albany-Schenectady-Troy, NY"
+1897,county,Madison County,GA,"Athens-Clarke County, GA"
+1029,county,Gallia County,OH,"Point Pleasant, WV-OH"
+1293,county,Orange County,VT,"Lebanon, NH-VT"
+1662,county,Decatur County,GA,"Bainbridge, GA"
+827,county,Alpena County,MI,"Alpena, MI"
+2587,county,Van Wert County,OH,"Van Wert, OH"
+1173,county,Marion County,TN,"Chattanooga, TN-GA"
+969,county,Custer County,OK,"Weatherford, OK"
+1120,county,Jasper County,SC,"Hilton Head Island-Bluffton, SC"
+1600,county,Carroll County,TN,
+572,county,Jones County,GA,"Macon-Bibb County, GA"
+1777,county,Hocking County,OH,"Columbus, OH"
+3283,county,Fredericksburg City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+1215,county,Monroe County,GA,"Macon-Bibb County, GA"
+2148,county,Bradford County,FL,
+671,county,Peach County,GA,"Warner Robins, GA"
+2720,county,Henderson County,TN,
+2792,county,McDonough County,IL,"Macomb, IL"
+779,county,Upson County,GA,"Thomaston, GA"
+608,county,Logan County,KY,
+279,county,Pike County,OH,
+424,county,Caddo County,OK,
+809,county,White County,TN,
+1936,county,Mineral County,WV,"Cumberland, MD-WV"
+1437,county,Toombs County,GA,"Vidalia, GA"
+919,county,Carter County,KY,"Huntington-Ashland, WV-KY-OH"
+1081,county,Hardin County,TN,
+599,county,Lewis County,NY,
+2557,county,Stephens County,GA,"Toccoa, GA"
+93,county,Ashe County,NC,
+3097,county,King George County,VA,
+2106,county,Wyoming County,PA,"Scranton--Wilkes-Barre, PA"
+1732,county,Grayson County,KY,
+979,county,Dawson County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+1031,county,Garvin County,OK,
+1924,county,McNairy County,TN,
+2807,county,Montezuma County,CO,
+1001,county,Elbert County,CO,"Denver-Aurora-Lakewood, CO"
+2978,county,Montgomery County,NC,
+2808,county,Morehouse Parish,LA,"Monroe, LA"
+176,county,Hart County,GA,
+1076,county,Hardee County,FL,"Wauchula, FL"
+2327,county,Hardeman County,TN,
+2954,county,Lauderdale County,TN,
+1010,county,Fannin County,GA,
+1808,county,Jackson County,OK,"Altus, OK"
+623,county,Macon County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+533,county,Grant County,KY,"Cincinnati, OH-KY-IN"
+2652,county,Chattooga County,GA,"Summerville, GA"
+1773,county,Hickman County,TN,
+2205,county,Cleburne County,AR,
+816,county,Yates County,NY,"Rochester, NY"
+2606,county,Abbeville County,SC,
+462,county,Crook County,OR,"Prineville, OR"
+2751,county,Jefferson County,OR,
+763,county,Union County,GA,
+2540,county,Seminole County,OK,
+267,county,Page County,VA,
+3224,county,Saint Francis County,AR,"Forrest City, AR"
+2121,county,Anderson County,KY,"Frankfort, KY"
+2483,county,Poinsett County,AR,"Jonesboro, AR"
+2571,county,Tattnall County,GA,
+2211,county,Columbia County,AR,"Magnolia, AR"
+3209,county,Hopewell City,VA,"Richmond, VA"
+1823,county,Johnson County,KY,
+1693,county,Emanuel County,GA,
+89,county,Lee County,VA,
+1360,county,Sabine Parish,LA,
+1960,county,Overton County,TN,"Cookeville, TN"
+1535,county,Beckham County,OK,"Elk City, OK"
+2435,county,Mitchell County,GA,
+2104,county,Wyandot County,OH,
+714,county,Scott County,TN,
+605,county,Logan County,CO,"Sterling, CO"
+2423,county,McDuffie County,GA,"Augusta-Richmond County, GA-SC"
+438,county,Clark County,AR,"Arkadelphia, AR"
+1786,county,Hubbard County,MN,
+2263,county,Fillmore County,MN,"Rochester, MN"
+1237,county,Morgan County,TN,"Knoxville, TN"
+812,county,Worth County,GA,"Albany, GA"
+2135,county,Barnwell County,SC,
+1591,county,Carroll County,IA,"Carroll, IA"
+954,county,Conway County,AR,
+2963,county,Meriwether County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+369,county,Allen County,KY,"Bowling Green, KY"
+2605,county,Woodward County,OK,"Woodward, OK"
+461,county,Crisp County,GA,"Cordele, GA"
+124,county,Clay County,KY,"London, KY"
+3155,county,Breckinridge County,KY,
+1551,county,Bourbon County,KY,"Lexington-Fayette, KY"
+482,county,Dodge County,GA,
+3051,county,Washington County,GA,
+986,county,Dekalb County,TN,
+352,county,Adair County,OK,
+724,county,Smith County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+1231,county,Morgan County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+1319,county,Pierce County,GA,"Waycross, GA"
+778,county,Union County,TN,"Knoxville, TN"
+284,county,Polk County,AR,
+1002,county,Elbert County,GA,
+290,county,Polk County,NC,
+839,county,Ashley County,AR,
+200,county,Kent County,MD,
+177,county,Hart County,KY,
+2426,county,McIntosh County,OK,
+2728,county,Humphreys County,TN,
+1477,county,Warren County,NC,
+2471,county,Paulding County,OH,
+1516,county,Appling County,GA,
+588,county,Lamar County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2262,county,Fentress County,TN,
+1504,county,Yancey County,NC,
+1543,county,Berrien County,GA,
+381,county,Banks County,GA,
+1896,county,Madison County,FL,
+3140,county,Southampton County,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+2533,county,Schuyler County,NY,
+1826,county,Johnson County,TN,
+1770,county,Haywood County,TN,"Brownsville, TN"
+1449,county,Unicoi County,TN,"Johnson City, TN"
+2704,county,Gilchrist County,FL,"Gainesville, FL"
+150,county,Drew County,AR,
+293,county,Polk County,TN,"Cleveland, TN"
+268,county,Park County,CO,"Denver-Aurora-Lakewood, CO"
+1613,county,Chester County,TN,"Jackson, TN"
+2128,county,Arkansas County,AR,
+716,county,Sharp County,AR,"Batesville, AR"
+2140,county,Ben Hill County,GA,"Fitzgerald, GA"
+138,county,Cook County,GA,
+1719,county,Garrard County,KY,
+464,county,Cross County,AR,
+480,county,Dixie County,FL,
+1895,county,Madison County,AR,"Fayetteville-Springdale-Rogers, AR"
+239,county,Long County,GA,"Hinesville, GA"
+1511,county,Alamosa County,CO,
+799,county,Wayne County,TN,
+143,county,Dade County,GA,"Chattanooga, TN-GA"
+2379,county,Lawrence County,AR,
+893,county,Brooks County,GA,"Valdosta, GA"
+2858,county,Van Buren County,AR,
+3029,county,Sequatchie County,TN,"Chattanooga, TN-GA"
+2736,county,Jefferson County,GA,
+557,county,Henry County,KY,"Louisville/Jefferson County, KY-IN"
+1312,county,Pawnee County,OK,"Tulsa, OK"
+513,county,Floyd County,IA,
+2380,county,Lawrence County,IL,
+2413,county,Marshall County,OK,
+2947,county,Kingfisher County,OK,
+1708,county,Fleming County,KY,
+2989,county,Oglethorpe County,GA,"Athens-Clarke County, GA"
+592,county,Larue County,KY,"Elizabethtown-Fort Knox, KY"
+2943,county,Jeff Davis County,GA,
+943,county,Clarke County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+117,county,Clay County,AR,
+2822,county,Pendleton County,KY,"Cincinnati, OH-KY-IN"
+2334,county,Harrison County,OH,
+2950,county,Las Animas County,CO,
+1114,county,Jasper County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+1618,county,Choctaw County,OK,
+1577,county,Calhoun County,SC,"Columbia, SC"
+457,county,Craig County,OK,
+1006,county,Estill County,KY,"Richmond-Berea, KY"
+2018,county,Screven County,GA,
+2238,county,Crockett County,TN,"Jackson, TN"
+2315,county,Hamilton County,FL,
+1250,county,Murray County,OK,
+1913,county,Madison County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+2044,county,Stewart County,TN,"Clarksville, TN-KY"
+3276,county,Martinsville City,VA,"Martinsville, VA"
+1070,county,Grundy County,TN,
+1209,county,Moffat County,CO,"Craig, CO"
+1098,county,Howard County,AR,
+95,county,Bath County,KY,"Mount Sterling, KY"
+2160,county,Caldwell County,KY,
+638,county,Meigs County,TN,
+2146,county,Bleckley County,GA,
+600,county,Lewis County,TN,
+2184,county,Charlton County,GA,
+3215,county,Poquoson City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+619,county,Macon County,GA,
+319,county,Todd County,KY,
+1042,county,Glades County,FL,
+2257,county,Edmonson County,KY,"Bowling Green, KY"
+2549,county,Skamania County,WA,"Portland-Vancouver-Hillsboro, OR-WA"
+1980,county,Prowers County,CO,
+1765,county,Haskell County,OK,
+1811,county,Jackson County,TN,"Cookeville, TN"
+486,county,Dooly County,GA,
+475,county,Desha County,AR,
+3008,county,Rio Grande County,CO,
+2856,county,Trousdale County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+1666,county,Decatur County,TN,
+2462,county,Okfuskee County,OK,
+551,county,Heard County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2424,county,McIntosh County,GA,"Brunswick, GA"
+3064,county,Washington County,NC,
+377,county,Bacon County,GA,
+656,county,Noble County,OK,
+128,county,Clay County,NC,
+1586,county,Candler County,GA,
+492,county,Early County,GA,
+1594,county,Carroll County,KY,
+508,county,Evans County,GA,
+2803,county,Middlesex County,VA,
+2361,county,Johnston County,OK,
+825,county,Alcona County,MI,
+241,county,Love County,OK,"Ardmore, OK"
+675,county,Perry County,AR,"Little Rock-North Little Rock-Conway, AR"
+1982,county,Pulaski County,GA,
+705,county,Scott County,AR,
+1141,county,Lanier County,GA,"Valdosta, GA"
+1491,county,Wilkes County,GA,
+570,county,Irwin County,GA,
+795,county,Wayne County,NE,
+1850,county,Latimer County,OK,
+1271,county,Nowata County,OK,
+3106,county,Montmorency County,MI,
+2539,county,Seminole County,GA,
+2051,county,Terrell County,GA,"Albany, GA"
+2908,county,Crittenden County,KY,
+2874,county,Wilkinson County,GA,
+1444,county,Turner County,GA,
+881,county,Blaine County,OK,
+247,county,Lyon County,KY,
+2298,county,Gallatin County,KY,"Cincinnati, OH-KY-IN"
+866,county,Benton County,IN,"Lafayette-West Lafayette, IN"
+2968,county,Montgomery County,AR,
+1552,county,Bracken County,KY,"Cincinnati, OH-KY-IN"
+2769,county,Lafayette County,FL,
+683,county,Perry County,TN,
+579,county,Keith County,NE,
+847,county,Baraga County,MI,
+1784,county,Houston County,TN,
+1446,county,Twiggs County,GA,"Macon-Bibb County, GA"
+3138,county,Schoolcraft County,MI,
+1372,county,Searcy County,AR,
+1527,county,Ballard County,KY,"Paducah, KY-IL"
+624,county,Major County,OK,
+1865,county,Lincoln County,GA,"Augusta-Richmond County, GA-SC"
+131,county,Clay County,TN,
+2454,county,Nicholas County,KY,
+228,county,Lake County,TN,
+1714,county,Fremont County,IA,
+1756,county,Hancock County,TN,
+1023,county,Fulton County,KY,
+650,county,Moore County,TN,"Tullahoma-Manchester, TN"
+2582,county,Treutlen County,GA,"Dublin, GA"
+2861,county,Van Buren County,TN,
+1417,county,Talbot County,GA,"Columbus, GA-AL"
+959,county,Cotton County,OK,"Lawton, OK"
+134,county,Coal County,OK,
+2321,county,Hamilton County,NY,
+1973,county,Pickett County,TN,
+539,county,Grant County,OK,
+1988,county,Quitman County,GA,"Eufaula, AL-GA"
+1795,county,Jackson County,GA,"Jefferson, GA"
+781,county,Vance County,NC,"Henderson, NC"
+1593,county,Carroll County,IN,"Lafayette-West Lafayette, IN"
+2903,county,Clearwater County,ID,
+1546,county,Bledsoe County,TN,
+1647,county,Cullman County,AL,"Cullman, AL"
+1656,county,De Kalb County,AL,"Fort Payne, AL"
+3012,county,Rockingham County,NC,"Greensboro-High Point, NC"
+902,county,Butler County,MO,"Poplar Bluff, MO"
+2853,county,Talladega County,AL,"Talladega-Sylacauga, AL"
+580,county,Kings County,CA,"Hanford-Corcoran, CA"
+2351,county,Humboldt County,CA,"Eureka-Arcata, CA"
+883,county,Blount County,AL,"Birmingham-Hoover, AL"
+1831,county,Kanabec County,MN,
+2358,county,Jennings County,IN,"North Vernon, IN"
+2289,county,Franklin County,PA,"Chambersburg-Waynesboro, PA"
+2162,county,Caldwell County,MO,"Kansas City, MO-KS"
+1069,county,Grundy County,MO,
+2530,county,Saunders County,NE,"Omaha-Council Bluffs, NE-IA"
+2971,county,Montgomery County,IL,
+2778,county,Lancaster County,VA,
+3193,county,Spotsylvania County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+2240,county,Culpeper County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+552,county,Henry County,AL,"Dothan, AL"
+1869,county,Lincoln Parish,LA,"Ruston, LA"
+3117,county,Plaquemines Parish,LA,"New Orleans-Metairie, LA"
+2204,county,Cleburne County,AL,
+1007,county,Etowah County,AL,"Gadsden, AL"
+2821,county,Palo Alto County,IA,
+1420,county,Taylor County,GA,
+2622,county,Aroostook County,ME,
+2747,county,Jefferson County,NE,
+2491,county,Randolph County,GA,
+507,county,Essex County,VT,
+1864,county,Lincoln County,CO,
+1180,county,Martin County,NC,
+2931,county,Grand Isle County,VT,"Burlington-South Burlington, VT"
+3206,county,Franklin City,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+2178,county,Caroline County,VA,
+1156,county,Madera County,CA,"Madera, CA"
+2796,county,Mendocino County,CA,"Ukiah, CA"
+761,county,Union County,AR,"El Dorado, AR"
+145,county,Dale County,AL,"Ozark, AL"
+640,county,Miami County,KS,"Kansas City, MO-KS"
+818,county,Yazoo County,MS,"Jackson, MS"
+1041,county,Gilpin County,CO,"Denver-Aurora-Lakewood, CO"
+112,county,Cass County,MO,"Kansas City, MO-KS"
+2957,county,Livingston County,KY,"Paducah, KY-IL"
+540,county,Grant County,OR,
+1631,county,Clinton County,OH,"Wilmington, OH"
+836,county,Arenac County,MI,
+2317,county,Hamilton County,IL,
+1050,county,Graves County,KY,"Mayfield, KY"
+2456,county,Nicollet County,MN,"Mankato, MN"
+360,county,Adams County,NE,"Hastings, NE"
+2467,county,Ouachita County,AR,"Camden, AR"
+2036,county,Stanton County,NE,"Norfolk, NE"
+2969,county,Montgomery County,GA,"Vidalia, GA"
+1483,county,Warren County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+1386,county,Shelby County,MO,
+2612,county,Alleghany County,NC,
+1818,county,Johnson County,GA,"Dublin, GA"
+2517,county,Saguache County,CO,
+832,county,Andrew County,MO,"St. Joseph, MO-KS"
+1379,county,Seward County,NE,"Lincoln, NE"
+2043,county,Stewart County,GA,"Columbus, GA-AL"
+2615,county,Allendale County,SC,
+1369,county,Schley County,GA,"Americus, GA"
+3007,county,Rio Blanco County,CO,
+265,county,Owen County,KY,
+3203,county,Chattahoochee County,GA,"Columbus, GA-AL"
+1794,county,Jackson County,FL,
+1717,county,Gadsden County,FL,"Tallahassee, FL"
+378,county,Baker County,FL,"Jacksonville, FL"
+1603,county,Caswell County,NC,
+2991,county,Orangeburg County,SC,"Orangeburg, SC"
+2510,county,Richmond County,NC,"Rockingham, NC"
+1521,county,Audrain County,MO,"Mexico, MO"
+374,county,Anson County,NC,"Charlotte-Concord-Gastonia, NC-SC"
+306,county,Rock County,MN,
+2076,county,Webster County,GA,
+320,county,Todd County,MN,
+2735,county,Jefferson County,FL,"Tallahassee, FL"
+2320,county,Hamilton County,NE,
+1175,county,Marion County,WV,"Fairmont, WV"
+1264,county,Newton County,IN,"Chicago-Naperville-Elgin, IL-IN-WI"
+1334,county,Powell County,KY,
+1094,county,Holmes County,FL,
+1206,county,Miller County,GA,
+346,county,Yuba County,CA,"Yuba City, CA"
+829,county,Amador County,CA,
+2548,county,Siskiyou County,CA,
+1113,county,Itasca County,MN,"Grand Rapids, MN"
+1232,county,Morgan County,IL,"Jacksonville, IL"
+3257,county,Kenai Peninsula Borough,AK,
+768,county,Union Parish,LA,"Monroe, LA"
+2101,county,Winston County,AL,
+3211,county,Kodiak Island Borough,AK,
+2278,county,Franklin County,KS,"Ottawa, KS"
+1318,county,Phelps County,NE,
+867,county,Benton County,MN,"St. Cloud, MN"
+349,county,Adair County,IA,
+2762,county,Kandiyohi County,MN,"Willmar, MN"
+83,county,Lee County,IL,"Dixon, IL"
+3065,county,Washington County,NE,"Omaha-Council Bluffs, NE-IA"
+2389,county,Le Sueur County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+1004,county,Elmore County,ID,"Mountain Home, ID"
+163,county,Gage County,NE,"Beatrice, NE"
+1229,county,Morgan County,AL,"Decatur, AL"
+2852,county,Sunflower County,MS,"Indianola, MS"
+3252,county,West Feliciana Parish,LA,"Baton Rouge, LA"
+2629,county,Bienville Parish,LA,
+1597,county,Carroll County,MS,"Greenwood, MS"
+1147,county,Lenoir County,NC,"Kinston, NC"
+295,county,Polk County,WI,
+1834,county,Kearney County,NE,"Kearney, NE"
+3003,county,Red Willow County,NE,
+2275,county,Franklin County,ID,"Logan, UT-ID"
+1064,county,Greene County,VA,"Charlottesville, VA"
+1876,county,Lincoln County,NE,"North Platte, NE"
+1143,county,Lassen County,CA,"Susanville, CA"
+2268,county,Fluvanna County,VA,"Charlottesville, VA"
+1966,county,Payette County,ID,"Ontario, OR-ID"
+2403,county,Mariposa County,CA,
+2638,county,Breathitt County,KY,
+524,county,Glenn County,CA,
+2678,county,Del Norte County,CA,"Crescent City, CA"
+952,county,Colusa County,CA,
+2056,county,Trinity County,CA,
+1398,county,Starke County,IN,
+249,county,Lyon County,NV,"Fernley, NV"
+2416,county,Marshall County,WV,"Wheeling, WV-OH"
+2365,county,Kewaunee County,WI,"Green Bay, WI"
+1888,county,Lowndes County,AL,"Montgomery, AL"
+1548,county,Bossier Parish,LA,"Shreveport-Bossier City, LA"
+997,county,Dubois County,IN,"Jasper, IN"
+2602,county,Woodford County,IL,"Peoria, IL"
+2670,county,Concordia Parish,LA,"Natchez, MS-LA"
+647,county,Modoc County,CA,
+3216,county,Pottawattamie County,IA,"Omaha-Council Bluffs, NE-IA"
+3241,county,King and Queen County,VA,"Richmond, VA"
+630,county,Mason County,WA,"Shelton, WA"
+2570,county,Suwannee County,FL,
+1391,county,Sierra County,CA,
+2486,county,Powhatan County,VA,"Richmond, VA"
+1346,county,Putnam County,WV,"Huntington-Ashland, WV-KY-OH"
+472,county,Delta County,CO,
+2965,county,Mille Lacs County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI"
+1467,county,Waller County,TX,"Houston-The Woodlands-Sugar Land, TX"
+1926,county,Mecosta County,MI,"Big Rapids, MI"
+710,county,Scott County,KY,"Lexington-Fayette, KY"
+898,county,Butler County,AL,
+910,county,Camden County,NC,"Virginia Beach-Norfolk-Newport News, VA-NC"
+3183,county,Rappahannock County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+2725,county,Hillsdale County,MI,"Hillsdale, MI"
+1274,county,Oceana County,MI,
+1118,county,Jasper County,MO,"Joplin, MO"
+3100,county,Leavenworth County,KS,"Kansas City, MO-KS"
+1321,county,Pierce County,NE,"Norfolk, NE"
+256,county,Nash County,NC,"Rocky Mount, NC"
+2166,county,Callaway County,MO,"Jefferson City, MO"
+1292,county,Orange County,VA,
+3079,county,Williamson County,IL,"Carbondale-Marion, IL"
+1872,county,Lincoln County,MO,"St. Louis, MO-IL"
+1757,county,Hancock County,WV,"Weirton-Steubenville, WV-OH"
+2715,county,Hampshire County,WV,"Winchester, VA-WV"
+1239,county,Morgan County,WV,"Hagerstown-Martinsburg, MD-WV"
+1139,county,La Paz County,AZ,
+631,county,Mason County,WV,"Point Pleasant, WV-OH"
+1425,county,Taylor County,WV,"Clarksburg, WV"
+2806,county,Missaukee County,MI,"Cadillac, MI"
+549,county,Hardy County,WV,
+601,county,Lewis County,WA,"Centralia, WA"
+2296,county,Frontier County,NE,
+2136,county,Bayfield County,WI,
+2713,county,Habersham County,GA,"Cornelia, GA"
+2326,county,Haralson County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+415,county,Burke County,GA,"Augusta-Richmond County, GA-SC"
+2451,county,New Kent County,VA,"Richmond, VA"
+1039,county,Gilmer County,GA,
+806,county,White County,GA,
+3177,county,Pottawatomie County,KS,"Manhattan, KS"
+3170,county,King William County,VA,"Richmond, VA"
+498,county,Ellis County,TX,"Dallas-Fort Worth-Arlington, TX"
+1930,county,Midland County,TX,"Midland, TX"
+494,county,Ector County,TX,"Odessa, TX"
+3028,county,Schuylkill County,PA,"Pottsville, PA"
+1833,county,Kaufman County,TX,"Dallas-Fort Worth-Arlington, TX"
+1991,county,Randall County,TX,"Amarillo, TX"
+2095,county,Wichita County,TX,"Wichita Falls, TX"
+185,county,Hunt County,TX,"Dallas-Fort Worth-Arlington, TX"
+2405,county,Marshall County,AL,"Albertville, AL"
+3121,county,Saint Clair County,AL,"Birmingham-Hoover, AL"
+2721,county,Henderson County,TX,"Athens, TX"
+1643,county,Coryell County,TX,"Killeen-Temple, TX"
+2585,county,Umatilla County,OR,"Hermiston-Pendleton, OR"
+1495,county,Wilson County,NC,"Wilson, NC"
+337,county,Wood County,WI,"Wisconsin Rapids-Marshfield, WI"
+3190,county,San Patricio County,TX,"Corpus Christi, TX"
+333,county,Wise County,TX,"Dallas-Fort Worth-Arlington, TX"
+356,county,Adams County,IL,"Quincy, IL-MO"
+125,county,Clay County,MN,"Fargo, ND-MN"
+931,county,Chaves County,NM,"Roswell, NM"
+2149,county,Bradford County,PA,"Sayre, PA"
+2862,county,Van Zandt County,TX,
+280,county,Pike County,PA,"New York-Newark-Jersey City, NY-NJ-PA"
+2193,county,Cherokee County,SC,"Gaffney, SC"
+1824,county,Johnson County,MO,"Warrensburg, MO"
+156,county,Elko County,NV,"Elko, NV"
+181,county,Hoke County,NC,"Fayetteville, NC"
+1580,county,Calumet County,WI,"Appleton, WI"
+208,county,Knox County,IL,"Galesburg, IL"
+897,county,Burnet County,TX,
+2164,county,Caldwell County,TX,"Austin-Round Rock-Georgetown, TX"
+1658,county,De Kalb County,IN,"Auburn, IN"
+2995,county,Pasquotank County,NC,"Elizabeth City, NC"
+1277,county,Oconto County,WI,"Green Bay, WI"
+1399,county,Steele County,MN,"Owatonna, MN"
+484,county,Dodge County,NE,"Fremont, NE"
+1153,county,Louisa County,VA,
+546,county,Green County,WI,"Madison, WI"
+1588,county,Carlton County,MN,"Duluth, MN-WI"
+1089,county,Harris County,GA,"Columbus, GA-AL"
+2657,county,Christian County,IL,"Taylorville, IL"
+2634,county,Botetourt County,VA,"Roanoke, VA"
+282,county,Pine County,MN,
+2191,county,Cherokee County,NC,
+421,county,Butts County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+2707,county,Goochland County,VA,"Richmond, VA"
+2273,county,Franklin County,GA,
+483,county,Dodge County,MN,"Rochester, MN"
+273,county,Pike County,GA,"Atlanta-Sandy Springs-Alpharetta, GA"
+871,county,Benton County,TN,
+944,county,Clinch County,GA,
+1308,county,Parker County,TX,"Dallas-Fort Worth-Arlington, TX"
+1333,county,Potter County,TX,"Amarillo, TX"
+3040,county,Terrebonne Parish,LA,"Houma-Thibodaux, LA"
+399,county,Bowie County,TX,"Texarkana, TX-AR"
+3244,county,Northumberland County,PA,"Sunbury, PA"
+2154,county,Buchanan County,MO,"St. Joseph, MO-KS"
+1291,county,Orange County,TX,"Beaumont-Port Arthur, TX"
+1466,county,Walker County,TX,"Huntsville, TX"
+2586,county,Valencia County,NM,"Albuquerque, NM"
+2335,county,Harrison County,TX,"Longview, TX"
+2285,county,Franklin County,NC,"Raleigh-Cary, NC"
+3108,county,Nacogdoches County,TX,"Nacogdoches, TX"
+2417,county,Maverick County,TX,"Eagle Pass, TX"
+1082,county,Hardin County,TX,"Beaumont-Port Arthur, TX"
+2058,county,Tuscola County,MI,
+556,county,Henry County,IN,"New Castle, IN"
+2857,county,Val Verde County,TX,"Del Rio, TX"
+453,county,Coles County,IL,"Charleston-Mattoon, IL"
+2172,county,Campbell County,WY,"Gillette, WY"
+2139,county,Beltrami County,MN,"Bemidji, MN"
+682,county,Perry County,PA,"Harrisburg-Carlisle, PA"
+1681,county,Douglas County,WI,"Duluth, MN-WI"
+1993,county,Ravalli County,MT,
+502,county,Erath County,TX,"Stephenville, TX"
+2461,county,Okanogan County,WA,
+2784,county,Marinette County,WI,"Marinette, WI-MI"
+1105,county,Howell County,MO,"West Plains, MO"
+2231,county,Crawford County,KS,"Pittsburg, KS"
+408,county,Brown County,SD,"Aberdeen, SD"
+1632,county,Clinton County,PA,"Lock Haven, PA"
+2079,county,Webster Parish,LA,"Minden, LA"
+2199,county,Chippewa County,MI,"Sault Ste. Marie, MI"
+2939,county,Huntington County,IN,"Huntington, IN"
+2610,county,Alexander County,NC,"Hickory-Lenoir-Morganton, NC"
+1846,county,Laclede County,MO,"Lebanon, MO"
+2690,county,Effingham County,IL,"Effingham, IL"
+1021,county,Fulton County,IL,"Peoria, IL"
+171,county,Hale County,TX,"Plainview, TX"
+2492,county,Randolph County,IL,
+111,county,Cass County,MN,"Brainerd, MN"
+1410,county,Sumter County,GA,"Americus, GA"
+1601,county,Carroll County,VA,
+3263,county,Winchester City,VA,"Winchester, VA-WV"
+2603,county,Woodford County,KY,"Lexington-Fayette, KY"
+1599,county,Carroll County,OH,"Canton-Massillon, OH"
+785,county,Wasco County,OR,"The Dalles, OR"
+2660,county,Churchill County,NV,"Fallon, NV"
+190,county,Iowa County,WI,"Madison, WI"
+1179,county,Martin County,MN,"Fairmont, MN"
+2032,county,Spencer County,KY,"Louisville/Jefferson County, KY-IN"
+2438,county,Mitchell County,NC,
+1003,county,Elmore County,AL,"Montgomery, AL"
+3187,county,Saint Landry Parish,LA,"Opelousas, LA"
+1109,county,Iberia Parish,LA,"Lafayette, LA"
+1540,county,Belmont County,OH,"Wheeling, WV-OH"
+834,county,Apache County,AZ,
+2124,county,Anderson County,TX,"Palestine, TX"
+3075,county,Washington County,VA,"Kingsport-Bristol, TN-VA"
+1797,county,Jackson County,IL,"Carbondale-Marion, IL"
+312,county,Rusk County,TX,"Longview, TX"
+3188,county,Saint Martin Parish,LA,"Lafayette, LA"
+543,county,Grant County,WI,"Platteville, WI"
+1942,county,Navarro County,TX,"Corsicana, TX"
+2194,county,Cherokee County,TX,"Jacksonville, TX"
+1192,county,Medina County,TX,"San Antonio-New Braunfels, TX"
+590,county,Lamar County,TX,"Paris, TX"
+1497,county,Wilson County,TX,"San Antonio-New Braunfels, TX"
+1227,county,Monroe County,WI,
+1614,county,Chilton County,AL,"Birmingham-Hoover, AL"
+336,county,Wood County,TX,
+2752,county,Jefferson County,PA,
+2938,county,Huntingdon County,PA,"Huntingdon, PA"
+1836,county,Kendall County,TX,"San Antonio-New Braunfels, TX"
+455,county,Cooke County,TX,"Gainesville, TX"
+1185,county,McKean County,PA,"Bradford, PA"
+278,county,Pike County,MS,"McComb, MS"
+2625,county,Avoyelles Parish,LA,
+2330,county,Harrison County,IN,"Louisville/Jefferson County, KY-IN"
+2759,county,Jim Wells County,TX,"Alice, TX"
+2311,county,Guernsey County,OH,"Cambridge, OH"
+1013,county,Finney County,KS,"Garden City, KS"
+409,county,Brown County,TX,"Brownwood, TX"
+2671,county,Coshocton County,OH,"Coshocton, OH"
+334,county,Wise County,VA,"Big Stone Gap, VA"
+3192,county,Scotts Bluff County,NE,"Scottsbluff, NE"
+639,county,Miami County,IN,"Peru, IN"
+717,county,Sioux County,IA,
+1908,county,Madison County,NE,"Norfolk, NE"
+1447,county,Uintah County,UT,"Vernal, UT"
+1011,county,Fannin County,TX,"Bonham, TX"
+2069,county,Wapello County,IA,"Ottumwa, IA"
+896,county,Bureau County,IL,"Ottawa, IL"
+2410,county,Marshall County,KY,
+1843,county,Kleberg County,TX,"Kingsville, TX"
+1459,county,Vernon County,WI,
+2730,county,Iberville Parish,LA,"Baton Rouge, LA"
+3145,county,Trempealeau County,WI,
+2738,county,Jefferson County,ID,"Idaho Falls, ID"
+844,county,Austin County,TX,"Houston-The Woodlands-Sugar Land, TX"
+877,county,Bladen County,NC,
+270,county,Park County,WY,
+1356,county,Ripley County,IN,
+3055,county,Washington County,IN,"Louisville/Jefferson County, KY-IN"
+3133,county,San Jacinto County,TX,
+1128,county,Juneau County,WI,
+1422,county,Taylor County,KY,"Campbellsville, KY"
+2688,county,Edgefield County,SC,"Augusta-Richmond County, GA-SC"
+688,county,Posey County,IN,"Evansville, IN-KY"
+642,county,Milam County,TX,
+708,county,Scott County,IN,"Scottsburg, IN"
+1829,county,Juniata County,PA,
+892,county,Brooke County,WV,"Weirton-Steubenville, WV-OH"
+840,county,Asotin County,WA,"Lewiston, ID-WA"
+2781,county,Limestone County,TX,
+1914,county,Mahaska County,IA,"Oskaloosa, IA"
+1778,county,Hockley County,TX,"Levelland, TX"
+264,county,Owen County,IN,"Bloomington, IN"
+676,county,Perry County,IL,
+2941,county,Hutchinson County,TX,"Borger, TX"
+760,county,Uinta County,WY,"Evanston, WY"
+363,county,Adams County,WA,"Othello, WA"
+1167,county,Marion County,KY,
+1783,county,Houston County,MN,"La Crosse-Onalaska, WI-MN"
+3291,county,Colonial Heights City,VA,"Richmond, VA"
+819,county,Young County,TX,
+1108,county,Hughes County,SD,"Pierre, SD"
+1371,county,Scurry County,TX,"Snyder, TX"
+1472,county,Warren County,IL,
+643,county,Mills County,IA,"Omaha-Council Bluffs, NE-IA"
+912,county,Cannon County,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN"
+1571,county,Calhoun County,FL,
+3180,county,Presque Isle County,MI,
+2274,county,Franklin County,IA,
+1752,county,Hancock County,KY,"Owensboro, KY"
+1919,county,Mathews County,VA,"Virginia Beach-Norfolk-Newport News, VA-NC"
+1049,county,Graham County,NC,
+965,county,Custer County,CO,
+294,county,Polk County,TX,
+2182,county,Chambers County,TX,"Houston-The Woodlands-Sugar Land, TX"
+2573,county,Tazewell County,VA,"Bluefield, WV-VA"
+1625,county,Clinton County,IL,"St. Louis, MO-IL"
+2787,county,Matagorda County,TX,"Bay City, TX"
+1062,county,Greene County,PA,
+357,county,Adams County,IN,"Decatur, IN"
+3073,county,Washington County,TX,"Brenham, TX"
+1475,county,Warren County,MO,"St. Louis, MO-IL"
+2181,county,Chambers County,AL,"LaGrange, GA-AL"
+1684,county,Dunklin County,MO,"Kennett, MO"
+3271,county,West Baton Rouge Parish,LA,"Baton Rouge, LA"
+2705,county,Gillespie County,TX,"Fredericksburg, TX"
+774,county,Union County,OR,"La Grande, OR"
+2597,county,Waushara County,WI,
+2420,county,McDonald County,MO,
+2111,county,Yankton County,SD,"Yankton, SD"
+2233,county,Crawford County,MO,
+2064,county,Wabasha County,MN,"Rochester, MN"
+2433,county,Minidoka County,ID,"Burley, ID"
+1907,county,Madison County,NC,"Asheville, NC"
+2884,county,Assumption Parish,LA,"Baton Rouge, LA"
+1813,county,Jackson County,WI,
+2209,county,Colorado County,TX,
+1022,county,Fulton County,IN,
+2503,county,Richland Parish,LA,
+2031,county,Spencer County,IN,
+677,county,Perry County,IN,
+663,county,Otero County,CO,
+2741,county,Jefferson County,KS,"Topeka, KS"
+2508,county,Richland County,WI,
+1568,county,Burnett County,WI,
+263,county,Otoe County,NE,
+2440,county,Moniteau County,MO,"Jefferson City, MO"
+440,county,Clark County,IL,
+1592,county,Carroll County,IL,
+2786,county,Marquette County,WI,
+917,county,Carbon County,WY,
+431,county,Cedar County,MO,
+754,county,Trigg County,KY,"Clarksville, TN-KY"
+1463,county,Wadena County,MN,
+2697,county,Faribault County,MN,
+767,county,Union County,KY,
+2078,county,Webster County,KY,
+2200,county,Chippewa County,MN,
+1984,county,Pulaski County,IN,
+3057,county,Washington County,KY,
+2189,county,Cherokee County,IA,
+1152,county,Louisa County,IA,
+520,county,Gates County,NC,"Virginia Beach-Norfolk-Newport News, VA-NC"
+348,county,Yuma County,CO,
+2750,county,Jefferson County,OK,
+1935,county,Mineral County,NV,
+1402,county,Storey County,NV,"Reno, NV"
+497,county,Ellis County,OK,"Woodward, OK"
+731,county,Starr County,TX,"Rio Grande City-Roma, TX"
+3176,county,Pittsylvania County,VA,"Danville, VA"
+2085,county,Wharton County,TX,"El Campo, TX"
+1450,county,Upshur County,TX,"Longview, TX"
+3142,county,Susquehanna County,PA,
+1121,county,Jasper County,TX,
+750,county,Titus County,TX,"Mount Pleasant, TX"
+3202,county,Williamsburg County,SC,
+72,county,Elk County,PA,"St. Marys, PA"
+115,county,Cass County,TX,
+992,county,Dillon County,SC,
+925,county,Cassia County,ID,"Burley, ID"
+1389,county,Shelby County,TX,
+2765,county,Klickitat County,WA,
+715,county,Scott County,VA,"Kingsport-Bristol, TN-VA"
+1529,county,Bandera County,TX,"San Antonio-New Braunfels, TX"
+1578,county,Calhoun County,TX,"Port Lavaca, TX"
+758,county,Tyler County,TX,
+1698,county,Fayette County,IA,
+2701,county,Freestone County,TX,
+1747,county,Hampton County,SC,
+679,county,Perry County,MO,
+1515,county,Andrews County,TX,"Andrews, TX"
+2773,county,Lafayette County,WI,
+2988,county,New Madrid County,MO,
+1331,county,Potter County,PA,
+788,county,Wayne County,IL,
+2236,county,Crawford County,WI,
+1520,county,Ashland County,WI,
+2960,county,Livingston County,MO,
+657,county,Nolan County,TX,"Sweetwater, TX"
+1550,county,Bourbon County,KS,
+313,county,Rusk County,WI,
+2222,county,Comanche County,TX,
+2998,county,Perquimans County,NC,"Elizabeth City, NC"
+1382,county,Shelby County,IA,
+326,county,Ward County,TX,
+223,county,Lake County,MN,"Duluth, MN-WI"
+506,county,Essex County,VA,
+2291,county,Franklin County,TX,
+389,county,Boise County,ID,"Boise City, ID"
+2053,county,Tillman County,OK,
+1878,county,Lincoln County,NV,
+2374,county,Lagrange County,IN,
+3255,county,Jefferson Davis Parish,LA,"Jennings, LA"
+361,county,Adams County,OH,
+1453,county,Uvalde County,TX,"Uvalde, TX"
+1705,county,Fayette County,TX,
+1363,county,Saline County,IL,
+1307,county,Panola County,TX,
+3262,county,Waynesboro City,VA,"Staunton, VA"
+2342,county,Hertford County,NC,
+1377,county,Sevier County,UT,
+972,county,Dakota County,NE,"Sioux City, IA-NE-SD"
+1278,county,Ogemaw County,MI,
+554,county,Henry County,IA,
+1145,county,Lavaca County,TX,
+875,county,Bertie County,NC,
+310,county,Rush County,IN,
+189,county,Iowa County,IA,
+566,county,Idaho County,ID,
+777,county,Union County,SD,"Sioux City, IA-NE-SD"
+621,county,Macon County,MO,
+1812,county,Jackson County,TX,
+2447,county,Moultrie County,IL,
+1026,county,Fulton County,PA,
+2996,county,Pennington County,MN,
+2223,county,Converse County,WY,
+1564,county,Buffalo County,WI,
+2873,county,Wilbarger County,TX,"Vernon, TX"
+3098,county,Koochiching County,MN,
+1219,county,Monroe County,KY,
+1749,county,Hancock County,IA,
+2876,county,Winnebago County,IA,
+2970,county,Montgomery County,IA,
+3124,county,Saint Clair County,MO,
+3078,county,White Pine County,NV,
+1211,county,Monona County,IA,
+1828,county,Johnson County,WY,
+813,county,Worth County,IA,"Mason City, IA"
+218,county,Lake County,CO,
+1140,county,Lander County,NV,
+2171,county,Campbell County,VA,"Lynchburg, VA"
+1168,county,Marion County,MO,"Hannibal, MO"
+97,county,Bell County,KY,"Middlesborough, KY"
+1868,county,Lincoln County,KY,"Danville, KY"
+1123,county,Jerome County,ID,"Twin Falls, ID"
+167,county,Gray County,TX,"Pampa, TX"
+1661,county,De Witt County,TX,
+1874,county,Lincoln County,MT,
+3239,county,East Feliciana Parish,LA,"Baton Rouge, LA"
+88,county,Lee County,TX,
+1623,county,Clayton County,IA,
+2228,county,Crawford County,IA,
+2505,county,Richland County,ND,"Wahpeton, ND-MN"
+384,county,Bates County,MO,"Kansas City, MO-KS"
+697,county,Roane County,WV,
+2165,county,Callahan County,TX,"Abilene, TX"
+1715,county,Fremont County,ID,"Rexburg, ID"
+1242,county,Morris County,TX,
+2147,county,Boundary County,ID,
+2144,county,Big Horn County,WY,
+1350,county,Ramsey County,ND,
+1573,county,Calhoun County,IA,
+941,county,Clarke County,IA,
+1541,county,Benewah County,ID,
+1748,county,Hancock County,GA,"Milledgeville, GA"
+595,county,Lemhi County,ID,
+3156,county,Charles City County,VA,"Richmond, VA"
+105,county,Burt County,NE,
+194,county,Iron County,WI,
+2568,county,Sullivan County,PA,
+2453,county,Newberry County,SC,"Newberry, SC"
+180,county,Hill County,TX,
+2933,county,Greenbrier County,WV,
+1660,county,De Soto Parish,LA,"Shreveport-Bossier City, LA"
+2307,county,Gonzales County,TX,
+2837,county,Roosevelt County,NM,"Portales, NM"
+2158,county,Burleson County,TX,"College Station-Bryan, TX"
+2594,county,Washburn County,WI,
+762,county,Union County,FL,
+233,county,Leon County,TX,
+899,county,Butler County,IA,
+1244,county,Morrow County,OR,"Hermiston-Pendleton, OR"
+2230,county,Crawford County,IN,
+2152,county,Brewster County,TX,
+2559,county,Stephens County,TX,
+469,county,Davis County,IA,
+835,county,Archer County,TX,"Wichita Falls, TX"
+1216,county,Monroe County,IA,
+2627,county,Bear Lake County,ID,
+2868,county,Wahkiakum County,WA,
+2256,county,Eastland County,TX,
+509,county,Falls County,TX,"Waco, TX"
+523,county,Giles County,VA,"Blacksburg-Christiansburg, VA"
+1912,county,Madison County,TX,
+368,county,Allen County,KS,
+2617,county,Appanoose County,IA,
+2631,county,Blackford County,IN,
+882,county,Blanco County,TX,
+784,county,Walsh County,ND,
+2436,county,Mitchell County,IA,
+2352,county,Humboldt County,IA,
+575,county,Jones County,NC,"New Bern, NC"
+500,county,Emmet County,IA,
+2848,county,Somervell County,TX,
+689,county,Power County,ID,"Pocatello, ID"
+1587,county,Caribou County,ID,
+99,county,Bent County,CO,
+1785,county,Houston County,TX,
+269,county,Park County,MT,
+2835,county,Robertson County,TX,"College Station-Bryan, TX"
+1728,county,Gooding County,ID,
+2014,county,Sanders County,MT,
+2047,county,Summers County,WV,
+245,county,Lyon County,IA,
+2432,county,Metcalfe County,KY,"Glasgow, KY"
+1641,county,Conejos County,CO,
+3212,county,Lac Qui Parle County,MN,
+738,county,Surry County,VA,
+2519,county,San Juan County,NM,"Farmington, NM"
+1986,county,Pulaski County,MO,"Fort Leonard Wood, MO"
+1716,county,Fremont County,WY,"Riverton, WY"
+787,county,Wayne County,IA,
+1522,county,Audubon County,IA,
+1934,county,Mineral County,MT,
+2366,county,Keweenaw County,MI,"Houghton, MI"
+1791,county,Jackson County,AL,"Scottsboro, AL"
+1028,county,Gaines County,TX,
+2392,county,Live Oak County,TX,
+2887,county,Beaverhead County,MT,
+3161,county,Emporia City,VA,
+1583,county,Cameron Parish,LA,"Lake Charles, LA"
+380,county,Baker County,OR,
+2654,county,Chickasaw County,IA,
+191,county,Iron County,MI,
+1174,county,Marion County,TX,
+918,county,Carson County,TX,"Amarillo, TX"
+2187,county,Cherokee County,AL,
+370,county,Allen Parish,LA,
+92,county,Sac County,IA,
+1188,county,McLean County,ND,
+1928,county,Merrick County,NE,"Grand Island, NE"
+3143,county,Sweet Grass County,MT,
+2952,county,Lauderdale County,AL,"Florence-Muscle Shoals, AL"
+3058,county,Washington Parish,LA,"Bogalusa, LA"
+2092,county,Whitley County,KY,"London, KY"
+1987,county,Pulaski County,VA,"Blacksburg-Christiansburg, VA"
+1367,county,Saluda County,SC,"Columbia, SC"
+887,county,Bosque County,TX,
+2383,county,Lawrence County,MO,
+246,county,Lyon County,KS,"Emporia, KS"
+2973,county,Montgomery County,KS,"Coffeyville, KS"
+2329,county,Harrison County,IA,"Omaha-Council Bluffs, NE-IA"
+1099,county,Howard County,IA,
+463,county,Crook County,WY,"Gillette, WY"
+2381,county,Lawrence County,IN,"Bedford, IN"
+1514,county,Amherst County,VA,"Lynchburg, VA"
+1700,county,Fayette County,IN,"Connersville, IN"
+2376,county,Lampasas County,TX,"Killeen-Temple, TX"
+627,county,Mason County,KY,"Maysville, KY"
+1187,county,McLean County,KY,"Owensboro, KY"
+983,county,DeSoto County,MS,"Memphis, TN-MS-AR"
+746,county,Texas County,MO,
+2746,county,Jefferson County,MT,"Helena, MT"
+1086,county,Harney County,OR,
+1996,county,Refugio County,TX,
+459,county,Crane County,TX,
+301,county,Reno County,KS,"Hutchinson, KS"
+573,county,Jones County,IA,"Cedar Rapids, IA"
+2641,county,Brunswick County,VA,
+1995,county,Redwood County,MN,
+985,county,DeKalb County,MO,"St. Joseph, MO-KS"
+1392,county,Sierra County,NM,
+1663,county,Decatur County,IA,
+2068,county,Wallowa County,OR,
+596,county,Lewis County,ID,
+1731,county,Gratiot County,MI,"Alma, MI"
+1394,county,Snyder County,PA,"Selinsgrove, PA"
+2267,county,Florence County,WI,"Iron Mountain, MI-WI"
+1569,county,Calhoun County,AL,"Anniston-Oxford, AL"
+2362,county,Kalkaska County,MI,"Traverse City, MI"
+299,county,Quay County,NM,
+74,county,Ida County,IA,
+1457,county,Vernon Parish,LA,"Fort Polk South, LA"
+949,county,Colfax County,NE,
+2859,county,Van Buren County,IA,
+1421,county,Taylor County,IA,
+2917,county,Darlington County,SC,"Florence, SC"
+803,county,Wells County,IN,"Bluffton, IN"
+248,county,Lyon County,MN,"Marshall, MN"
+3050,county,Washington County,FL,
+3201,county,Westmoreland County,VA,
+160,county,Ford County,IL,
+132,county,Clay County,TX,"Wichita Falls, TX"
+964,county,Cuming County,NE,
+1858,county,Liberty County,FL,
+2790,county,McCulloch County,TX,
+776,county,Union County,SC,"Union, SC"
+2696,county,Fairfield County,SC,"Columbia, SC"
+3011,county,Rockcastle County,KY,
+1129,county,Karnes County,TX,
+1498,county,Winona County,MN,"Winona, MN"
+3103,county,Mecklenburg County,VA,
+977,county,Dallas County,MO,"Springfield, MO"
+1056,county,Greene County,IN,
+2008,county,Russell County,VA,
+545,county,Green County,KY,"Campbellsville, KY"
+1744,county,Halifax County,VA,
+981,county,Dawson County,NE,"Lexington, NE"
+1424,county,Taylor County,WI,
+2120,county,Anderson County,KS,
+388,county,Bland County,VA,"Bluefield, WV-VA"
+2513,county,Ringgold County,IA,
+1159,county,Marion County,AL,
+1406,county,Sumner County,KS,"Wichita, KS"
+637,county,Meigs County,OH,
+3217,county,Prince Edward County,VA,
+1134,county,Keokuk County,IA,
+404,county,Brown County,KS,
+2512,county,Richmond County,VA,
+970,county,Custer County,SD,
+1282,county,Oneida County,ID,
+2493,county,Randolph County,IN,
+3116,county,Piscataquis County,ME,
+822,county,Aitkin County,MN,
+597,county,Lewis County,KY,
+1184,county,McCook County,SD,"Sioux Falls, SD"
+473,county,Delta County,MI,"Escanaba, MI"
+1043,county,Goliad County,TX,"Victoria, TX"
+1190,county,McMinn County,TN,"Athens, TN"
+3214,county,Pointe Coupee Parish,LA,"Baton Rouge, LA"
+1637,county,Coleman County,TX,
+1193,county,Meeker County,MN,
+100,county,Bibb County,AL,"Birmingham-Hoover, AL"
+2442,county,Montague County,TX,
+790,county,Wayne County,KY,
+2377,county,Langlade County,WI,
+2563,county,Sublette County,WY,
+723,county,Smith County,MS,
+458,county,Craig County,VA,"Roanoke, VA"
+1733,county,Grayson County,TX,"Sherman-Denison, TX"
+2774,county,Lafourche Parish,LA,"Houma-Thibodaux, LA"
+1861,county,Liberty County,TX,"Houston-The Woodlands-Sugar Land, TX"
+85,county,Lee County,MS,"Tupelo, MS"
+1710,county,Forrest County,MS,"Hattiesburg, MS"
+1523,county,Augusta County,VA,"Staunton, VA"
+2953,county,Lauderdale County,MS,"Meridian, MS"
+2428,county,McKinley County,NM,"Gallup, NM"
+574,county,Jones County,MS,"Laurel, MS"
+1426,county,Tehama County,CA,"Red Bluff, CA"
+589,county,Lamar County,MS,"Hattiesburg, MS"
+2992,county,Otter Tail County,MN,"Fergus Falls, MN"
+1890,county,Lowndes County,MS,"Columbus, MS"
+1265,county,Newton County,MO,"Joplin, MO"
+3115,county,Pearl River County,MS,"Picayune, MS"
+1899,county,Madison County,ID,"Rexburg, ID"
+2129,county,Atascosa County,TX,"San Antonio-New Braunfels, TX"
+1476,county,Warren County,MS,"Vicksburg, MS"
+775,county,Union County,PA,"Lewisburg, PA"
+3036,county,Sweetwater County,WY,"Rock Springs, WY"
+3285,county,Saint John the Baptist Parish,LA,"New Orleans-Metairie, LA"
+3006,county,Rio Arriba County,NM,"Espa-Â¦ola, NM"
+2276,county,Franklin County,IL,
+109,county,Cass County,IN,"Logansport, IN"
+1620,county,Clarion County,PA,
+1502,county,Yadkin County,NC,"Winston-Salem, NC"
+2258,county,Escambia County,AL,"Atmore, AL"
+521,county,Geary County,KS,"Manhattan, KS"
+3032,county,Silver Bow County,MT,"Butte-Silver Bow, MT"
+826,county,Alcorn County,MS,"Corinth, MS"
+1243,county,Morrow County,OH,"Columbus, OH"
+961,county,Cowley County,KS,"Winfield, KS"
+449,county,Clark County,WI,
+1104,county,Howard County,TX,"Big Spring, TX"
+2639,county,Brookings County,SD,"Brookings, SD"
+2412,county,Marshall County,MS,"Memphis, TN-MS-AR"
+1091,county,Harvey County,KS,"Wichita, KS"
+1651,county,Daviess County,IN,"Washington, IN"
+2378,county,Lawrence County,AL,"Decatur, AL"
+2740,county,Jefferson County,IN,"Madison, IN"
+2771,county,Lafayette County,MO,"Kansas City, MO-KS"
+564,county,Huron County,MI,
+289,county,Polk County,MO,"Springfield, MO"
+69,county,Bee County,TX,"Beeville, TX"
+2295,county,Freeborn County,MN,"Albert Lea, MN"
+437,county,Clare County,MI,
+2546,county,Sheridan County,WY,"Sheridan, WY"
+358,county,Adams County,MS,"Natchez, MS-LA"
+1172,county,Marion County,SC,
+1943,county,Neshoba County,MS,
+1066,county,Grimes County,TX,
+1230,county,Morgan County,CO,"Fort Morgan, CO"
+2016,county,Sanpete County,UT,
+956,county,Copiah County,MS,"Jackson, MS"
+317,county,Tate County,MS,"Memphis, TN-MS-AR"
+2974,county,Montgomery County,KY,"Mount Sterling, KY"
+713,county,Scott County,MS,
+2684,county,Dinwiddie County,VA,"Richmond, VA"
+2355,county,Iroquois County,IL,
+3023,county,San Miguel County,NM,"Las Vegas, NM"
+114,county,Cass County,NE,"Omaha-Council Bluffs, NE-IA"
+1664,county,Decatur County,IN,"Greensburg, IN"
+122,county,Clay County,IN,"Terre Haute, IN"
+2029,county,Simpson County,MS,"Jackson, MS"
+405,county,Brown County,MN,"New Ulm, MN"
+2653,county,Cheboygan County,MI,
+351,county,Adair County,MO,"Kirksville, MO"
+243,county,Luna County,NM,"Deming, NM"
+2494,county,Randolph County,MO,"Moberly, MO"
+700,county,Rowan County,KY,
+1169,county,Marion County,MS,
+808,county,White County,IN,
+1036,county,George County,MS,
+1365,county,Saline County,MO,"Marshall, MO"
+91,county,Ray County,MO,"Kansas City, MO-KS"
+1959,county,Osceola County,MI,
+2277,county,Franklin County,IN,"Cincinnati, OH-KY-IN"
+3010,county,Rockbridge County,VA,
+534,county,Grant Parish,LA,"Alexandria, LA"
+2489,county,Randolph County,AL,
+1947,county,Nodaway County,MO,"Maryville, MO"
+1124,county,Jersey County,IL,"St. Louis, MO-IL"
+1699,county,Fayette County,IL,
+651,county,Moore County,TX,"Dumas, TX"
+594,county,Leake County,MS,
+1266,county,Newton County,MS,
+1383,county,Shelby County,IL,
+1629,county,Clinton County,MO,"Kansas City, MO-KS"
+2564,county,Sullivan County,IN,"Terre Haute, IN"
+3127,county,Saint James Parish,LA,"New Orleans-Metairie, LA"
+75,county,Jay County,IN,
+1059,county,Greene County,NC,
+2280,county,Franklin Parish,LA,
+2254,county,Duchesne County,UT,
+2190,county,Cherokee County,KS,
+868,county,Benton County,MO,
+1970,county,Pickens County,AL,"Tuscaloosa, AL"
+1484,county,Waseca County,MN,
+2331,county,Harrison County,KY,
+2918,county,Deaf Smith County,TX,"Hereford, TX"
+2682,county,Dickinson County,KS,
+2673,county,Covington County,MS,"Hattiesburg, MS"
+734,county,Stone County,MS,"Gulfport-Biloxi, MS"
+3111,county,Northampton County,NC,"Roanoke Rapids, NC"
+1965,county,Patrick County,VA,
+955,county,Cooper County,MO,"Columbia, MO"
+495,county,Edgar County,IL,
+2895,county,Buckingham County,VA,
+102,county,Bond County,IL,"St. Louis, MO-IL"
+684,county,Piatt County,IL,"Champaign-Urbana, IL"
+2030,county,Socorro County,NM,
+2269,county,Fountain County,IN,
+1898,county,Madison County,IA,"Des Moines-West Des Moines, IA"
+2130,county,Atchison County,KS,"Atchison, KS"
+1696,county,Fayette County,AL,
+668,county,Parke County,IN,"Terre Haute, IN"
+2883,county,Appomattox County,VA,"Lynchburg, VA"
+660,county,Osage County,KS,"Topeka, KS"
+1197,county,Mercer County,IL,"Davenport-Moline-Rock Island, IA-IL"
+2458,county,Nottoway County,VA,
+990,county,Dewitt County,IL,
+1359,county,Roseau County,MN,
+1434,county,Tipton County,IN,
+2579,county,Torrance County,NM,"Albuquerque, NM"
+1390,county,Sibley County,MN,
+1726,county,Gogebic County,MI,
+2498,county,Renville County,MN,
+691,county,Price County,WI,
+587,county,Lamar County,AL,
+3054,county,Washington County,IL,
+2057,county,Trinity County,TX,
+661,county,Osage County,MO,"Jefferson City, MO"
+121,county,Clay County,IL,
+3174,county,Pend Oreille County,WA,
+1799,county,Jackson County,KS,"Topeka, KS"
+626,county,Mason County,IL,
+830,county,Amelia County,VA,"Richmond, VA"
+2232,county,Crawford County,MI,
+1800,county,Jackson County,KY,
+1932,county,Millard County,UT,
+1045,county,Goshen County,WY,
+275,county,Pike County,IN,"Jasper, IN"
+764,county,Union County,IA,
+1055,county,Greene County,IL,
+1238,county,Morgan County,UT,"Ogden-Clearfield, UT"
+2384,county,Lawrence County,MS,
+693,county,Rains County,TX,
+2782,county,Lunenburg County,VA,
+3245,county,Northumberland County,VA,
+237,county,Linn County,MO,
+742,county,Terry County,TX,
+1166,county,Marion County,KS,
+2397,county,Magoffin County,KY,
+1675,county,Douglas County,MO,
+2407,county,Marshall County,IL,"Peoria, IL"
+2831,county,Red River County,TX,
+196,county,Juab County,UT,"Provo-Orem, UT"
+3094,county,Greensville County,VA,
+2595,county,Watonwan County,MN,
+298,county,Pope County,MN,
+1414,county,Sussex County,VA,"Richmond, VA"
+2395,county,Mackinac County,MI,
+1883,county,Lincoln County,WA,
+2909,county,Cumberland County,IL,"Charleston-Mattoon, IL"
+3053,county,Washington County,ID,
+420,county,Butte County,SD,
+1102,county,Howard County,MO,"Columbia, MO"
+3199,county,West Carroll Parish,LA,
+2004,county,Runnels County,TX,
+1177,county,Martin County,IN,
+740,county,Swift County,MN,
+2916,county,Cumberland County,VA,
+236,county,Linn County,KS,"Kansas City, MO-KS"
+3264,county,Yellow Medicine County,MN,
+1116,county,Jasper County,IL,
+1016,county,Forest County,WI,
+3035,county,Stillwater County,MT,"Billings, MT"
+1494,county,Wilson County,KS,
+1221,county,Monroe County,MO,
+1328,county,Platte County,WY,
+2904,county,Clearwater County,MN,
+2055,county,Trimble County,KY,
+1473,county,Warren County,IN,"Lafayette-West Lafayette, IN"
+1653,county,Daviess County,MO,
+1200,county,Mercer County,ND,
+2332,county,Harrison County,MO,
+2324,county,Hamilton County,TX,
+1295,county,Oscoda County,MI,
+1439,county,Traill County,ND,
+2593,county,Washakie County,WY,
+198,county,Kane County,UT,
+144,county,Dade County,MO,
+1840,county,Kingman County,KS,
+673,county,Pepin County,WI,
+766,county,Union County,IN,"Cincinnati, OH-KY-IN"
+2048,county,Swisher County,TX,
+1335,county,Powell County,MT,
+2006,county,Russell County,KS,
+2474,county,Pershing County,NV,
+744,county,Teton County,MT,
+535,county,Grant County,MN,
+260,county,Ohio County,IN,"Cincinnati, OH-KY-IN"
+2819,county,Ontonagon County,MI,
+1299,county,Ottawa County,KS,"Salina, KS"
+1340,county,Putnam County,IL,"Ottawa, IL"
+728,county,Stark County,IL,"Peoria, IL"
+474,county,Delta County,TX,
+1866,county,Lincoln County,ID,
+355,county,Adams County,ID,
+966,county,Custer County,ID,
+1730,county,Granite County,MT,
+1311,county,Pawnee County,NE,
+1669,county,Dolores County,CO,
+2621,county,Armstrong County,TX,"Amarillo, TX"
+2196,county,Cheyenne County,CO,
+425,county,Camas County,ID,"Hailey, ID"
+2518,county,San Juan County,CO,
+2080,county,Webster County,MO,"Springfield, MO"
+2886,county,Beauregard Parish,LA,"DeRidder, LA"
+815,county,Wythe County,VA,
+1288,county,Orange County,IN,
+577,county,Jones County,TX,"Abilene, TX"
+1672,county,Douglas County,IL,
+517,county,Floyd County,VA,
+3046,county,Vermillion County,IN,"Terre Haute, IN"
+1734,county,Grayson County,VA,
+948,county,Coffey County,KS,
+2521,county,San Juan County,UT,
+2906,county,Cottonwood County,MN,
+1855,county,Leflore County,MS,"Greenwood, MS"
+1871,county,Lincoln County,MN,
+2082,county,Webster County,NE,
+2387,county,Lawrence County,SD,"Spearfish, SD"
+2237,county,Crenshaw County,AL,
+195,county,Jack County,TX,
+1249,county,Murray County,MN,
+186,county,Hyde County,NC,
+945,county,Coffee County,AL,"Enterprise, AL"
+538,county,Grant County,NM,"Silver City, NM"
+3096,county,Hot Springs County,WY,
+288,county,Polk County,MN,"Grand Forks, ND-MN"
+1817,county,Johnson County,AR,
+2007,county,Russell County,KY,
+1267,county,Newton County,TX,
+2893,county,Broadwater County,MT,
+2059,county,Tyrrell County,NC,
+1493,county,Wilkin County,MN,"Wahpeton, ND-MN"
+1074,county,Hamlin County,SD,"Watertown, SD"
+1931,county,Mifflin County,PA,"Lewistown, PA"
+1306,county,Panola County,MS,
+3060,county,Washington County,ME,
+179,county,Hill County,MT,
+1236,county,Morgan County,OH,
+2919,county,Deer Lodge County,MT,
+2348,county,Houghton County,MI,"Houghton, MI"
+383,county,Barry County,MO,
+1645,county,Crowley County,CO,
+1974,county,Pondera County,MT,
+2630,county,Big Stone County,MN,
+1772,county,Hickman County,KY,
+3275,county,Lake of the Woods County,MN,
+77,county,Lea County,NM,"Hobbs, NM"
+2683,county,Dickinson County,MI,"Iron Mountain, MI-WI"
+3042,county,Tishomingo County,MS,
+2656,county,Childress County,TX,
+2797,county,Menominee County,MI,"Marinette, WI-MI"
+2419,county,McCreary County,KY,
+272,county,Pike County,AR,
+993,county,Dimmit County,TX,
+511,county,Ferry County,WA,
+1486,county,Weston County,WY,"Gillette, WY"
+2175,county,Carlisle County,KY,
+2155,county,Buchanan County,VA,
+1792,county,Jackson County,AR,
+3242,county,Lexington City,VA,
+678,county,Perry County,KY,
+116,county,Clay County,AL,
+1803,county,Jackson County,MN,
+1627,county,Clinton County,KY,
+84,county,Lee County,KY,
+3062,county,Washington County,MO,
+1815,county,Jenkins County,GA,
+1873,county,Lincoln County,MS,"Brookhaven, MS"
+1814,county,Jackson County,WV,"Charleston, WV"
+3144,county,Switzerland County,IN,
+2041,county,Stevens County,MN,
+1596,county,Carroll County,MO,
+3114,county,Norton City,VA,"Big Stone Gap, VA"
+2580,county,Traverse County,MN,
+1364,county,Saline County,KS,"Salina, KS"
+1545,county,Bingham County,ID,"Blackfoot, ID"
+1268,county,Nobles County,MN,"Worthington, MN"
+2490,county,Randolph County,AR,
+903,county,Butler County,NE,
+1085,county,Harmon County,OK,
+2985,county,Muhlenberg County,KY,"Central City, KY"
+2793,county,McPherson County,KS,"McPherson, KS"
+606,county,Logan County,IL,"Lincoln, IL"
+2404,county,Marlboro County,SC,"Bennettsville, SC"
+1304,county,Owyhee County,ID,"Boise City, ID"
+1977,county,Prairie County,AR,
+1723,county,Gilliam County,OR,
+2253,county,Doniphan County,KS,"St. Joseph, MO-KS"
+266,county,Page County,IA,
+561,county,Henry County,VA,"Martinsville, VA"
+1654,county,Davison County,SD,"Mitchell, SD"
+2114,county,Accomack County,VA,
+1917,county,Marengo County,AL,
+1366,county,Saline County,NE,
+366,county,Alger County,MI,
+2142,county,Berkeley County,WV,"Hagerstown-Martinsburg, MD-WV"
+339,county,Yell County,AR,"Russellville, AR"
+615,county,Lucas County,IA,
+2925,county,Evangeline Parish,LA,
+1054,county,Greene County,IA,
+3172,county,Natchitoches Parish,LA,"Natchitoches, LA"
+2270,county,Franklin County,AL,
+427,county,Casey County,KY,
+2644,county,Calcasieu Parish,LA,"Lake Charles, LA"
+2855,county,Tom Green County,TX,"San Angelo, TX"
+210,county,Knox County,KY,"London, KY"
+1107,county,Hughes County,OK,
+2666,county,Cleveland County,AR,"Pine Bluff, AR"
+2672,county,Covington County,AL,
+87,county,Lee County,SC,
+820,county,Acadia Parish,LA,"Lafayette, LA"
+602,county,Lewis County,WV,
+1058,county,Greene County,MS,
+1507,county,Zavala County,TX,
+432,county,Cedar County,NE,
+1083,county,Harlan County,KY,
+2028,county,Simpson County,KY,
+1636,county,Colbert County,AL,"Florence-Muscle Shoals, AL"
+2353,county,Humboldt County,NV,"Winnemucca, NV"
+342,county,York County,NE,
+1103,county,Howard County,NE,"Grand Island, NE"
+1927,county,Menifee County,KY,"Mount Sterling, KY"
+811,county,Woods County,OK,
+1925,county,Meagher County,MT,
+967,county,Custer County,MT,
+1182,county,Massac County,IL,"Paducah, KY-IL"
+1460,county,Vinton County,OH,
+127,county,Clay County,MS,"West Point, MS"
+2669,county,Codington County,SD,"Watertown, SD"
+2948,county,Kit Carson County,CO,
+1194,county,Menard County,IL,"Springfield, IL"
+242,county,Luce County,MI,
+2421,county,McDowell County,NC,"Marion, NC"
+2562,county,Stutsman County,ND,"Jamestown, ND"
+188,county,Inyo County,CA,
+1234,county,Morgan County,KY,
+571,county,Izard County,AR,
+732,county,Stone County,AR,
+1553,county,Bradley County,AR,
+598,county,Lewis County,MO,"Quincy, IL-MO"
+1445,county,Turner County,SD,"Sioux Falls, SD"
+1582,county,Cambria County,PA,"Johnstown, PA"
+2001,county,Robeson County,NC,"Lumberton, NC"
+2588,county,Victoria County,TX,"Victoria, TX"
+416,county,Burke County,NC,"Hickory-Lenoir-Morganton, NC"
+664,county,Otero County,NM,"Alamogordo, NM"
+2749,county,Jefferson County,OH,"Weirton-Steubenville, WV-OH"
+1838,county,Kershaw County,SC,"Columbia, SC"
+1397,county,Stanly County,NC,"Albemarle, NC"
+155,county,Eddy County,NM,"Carlsbad-Artesia, NM"
+2866,county,Vermilion Parish,LA,"Lafayette, LA"
+2584,county,Tuolumne County,CA,"Sonora, CA"
+1713,county,Fremont County,CO,"Ca-Â¦on City, CO"
+465,county,Curry County,NM,"Clovis, NM"
+1317,county,Phelps County,MO,"Rolla, MO"
+1706,county,Fayette County,WV,"Beckley, WV"
+1481,county,Warren County,PA,"Warren, PA"
+712,county,Scott County,MO,"Sikeston, MO"
+1164,county,Marion County,IL,"Centralia, IL"
+1780,county,Hopkins County,TX,"Sulphur Springs, TX"
+1222,county,Monroe County,MS,
+161,county,Ford County,KS,"Dodge City, KS"
+271,county,Pike County,AL,"Troy, AL"
+1547,county,Bolivar County,MS,"Cleveland, MS"
+2484,county,Pontotoc County,MS,"Tupelo, MS"
+636,county,Meade County,SD,"Rapid City, SD"
+496,county,Ellis County,KS,"Hays, KS"
+2561,county,Stoddard County,MO,
+2496,county,Randolph County,WV,"Elkins, WV"
+769,county,Union County,MS,
+937,county,Cibola County,NM,"Grants, NM"
+1034,county,Geneva County,AL,"Dothan, AL"
+526,county,Grady County,GA,
+853,county,Barton County,KS,"Great Bend, KS"
+1531,county,Barbour County,AL,"Eufaula, AL-GA"
+2487,county,Prentiss County,MS,"Tupelo, MS"
+2357,county,Itawamba County,MS,"Tupelo, MS"
+261,county,Ohio County,KY,
+939,county,Clarke County,AL,
+1378,county,Seward County,KS,"Liberal, KS"
+558,county,Henry County,MO,
+1433,county,Tippah County,MS,
+1633,county,Coahoma County,MS,"Clarksdale, MS"
+1857,county,Letcher County,KY,
+1739,county,Grenada County,MS,"Grenada, MS"
+747,county,Texas County,OK,"Guymon, OK"
+604,county,Logan County,AR,
+2716,county,Hempstead County,AR,"Hope, AR"
+1845,county,Labette County,KS,"Parsons, KS"
+916,county,Carbon County,UT,"Price, UT"
+793,county,Wayne County,MS,
+618,county,Macon County,AL,
+1886,county,Lincoln County,WY,
+858,county,Beadle County,SD,"Huron, SD"
+350,county,Adair County,KY,
+73,county,Gem County,ID,"Boise City, ID"
+3270,county,Sainte Genevieve County,MO,
+1501,county,Wright County,MO,
+2150,county,Brantley County,GA,"Brunswick, GA"
+277,county,Pike County,MO,
+842,county,Attala County,MS,
+530,county,Grant County,AR,"Little Rock-North Little Rock-Conway, AR"
+2102,county,Winston County,MS,
+1750,county,Hancock County,IL,"Fort Madison-Keokuk, IA-IL-MO"
+765,county,Union County,IL,
+2271,county,Franklin County,AR,"Fort Smith, AR-OK"
+2655,county,Chickasaw County,MS,
+1077,county,Hardin County,IA,
+1160,county,Marion County,AR,
+1119,county,Jasper County,MS,"Laurel, MS"
+2382,county,Lawrence County,KY,
+1375,county,Sevier County,AR,
+1259,county,Neosho County,KS,
+2502,county,Richland County,IL,
+942,county,Clarke County,MS,"Meridian, MS"
+2613,county,Alleghany County,VA,
+672,county,Pecos County,TX,
+274,county,Pike County,IL,
+130,county,Clay County,SD,"Vermillion, SD"
+2703,county,Gasconade County,MO,
+1487,county,Wetzel County,WV,
+148,county,Dent County,MO,
+585,county,Knott County,KY,
+655,county,Noble County,OH,
+375,county,Atoka County,OK,
+2590,county,Walthall County,MS,
+807,county,White County,IL,
+1724,county,Glacier County,MT,
+1224,county,Monroe County,OH,
+1576,county,Calhoun County,MS,
+1820,county,Johnson County,IL,"Carbondale-Marion, IL"
+2143,county,Big Horn County,MT,
+229,county,Lamb County,TX,
+108,county,Cass County,IL,
+3105,county,Mississippi County,MO,
+372,county,Amite County,MS,
+1904,county,Madison County,MO,
+2882,county,Yalobusha County,MS,
+106,county,Camp County,TX,"Mount Pleasant, TX"
+901,county,Butler County,KY,"Bowling Green, KY"
+2227,county,Crawford County,GA,"Macon-Bibb County, GA"
+3171,county,Little River County,AR,"Texarkana, TX-AR"
+1019,county,Fulton County,AR,
+1640,county,Conecuh County,AL,
+854,county,Barton County,MO,
+680,county,Perry County,MS,"Hattiesburg, MS"
+1461,county,Wabash County,IL,
+1178,county,Martin County,KY,
+2976,county,Montgomery County,MO,
+2504,county,Richland County,MT,
+227,county,Lake County,SD,
+792,county,Wayne County,MO,
+1357,county,Ripley County,MO,"Poplar Bluff, MO"
+2072,county,Washita County,OK,
+3002,county,Pushmataha County,OK,
+2836,county,Roosevelt County,MT,
+849,county,Barnes County,ND,
+2636,county,Box Butte County,NE,
+2632,county,Bollinger County,MO,"Cape Girardeau, MO-IL"
+968,county,Custer County,NE,
+1148,county,Leslie County,KY,
+914,county,Carbon County,MT,"Billings, MT"
+1999,county,Roberts County,SD,
+1257,county,Nemaha County,KS,
+183,county,Holt County,NE,
+2817,county,Ochiltree County,TX,
+2409,county,Marshall County,KS,
+1361,county,Sabine County,TX,
+1443,county,Tunica County,MS,"Memphis, TN-MS-AR"
+2081,county,Webster County,MS,"Starkville, MS"
+3251,county,Valdez Cordova Borough,AK,
+192,county,Iron County,MO,
+2788,county,McCormick County,SC,
+2198,county,Cheyenne County,NE,
+303,county,Rice County,KS,
+2826,county,Pipestone County,MN,
+690,county,Pratt County,KS,
+2411,county,Marshall County,MN,
+450,county,Cloud County,KS,
+980,county,Dawson County,MT,
+2439,county,Mitchell County,TX,
+1294,county,Oregon County,MO,
+666,county,Ozark County,MO,
+720,county,Sitka Borough,AK,
+584,county,Kiowa County,OK,
+2003,county,Rosebud County,MT,
+1158,county,Maries County,MO,
+213,county,Knox County,NE,
+1774,county,Hickory County,MO,
+1617,county,Choctaw County,MS,
+226,county,Lake County,OR,
+123,county,Clay County,KS,
+2727,county,Humphreys County,MS,
+1431,county,Thomas County,KS,
+3005,county,Richardson County,NE,
+2284,county,Franklin County,MS,
+869,county,Benton County,MS,
+1455,county,Valley County,MT,
+541,county,Grant County,SD,
+532,county,Grant County,KS,
+2940,county,Hutchinson County,SD,
+1262,county,Newton County,AR,"Harrison, AR"
+2745,county,Jefferson County,MS,
+2019,county,Shannon County,MO,
+1015,county,Forest County,PA,
+2999,county,Pocahontas County,IA,
+879,county,Blaine County,MT,
+1258,county,Nemaha County,NE,
+2633,county,Bon Homme County,SD,
+2926,county,Fall River County,SD,
+861,county,Beaver County,UT,
+2531,county,Schuyler County,IL,
+1967,county,Pembina County,ND,
+2867,county,Wabaunsee County,KS,"Topeka, KS"
+3284,county,Southeast Fairbanks Borough,AK,
+2574,county,Thurston County,NE,
+2927,county,Galax City,VA,
+810,county,Wolfe County,KY,
+3265,county,Buena Vista City,VA,
+1269,county,Norman County,MN,
+2717,county,Henderson County,IL,"Burlington, IA-IL"
+2635,county,Bottineau County,ND,
+727,county,Spink County,SD,
+2692,county,Ellsworth County,KS,
+1310,county,Pawnee County,KS,
+648,county,Moody County,SD,
+402,county,Brown County,IL,
+2126,county,Antelope County,NE,
+2501,county,Reynolds County,MO,
+129,county,Clay County,NE,
+2709,county,Greenwood County,KS,
+2910,county,Cumberland County,KY,
+2024,county,Sherman County,KS,
+2202,county,Chouteau County,MT,
+2437,county,Mitchell County,KS,
+1512,county,Alfalfa County,OK,
+166,county,Gray County,KS,
+3238,county,Covington City,VA,
+481,county,Dixon County,NE,"Sioux City, IA-NE-SD"
+2264,county,Fillmore County,NE,
+547,county,Greer County,OK,
+3056,county,Washington County,KS,
+1087,county,Harper County,KS,
+933,county,Cherry County,NE,
+70,county,Day County,SD,
+516,county,Floyd County,TX,
+1763,county,Hartley County,TX,
+1270,county,Norton County,KS,
+1766,county,Haskell County,TX,
+396,county,Boone County,NE,
+1240,county,Morris County,KS,
+2591,county,Walworth County,SD,
+2040,county,Stevens County,KS,
+2131,county,Atchison County,MO,
+1825,county,Johnson County,NE,
+411,county,Brule County,SD,
+291,county,Polk County,NE,
+709,county,Scott County,KS,
+2545,county,Sheridan County,NE,
+2764,county,Kingsbury County,SD,
+859,county,Beaver County,OK,
+2304,county,Garfield County,UT,
+1429,county,Thayer County,NE,
+2477,county,Phillips County,KS,
+751,county,Toole County,MT,
+991,county,Dickey County,ND,
+698,county,Rooks County,KS,
+3049,county,Washington County,CO,
+3107,county,Musselshell County,MT,
+1342,county,Putnam County,MO,
+2500,county,Republic County,KS,
+1027,county,Furnas County,NE,
+1584,county,Cameron County,PA,
+1939,county,Morrill County,NE,
+478,county,Dewey County,OK,
+1574,county,Calhoun County,IL,"St. Louis, MO-IL"
+2476,county,Phillips County,CO,
+2798,county,Menominee County,WI,"Shawano, WI"
+182,county,Holt County,MO,
+477,county,Deuel County,SD,
+96,county,Bath County,VA,
+2478,county,Phillips County,MT,
+848,county,Barber County,KS,
+2459,county,Nuckolls County,NE,
+2555,county,Stafford County,KS,
+1303,county,Owsley County,KY,
+2532,county,Schuyler County,MO,"Kirksville, MO"
+634,county,Meade County,KS,
+1456,county,Valley County,NE,
+1130,county,Kearny County,KS,"Garden City, KS"
+2217,county,Columbia County,WA,
+629,county,Mason County,TX,
+2497,county,Red Lake County,MN,
+297,county,Pope County,IL,
+1764,county,Haskell County,KS,
+354,county,Adams County,IA,
+435,county,Chase County,NE,
+698720,county,Petersburg Borough,AK,
+722,county,Smith County,KS,
+1839,county,Kimball County,NE,
+1199,county,Mercer County,MO,
+2543,county,Sheridan County,MT,
+2225,county,Costilla County,CO,
+1956,county,Osborne County,KS,
+3120,county,Roger Mills County,OK,
+1075,county,Hanson County,SD,"Mitchell, SD"
+2899,county,Chautauqua County,KS,
+653,county,Nance County,NE,
+1084,county,Harlan County,NE,
+2103,county,Woodson County,KS,
+3139,county,Shackelford County,TX,
+1009,county,Fallon County,MT,
+2025,county,Sherman County,NE,
+2034,county,Stanley County,SD,"Pierre, SD"
+1867,county,Lincoln County,KS,
+1125,county,Jewell County,KS,
+2286,county,Franklin County,NE,
+1687,county,Edwards County,KS,
+311,county,Rush County,KS,
+1968,county,Perkins County,NE,
+753,county,Trego County,KS,
+1665,county,Decatur County,KS,
+607,county,Logan County,KS,
+165,county,Gove County,KS,
+406,county,Brown County,NE,
+1245,county,Morton County,KS,
+257,county,Ness County,KS,
+2197,county,Cheyenne County,KS,
+2726,county,Hitchcock County,NE,
+434,county,Chase County,KS,"Emporia, KS"
+2319,county,Hamilton County,KS,
+1994,county,Rawlins County,KS,
+2457,county,Niobrara County,WY,
+71,county,Elk County,KS,
+2536,county,Sedgwick County,CO,
+583,county,Kiowa County,KS,
+1048,county,Graham County,KS,
+2203,county,Cimarron County,OK,
+2344,county,Highland County,VA,
+1736,county,Greeley County,NE,
+2833,county,Robertson County,KY,
+2094,county,Wichita County,KS,
+2035,county,Stanton County,KS,
+2870,county,Wheatland County,MT,
+1860,county,Liberty County,MT,
+3169,county,Judith Basin County,MT,
+442,county,Clark County,KS,
+2302,county,Garfield County,NE,
+476,county,Deuel County,NE,
+2346,county,Hodgeman County,KS,
+104,county,Boyd County,NE,
+1046,county,Gosper County,NE,"Lexington, NE"
+2220,county,Comanche County,KS,
+1183,county,McCone County,MT,
+3179,county,Powder River County,MT,
+1649,county,Daniels County,MT,
+1030,county,Garden County,NE,
+2067,county,Wallace County,KS,
+230,county,Lane County,KS,
+2089,county,Wheeler County,OR,
+921,county,Carter County,MT,
+1735,county,Greeley County,KS,
+1978,county,Prairie County,MT,
+719,county,Sioux County,NE,"Scottsbluff, NE"
+1488,county,Wibaux County,MT,
+2301,county,Garfield County,MT,
+2763,county,Keya Paha County,NE,
+550,county,Hayes County,NE,
+439,county,Clark County,ID,
+3207,county,Golden Valley County,MT,
+1933,county,Mineral County,CO,
+537,county,Grant County,NE,
+1097,county,Hooker County,NE,
+2581,county,Treasure County,MT,
+2316,county,Hamilton County,IA,
+1035,county,Gentry County,MO,
+1088,county,Harper County,OK,
+2427,county,McKenzie County,ND,
+2345,county,Hinsdale County,CO,
+2475,county,Phillips County,AR,"Helena-West Helena, AR"
+170,county,Hale County,AL,"Tuscaloosa, AL"
+2372,county,LaSalle Parish,LA,
+2662,county,Claiborne Parish,LA,
+2680,county,Dickenson County,VA,
+471,county,Dawes County,NE,
+1923,county,McHenry County,ND,"Minot, ND"
+2534,county,Scotland County,MO,
+175,county,Hand County,SD,
+2305,county,Garfield County,WA,
+212,county,Knox County,MO,
+1692,county,Elliott County,KY,
+973,county,Dallam County,TX,
+2542,county,Sheridan County,KS,
+2809,county,Mountrail County,ND,
+1979,county,Preston County,WV,"Morgantown, WV"
+613,county,Logan County,WV,"Mount Gay-Shamrock, WV"
+2455,county,Nicholas County,WV,
+1451,county,Upshur County,WV,
+646,county,Mingo County,WV,
+398,county,Boone County,WV,"Charleston, WV"
+2107,county,Wyoming County,WV,
+1885,county,Lincoln County,WV,"Charleston, WV"
+2096,county,Willacy County,TX,"Raymondville, TX"
+2422,county,McDowell County,WV,
+1532,county,Barbour County,WV,
+1555,county,Braxton County,WV,
+1228,county,Monroe County,WV,
+3256,county,Jefferson Davis County,MS,
+544,county,Grant County,WV,
+1309,county,Parmer County,TX,
+1997,county,Ritchie County,WV,
+2083,county,Webster County,WV,
+759,county,Tyler County,WV,
+133,county,Clay County,WV,"Charleston, WV"
+2685,county,Doddridge County,WV,"Clarksburg, WV"
+1505,county,Yoakum County,TX,
+2828,county,Pleasants County,WV,
+1040,county,Gilmer County,WV,
+1579,county,Calhoun County,WV,
+2823,county,Pendleton County,WV,
+1958,county,Osceola County,IA,
+332,county,Wirt County,WV,"Parkersburg-Vienna, WV"
+2359,county,Jim Hogg County,TX,
+644,county,Mills County,TX,
+957,county,Corson County,SD,
+447,county,Clark County,SD,
+1014,county,Fisher County,TX,
+582,county,Kiowa County,CO,
+3063,county,Washington County,MS,"Greenville, MS"
+1969,county,Perkins County,SD,
+1528,county,Bamberg County,SC,
+1095,county,Holmes County,MS,"Jackson, MS"
+3195,county,Tallahatchie County,MS,
+2050,county,Telfair County,GA,
+2977,county,Montgomery County,MS,
+1490,county,Wilcox County,GA,
+2875,county,Wilkinson County,MS,
+2132,county,Atkinson County,GA,"Douglas, GA"
+2087,county,Wheeler County,GA,
+444,county,Clark County,MO,"Fort Madison-Keokuk, IA-IL-MO"
+1686,county,Edwards County,IL,
+863,county,Benson County,ND,
+2609,county,Alexander County,IL,"Cape Girardeau, MO-IL"
+1983,county,Pulaski County,IL,
+1470,county,Warren County,GA,
+1000,county,Echols County,GA,"Valdosta, GA"
+888,county,Bowman County,ND,
+2306,county,Glascock County,GA,
+1073,county,Haines Borough,AK,
+2544,county,Sheridan County,ND,
+2052,county,Terrell County,TX,
+846,county,Banner County,NE,"Scottsbluff, NE"
+2794,county,McPherson County,NE,"North Platte, NE"
+2651,county,Charlotte County,VA,
+162,county,Frio County,TX,"Pearsall, TX"
+1354,county,Reeves County,TX,"Pecos, TX"
+1616,county,Choctaw County,AL,
+982,county,Dawson County,TX,"Lamesa, TX"
+490,county,Duval County,TX,"Alice, TX"
+3226,county,San Augustine County,TX,
+1162,county,Marion County,GA,"Columbus, GA-AL"
+894,county,Brooks County,TX,
+2373,county,La Salle County,TX,
+2488,county,Presidio County,TX,
+1572,county,Calhoun County,GA,
+920,county,Carter County,MO,
+963,county,Crosby County,TX,"Lubbock, TX"
+1181,county,Martin County,TX,"Midland, TX"
+2090,county,Wheeler County,TX,
+1428,county,Tensas Parish,LA,
+2021,county,Sharkey County,MS,
+2328,county,Hardeman County,TX,
+2338,county,Hemphill County,TX,
+216,county,Knox County,TX,
+1353,county,Reagan County,TX,
+136,county,Coke County,TX,
+1137,county,Kinney County,TX,
+953,county,Concho County,TX,
+2391,county,Lipscomb County,TX,
+3204,county,Collingsworth County,TX,
+2239,county,Crockett County,TX,
+379,county,Baker County,GA,
+119,county,Clay County,GA,
+174,county,Hall County,TX,
+300,county,Real County,TX,
+1635,county,Cochran County,TX,
+800,county,Wayne County,UT,
+2027,county,Sherman County,TX,
+2676,county,Culberson County,TX,
+3287,county,Wrangell Borough,AK,
+2944,county,Jeff Davis County,TX,
+1195,county,Menard County,TX,
+488,county,Dundy County,NE,
+3208,county,Golden Valley County,ND,
+3037,county,Taliaferro County,GA,
+1667,county,Dickens County,TX,
+958,county,Cottle County,TX,
+569,county,Irion County,TX,"San Angelo, TX"
+2169,county,Campbell County,SD,
+3196,county,Throckmorton County,TX,
+2850,county,Stonewall County,TX,
+307,county,Rock County,NE,
+1557,county,Briscoe County,TX,
+1760,county,Harding County,SD,
+518,county,Foard County,TX,
+2663,county,Claiborne County,MS,
+2229,county,Crawford County,IL,
+1458,county,Vernon County,MO,
+499,county,Emery County,UT,
+1280,county,Oldham County,TX,"Amarillo, TX"
+934,county,Chicot County,AR,
+2565,county,Sullivan County,MO,
+2325,county,Hansford County,TX,
+928,county,Catron County,NM,
+610,county,Logan County,NE,"North Platte, NE"
+1648,county,Daggett County,UT,
+2161,county,Caldwell Parish,LA,
+1051,county,Greene County,AL,"Tuscaloosa, AL"
+707,county,Scott County,IL,"Jacksonville, IL"
+2414,county,Marshall County,SD,
+1065,county,Griggs County,ND,
+240,county,Loup County,NE,
+1432,county,Thomas County,NE,
+331,county,Winn Parish,LA,
+1408,county,Sumter County,AL,
+79,county,Lee County,AR,
+3160,county,East Carroll Parish,LA,
+975,county,Dallas County,AR,
+2768,county,Lafayette County,AR,
+1078,county,Hardin County,IL,
+1072,county,Haakon County,SD,
+1567,county,Bullock County,AL,
+1542,county,Bennett County,SD,
+1017,county,Foster County,ND,
+736,county,Sully County,SD,
