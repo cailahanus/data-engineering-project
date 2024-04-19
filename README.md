@@ -19,8 +19,10 @@ Requirements:
 - Utilizes one additional library related to data engineering.
 	- Geopandas (Caila)
 	- Seaborn (Sam)
+   	- Pydantic (Gustavo)
 
 
 References: 
 https://data.nasdaq.com/databases/ZILLOW
 https://geopandas.org/en/stable/getting_started/introduction.html
+https://docs.pydantic.dev/latest/#pydantic-examples
